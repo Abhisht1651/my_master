@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteFriends Icon component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "flexDirection": "row",
+      "height": 26,
+      "opacity": 1,
+      "width": 150,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 26,
+        "width": 23,
+      }
+    }
+  >
+    <SvgMock />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 20,
+        "marginLeft": 15,
+        "marginTop": 5,
+        "width": 114,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 18,
+          "letterSpacing": -0.12,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Invite Friends
+    </Text>
+  </View>
+</View>
+`;

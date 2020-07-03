@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryFilterCard Rendering should match to snapshot 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 19.5,
+      "borderWidth": 1,
+      "height": 805,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderBottomWidth": 1,
+        "borderColor": "#E6ECED",
+        "height": 100.625,
+        "paddingTop": 24.642857142857142,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2C2A81",
+          "fontFamily": "helvetica",
+          "fontSize": 23.4,
+          "letterSpacing": -0.12,
+        }
+      }
+    >
+      Category Filter
+    </Text>
+  </View>
+  <FlatList
+    contentContainerStyle={
+      Object {
+        "alignItems": "center",
+      }
+    }
+    data={
+      Array [
+        Object {
+          "functionCall": [Function],
+          "id": 1,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "World",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 2,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "National",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 3,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "Sports",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 4,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "Science",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 5,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "Entertainment",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 6,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "Technology",
+        },
+        Object {
+          "functionCall": [Function],
+          "id": 7,
+          "image": Object {
+            "default": "",
+          },
+          "stateProp": false,
+          "title": "Others",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    nestedScrollEnabled={true}
+    numColumns={1}
+    onEndReachedThreshold={2}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "flex-end",
+          "borderColor": "#E6ECED",
+          "flexDirection": "row",
+          "height": 49.285714285714285,
+          "justifyContent": "space-between",
+          "width": "100%",
+        },
+        Object {},
+      ]
+    }
+  >
+    <View />
+    <ForwardRef
+      activeOpacity={0.6}
+      onPress={[Function]}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 23.4,
+            "letterSpacing": -0.09,
+            "paddingRight": 48,
+          }
+        }
+      >
+        Clear Selection
+      </Text>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 48.05357142857142,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#E6ECED",
+          "borderRadius": 3,
+          "height": 6.571428571428571,
+          "width": 90,
+        }
+      }
+    />
+  </View>
+</ForwardRef(SafeAreaView)>
+`;

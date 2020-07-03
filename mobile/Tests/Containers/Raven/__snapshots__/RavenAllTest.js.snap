@@ -1,0 +1,689 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 693,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "height": 58.623046875,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1.7369791666666665,
+          "height": 112.90364583333334,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginLeft": 50,
+            "marginTop": 22,
+            "width": 164,
+          }
+        }
+      >
+        <ForwardRef>
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#7B46E4",
+                  "borderBottomWidth": 3.39440203562341,
+                  "borderRadius": 1.697201017811705,
+                  "height": 60,
+                  "width": 107.99999999999999,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#22226B",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 32,
+                    "letterSpacing": -0.107421875,
+                    "lineHeight": 53.99999999999999,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Ravens
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#46C3F4",
+                  "borderRadius": 16,
+                  "flex": 1,
+                  "height": 36,
+                  "justifyContent": "center",
+                  "left": 116,
+                  "position": "absolute",
+                  "top": 10,
+                  "width": 56.00000000000001,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "BananaGrotesk-Regular",
+                    "fontSize": 24,
+                    "letterSpacing": -0.14,
+                    "lineHeight": 28.000000000000004,
+                  }
+                }
+              >
+                13
+              </Text>
+            </View>
+          </View>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": 295,
+            "marginTop": 22,
+            "position": "absolute",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "width": 160,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#A4A4C0",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 32,
+                  "letterSpacing": -0.22,
+                  "lineHeight": 53.99999999999999,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Messages
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#46C3F4",
+                "borderRadius": 16,
+                "flex": 1,
+                "height": 36,
+                "justifyContent": "center",
+                "left": 164,
+                "position": "absolute",
+                "top": 8.684895833333334,
+                "width": 56.00000000000001,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#FFFFFF",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": -0.14,
+                  "lineHeight": 28.000000000000004,
+                }
+              }
+            >
+              45
+            </Text>
+          </View>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 22,
+            "position": "absolute",
+            "right": 50,
+            "width": 60,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 48.63541666666667,
+                "width": 52.109375,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1.7369791666666665,
+          "height": 69.47916666666667,
+          "justifyContent": "center",
+          "zIndex": 2,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#F7F7F7",
+          "flex": 1,
+        }
+      }
+    >
+      <FlatList
+        data={
+          Array [
+            Object {
+              "friendcount": 69,
+              "id": "1",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "sent": true,
+              "sentimages": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "sentravenperson": "Paul Reith & 10 others",
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 47,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "2",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "3",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "4",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "5",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "6",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": 45,
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "7",
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "ravenimage": Object {
+                "default": "",
+              },
+              "sent": true,
+              "sentimages": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "sentravenperson": "Amelia Jones",
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": 45,
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "8",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": 45,
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+            Object {
+              "friendcount": 69,
+              "id": "9",
+              "images": Array [
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+                Object {
+                  "default": "",
+                },
+              ],
+              "item": Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              "name": "Amelia Jones",
+              "profilesource": Object {
+                "default": "",
+              },
+              "sent": false,
+              "storylineitem": Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            },
+          ]
+        }
+        disableVirtualization={false}
+        horizontal={false}
+        initialNumToRender={10}
+        keyExtractor={[Function]}
+        maxToRenderPerBatch={10}
+        numColumns={1}
+        onEndReachedThreshold={2}
+        removeClippedSubviews={false}
+        renderItem={[Function]}
+        scrollEventThrottle={50}
+        showsVerticalScrollIndicator={false}
+        updateCellsBatchingPeriod={50}
+        windowSize={21}
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "position": "absolute",
+          "right": 30,
+          "top": 193.67317708333331,
+          "zIndex": 3,
+        }
+      }
+    >
+      <DropDown2
+        applyModal={[Function]}
+        applyType={[Function]}
+        modal={false}
+        type="Filter by"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 75,
+      }
+    }
+  >
+    <BottomNav
+      activity={false}
+      activityonPress={[Function]}
+      chats={true}
+      chatsonPress={[Function]}
+      newsfeed={false}
+      newsfeedonPress={[Function]}
+      profile={false}
+      profileonPress={[Function]}
+      search={false}
+      searchonPress={[Function]}
+    />
+  </View>
+</View>
+`;

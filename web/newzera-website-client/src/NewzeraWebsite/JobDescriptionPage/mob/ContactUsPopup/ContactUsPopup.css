@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'),
+    url('../../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'),
+    url('../../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'),
+    url('../../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+.specifications-6-mob {
+  padding: 16.74vh 6.67vw 20.68vh 6.67vw;
+  /*background-color:green;*/
+}
+
+.box-6-mob {
+  /*width: 86.67vw;*/
+  /*height: 62.56vh;*/
+  border-radius: 1.97vh;
+  background-color: white;
+}
+
+.cross-mob {
+  text-align: right;
+  padding: 2.79vh 5.51vw 0 0;
+  /*height:2.78vh;*/
+  color: #7b46e4;
+  border-radius: 0.12vh;
+  opacity: 1;
+}
+
+.para-6-1-mob {
+  /*padding-top:;*/
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  font-size: 3.94vh;
+  line-height: 6.65vh;
+  color: #7b46e4;
+}
+
+.para-6-2-mob {
+  padding-top: 1vh;
+  text-align: center;
+  font-family: 'BananaGrotesk-Light';
+  font-size: 1.97vh;
+  line-height: 3.32vh;
+  color: #1f1f60;
+}
+.para-6-3-mob {
+  padding: 4.187vh 6.4vw 0 6.4vw;
+}
+
+.placeholder-class-mob {
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 2.21vh;
+  color: #8f8faf;
+  height: 3.7vh;
+  width: 100%;
+  /*padding: 0vh 0 2.46vh 2.63vw;*/
+  border-style: hidden;
+}
+
+.para-6-4-mob {
+  padding: 6.6vh 6.4vw 0 6.4vw;
+}
+.submit-6-mob {
+  width: 100%;
+  border-radius: 4.8vh;
+  height: 6.15vh;
+  background-color: #7b46e4;
+  color: white;
+  font-family: 'BananaGrotesk-Bold';
+  font-size: 1.97vh;
+  line-height: 2.21vh;
+}
+
+.para-6-5-mob {
+  padding: 2.95vh 0 0 0;
+  font-family: 'BananaGrotesk-Regular';
+  font-size: 1.72vh;
+  line-height: 1.97vh;
+  color: #8f8faf;
+  text-align: center;
+}
+
+.footer-icons-6-mob {
+  text-align: center;
+  padding-top: 2.7vh;
+  padding-bottom: 5.17vh;
+}
+
+.sidebar-mob {
+  background-color: white;
+  height: 100vh;
+  float: right;
+}
+
+.cross-sidebar-mob {
+  text-align: right;
+  padding: 3.2vh 5.51vw 0 0;
+  /*height:2.78vh;*/
+  color: #7b46e4;
+  border-radius: 0.12vh;
+  opacity: 1;
+}
+
+.icons-sidebar-mob {
+  padding: 6.61vh 19.336vw 0 5.2vw;
+  font-family: 'BananaGrotesk-Semibold';
+  color: #7b46e4;
+  font-size: 1.97vh;
+}

@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AttachContent AttachContent component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#2222234D",
+        "flexDirection": "column-reverse",
+        "height": 1334,
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "height": 533.9285714285714,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderBottomWidth": 1,
+            "borderColor": "#E6ECED",
+            "flexDirection": "row",
+            "height": 105.14285714285714,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 18,
+              "letterSpacing": -0.12,
+              "marginLeft": "auto",
+              "textAlign": "right",
+              "width": "50%",
+            }
+          }
+        >
+          Attach Content
+        </Text>
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "marginLeft": 95.75,
+              "marginRight": 25.97,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "aspectRatio": 1,
+                "height": 17.28,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "margin": 19.714285714285715,
+            }
+          }
+        />
+        <MediumThinnerButton
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Storyline"
+        />
+        <View
+          style={
+            Object {
+              "margin": 9.857142857142858,
+            }
+          }
+        />
+        <MediumThinnerButton
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Entity"
+        />
+        <View
+          style={
+            Object {
+              "margin": 9.857142857142858,
+            }
+          }
+        />
+        <MediumThinnerButton
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Poll"
+        />
+        <View
+          style={
+            Object {
+              "margin": 9.857142857142858,
+            }
+          }
+        />
+        <MediumThinnerButton
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Media"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#2222234D",
+          "height": 800.0714285714286,
+        }
+      }
+    />
+  </View>
+</Component>
+`;

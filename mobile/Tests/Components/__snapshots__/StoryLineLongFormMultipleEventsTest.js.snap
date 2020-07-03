@@ -1,0 +1,531 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineLongFormMultipleeEvents should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 40,
+      "borderStyle": "solid",
+      "borderWidth": 2,
+      "height": 1240,
+      "opacity": 1,
+      "width": 650,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 27,
+        "opacity": 1,
+        "width": "87.69%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.08,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        World
+      </Text>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#1F1F60",
+            "borderRadius": 2,
+            "height": 4,
+            "marginHorizontal": 10,
+            "width": 4,
+          }
+        }
+      />
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "width": 34,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#1F1F60",
+            "borderRadius": 2,
+            "height": 4,
+            "marginHorizontal": 10,
+            "width": 4,
+          }
+        }
+      />
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "width": 34,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#8F8FAF",
+            "borderColor": "#E6ECED",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 2,
+            "height": 40,
+            "justifyContent": "center",
+            "marginLeft": 14,
+            "opacity": 1,
+            "width": 108,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "opacity": 1,
+              "textAlign": "center",
+              "textAlignVertical": "center",
+            }
+          }
+        >
+          Ended
+        </Text>
+      </View>
+    </View>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <DefaultButton
+          disabled={false}
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Follow"
+        />
+      </ForwardRef>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginTop": 5,
+        "width": "87.69%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 26,
+            "width": 26,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.07,
+            "opacity": 1,
+            "paddingRight": 20,
+            "textAlign": "left",
+          }
+        }
+      >
+         
+        45K Reached
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 26,
+            "width": 26,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.07,
+            "opacity": 1,
+            "paddingRight": 20,
+            "textAlign": "left",
+          }
+        }
+      >
+         
+        241K Followers
+      </Text>
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "marginTop": 24,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "87.69%",
+      }
+    }
+  >
+    UK exit from the European Union
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#8F8FAF",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 24,
+        "letterSpacing": -0.07,
+        "marginTop": 5,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "87.69%",
+      }
+    }
+  >
+    Updated 
+    2m
+     ago
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginBottom": 28.5,
+        "marginTop": 26,
+        "width": "100%",
+      }
+    }
+  >
+    <Carousel
+      activeAnimationOptions={null}
+      activeAnimationType="timing"
+      activeSlideAlignment="center"
+      activeSlideOffset={20}
+      apparitionDelay={0}
+      autoplay={false}
+      autoplayDelay={1000}
+      autoplayInterval={3000}
+      callbackOffsetMargin={5}
+      containerCustomStyle={Object {}}
+      contentContainerCustomStyle={Object {}}
+      data={
+        Array [
+          Object {
+            "commentText": "34K comments",
+            "entityItems": Array [
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+            ],
+            "onPressCard": [Function],
+            "previewText": "Corbyn wins Labor conference Brexit vote in the latest polls",
+            "read": false,
+            "storyImage": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "commentText": "34K comments",
+            "entityItems": Array [
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+            ],
+            "onPressCard": [Function],
+            "previewText": "Corbyn wins Labor conference Brexit vote in the latest polls",
+            "read": false,
+            "storyImage": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "commentText": "34K comments",
+            "entityItems": Array [
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+            ],
+            "onPressCard": [Function],
+            "previewText": "Corbyn wins Labor conference Brexit vote in the latest polls",
+            "read": false,
+            "storyImage": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "commentText": "",
+            "entityItems": Array [
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+              Object {
+                "image": Object {
+                  "default": "",
+                },
+                "onPressEntity": [Function],
+              },
+            ],
+            "onPressCard": [Function],
+            "previewText": "",
+            "read": true,
+            "storyImage": null,
+          },
+        ]
+      }
+      enableMomentum={false}
+      enableSnap={true}
+      firstItem={0}
+      hasParallaxImages={false}
+      inactiveSlideOpacity={1}
+      inactiveSlideScale={1}
+      inactiveSlideShift={0}
+      itemWidth={584}
+      layout="default"
+      lockScrollTimeoutDuration={1000}
+      lockScrollWhileSnapping={false}
+      loop={false}
+      loopClonesPerSide={3}
+      onSnapToItem={[Function]}
+      renderItem={[Function]}
+      scrollEnabled={true}
+      shouldOptimizeUpdates={true}
+      slideStyle={Object {}}
+      sliderWidth={650}
+      swipeThreshold={20}
+      useScrollView={false}
+      vertical={false}
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 24.5,
+        "letterSpacing": 0,
+        "marginBottom": 15,
+        "opacity": 1,
+        "textAlign": "center",
+      }
+    }
+  >
+    July 25th,1991
+  </Text>
+  <timeline
+    active={0}
+    len={8}
+  />
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-around",
+        "marginBottom": "7%",
+        "marginTop": "8%",
+        "width": "100%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+</View>
+`;

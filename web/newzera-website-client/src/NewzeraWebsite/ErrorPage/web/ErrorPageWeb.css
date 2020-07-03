@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Thin';
+  src: local('BananaGrotesk-Thin'), url('../../Fonts/BananaGrotesk-Thin.otf') format('opentype');
+}
+
+.error{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.error-img{
+	height:37vh;
+}
+
+.t404{
+	font-size: 14.57vh;
+	line-height: 17.49vh;
+	color:#141B4E;
+	font-family: 'BananaGrotesk-Thin';
+}
+
+.time{
+	font-size: 3.05vh;
+	line-height: 3.67vh;
+	color:#141B4E;
+	text-align: 'center';
+	font-family: 'BananaGrotesk-Thin';
+}
+
+.home-button{
+  height: 5.09vh;
+  width: 14.84vw;
+  border-radius: 2.54vh;
+  font-size: 2.3vh;
+  background: #141B4E 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'),
+    url('../../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'),
+    url('../../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'),
+    url('../../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+.padd {
+  padding: 16.41vh 26.94vw 16.91vh 27.22vw;
+  background-color: #7b46e4;
+}
+.specifications {
+  /*padding: 16.41vh 27.22vw 0 27.22vw;*/
+  height: 66.67vh;
+  width: 45.83vw;
+  border-radius: 1.97vh;
+  background-color: white;
+}
+
+.cross {
+  text-align: right;
+  padding: 3.17vh 1.78vw 0 0;
+  font-size: 2.8vh;
+  color: #7b46e4;
+  border-radius: 0.12vh;
+  opacity: 1;
+}
+
+.contact {
+  padding: 0 0 0 3.26vw;
+  color: #7b46e4;
+  font-family: 'BananaGrotesk-Bold';
+  font-size: 5.18vh;
+  line-height: 6.67vh;
+}
+
+.stay-up {
+  padding: 2.22vh 0 0 3.42vw;
+  font-size: 1.97vh;
+  font-family: 'BananaGrotesk-Light';
+  color: #1f1f60;
+}
+
+.inputs {
+  padding: 5.67vh 0 0 3.33vw;
+  padding-right: 3.6vw;
+}
+.input-text {
+  height: 7.4vh;
+  border-radius: 3.7vh;
+  background-color: #f5f8f8;
+  width: 38.88vw;
+}
+.name {
+  font-family: 'BananaGrotesk-Semibold';
+  font-size: 1.72vh;
+  color: #1f1f60;
+  padding: 2.83vh 0 2.59vh 2.77vw;
+}
+.placeholder-class {
+  font-family: 'BananaGrotesk-Light';
+  font-size: 1.97vh;
+  color: #8f8faf;
+  padding: 2.5vh 0 2.46vh 2.63vw;
+
+  border-style: hidden;
+  background-color: #f5f8f8;
+}
+
+.submit-button {
+  padding: 3.7vh 3.6vw 0 32.5vw;
+}
+.submit-button-6 {
+  width: 9.7vw;
+  height: 7.4vh;
+  background: #7b46e4 0% 0% no-repeat padding-box;
+  border-radius: 4.75vh;
+  color: white;
+  font-size: 1.97vh;
+  font-family: 'BananaGrotesk-Bold';
+  text-align: center;
+}
+
+.footer-6 {
+  padding: 6.5vh 0 7.03vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer-6-content {
+  font-family: 'BananaGrotesk-Regular';
+  font-size: 1.97vh;
+  color: #8f8faf;
+  padding-left: 3.33vw;
+}
+
+.footer-icons {
+  text-align: right;
+  padding-right: 3.6vw;
+}

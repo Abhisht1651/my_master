@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#DDE4E6",
+      "borderRadius": 2,
+      "height": 2.5,
+      "width": 12,
+    }
+  }
+/>
+`;

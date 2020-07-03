@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OpenedRaven OpenedRaven component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "zIndex": 5,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 132,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "paddingLeft": 50,
+              "paddingTop": 46,
+            }
+          }
+        >
+          <ImageBackground
+            imageStyle={
+              Object {
+                "borderRadius": 22.17857142857143,
+              }
+            }
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 44.35714285714286,
+                "width": 44.35714285714286,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "default": "",
+                }
+              }
+              style={
+                Object {
+                  "height": 31.21428571428571,
+                  "left": 24.642857142857146,
+                  "top": 24.642857142857146,
+                  "width": 31.21428571428571,
+                }
+              }
+            />
+          </ImageBackground>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "width": 574,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 42.714285714285715,
+                "width": 464,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Light",
+                  "fontSize": 23,
+                  "lineHeight": 31.21428571428571,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Semibold",
+                  }
+                }
+              >
+                Mia Lewis
+              </Text>
+               opened your raven
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 41.07142857142857,
+              }
+            }
+          >
+            <ForwardRef
+              activeOpacity={1}
+              onPress={[Function]}
+            >
+              <Image
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 4.928571428571428,
+                    "width": 30,
+                  }
+                }
+              />
+            </ForwardRef>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 464,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-end",
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 4.928571428571428,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Light",
+                  "fontSize": 19.71428571428571,
+                  "lineHeight": 23,
+                }
+              }
+            >
+              34 min
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 34.5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingLeft": 53.99999999999999,
+            "paddingRight": 46,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SmallButton SmallButton component renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#7B46E4",
+        "borderRadius": 78,
+        "height": 100,
+        "width": 450,
+      },
+      Object {},
+    ]
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 32,
+            "letterSpacing": -0.18,
+            "lineHeight": 36,
+          }
+        }
+      >
+        Button
+      </Text>
+    </View>
+  </TouchableWithoutFeedback>
+</View>
+`;

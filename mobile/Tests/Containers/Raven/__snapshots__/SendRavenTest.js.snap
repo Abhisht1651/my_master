@@ -1,0 +1,470 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.623046875,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#E6ECED",
+        "height": 107.69270833333334,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 40,
+          "left": 53.99999999999999,
+          "position": "absolute",
+          "top": 25.186197916666664,
+          "width": 44,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Object {
+          "width": 400,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 40,
+            "left": 251,
+            "letterSpacing": -0.22,
+            "lineHeight": 53.99999999999999,
+            "position": "absolute",
+            "textAlign": "center",
+            "top": 16,
+          }
+        }
+      >
+        Send a Raven
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+        "height": 317.8671875,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 196.27864583333331,
+          "marginLeft": 50,
+          "marginRight": 50,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginBottom": 24.317708333333336,
+            "marginTop": 34.739583333333336,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "borderBottomWidth": 1.7369791666666665,
+          "borderColor": "#E6ECED",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "height": 121.58854166666666,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "left": 50,
+            "top": 25.458015267175572,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "white",
+              "borderColor": "#DCDCE9",
+              "borderRadius": 8.486005089058523,
+              "borderWidth": 1.7369791666666665,
+              "height": 17.369791666666668,
+              "width": 600,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#47C3F4",
+                "borderRadius": 5.2109375,
+                "height": 13.02734375,
+                "left": 2,
+                "position": "absolute",
+                "top": 1.7369791666666665,
+              },
+              Object {
+                "width": 59.2,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "height": 31.265625,
+            "left": 56.00000000000001,
+            "top": 43.42447916666667,
+            "width": 520,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <View>
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Regular",
+                    "fontSize": 28.000000000000004,
+                    "letterSpacing": -0.16,
+                    "lineHeight": 32,
+                  }
+                }
+              >
+                50
+                /
+                500
+                 have read the storyline
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "position": "absolute",
+                  "right": 10,
+                }
+              }
+            >
+              <Image
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 20,
+                    "top": 6,
+                    "width": 10,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "top": 35.608072916666664,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 36,
+            "left": 48,
+            "letterSpacing": -0.24,
+            "lineHeight": 44,
+          }
+        }
+      >
+        Raven to other friends
+      </Text>
+      <View
+        style={
+          Object {
+            "position": "absolute",
+            "right": 50,
+            "top": 4,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Text
+            style={
+              Object {
+                "color": "#8650E7",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 32,
+                "letterSpacing": -0.18,
+                "lineHeight": 36,
+              }
+            }
+          >
+            Send to all
+          </Text>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "top": 38.213541666666664,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#F5F8F8",
+              "borderRadius": 31.265625,
+              "height": 60.79427083333333,
+              "left": 50,
+              "marginBottom": 34.739583333333336,
+              "width": 650,
+            }
+          }
+        >
+          <SearchBarDefault
+            onSearchHandler={[Function]}
+            onSubmitEditing={[Function]}
+            onTouchStart={[Function]}
+            placeholder="Search"
+            value=""
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 538.4635416666666,
+              "marginLeft": 50,
+              "marginRight": 50,
+            }
+          }
+        >
+          <FlatList
+            data={
+              Array [
+                Object {
+                  "id": "1",
+                  "name": "Joey",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "group": true,
+                  "id": "2",
+                  "name": "Phoebe Buffay",
+                  "source1": Object {
+                    "default": "",
+                  },
+                  "source2": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "3",
+                  "name": "Ross",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "4",
+                  "name": "Monica",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "5",
+                  "name": "Chandler",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "6",
+                  "name": "Rachel",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "7",
+                  "name": "Gunther",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "8",
+                  "name": "Susanne",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+              ]
+            }
+            disableVirtualization={false}
+            horizontal={false}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsVerticalScrollIndicator={false}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "flex-end",
+          "height": 280,
+          "width": "100%",
+        }
+      }
+    >
+      <LinearGradient
+        colors={
+          Array [
+            "#FFFFFF00",
+            "#FFFFFF",
+          ]
+        }
+        end={
+          Object {
+            "x": 0,
+            "y": 1,
+          }
+        }
+        start={
+          Object {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "bottom": 52.109375,
+            }
+          }
+        >
+          <LargeButton
+            disabled={true}
+            onPress={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#CAB5F4",
+              }
+            }
+            title="Send"
+          />
+        </View>
+      </LinearGradient>
+    </View>
+  </View>
+</View>
+`;

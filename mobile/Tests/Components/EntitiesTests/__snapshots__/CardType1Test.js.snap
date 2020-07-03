@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardType1 Entity component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderColor": "#e6eced",
+      "borderRadius": 30,
+      "borderWidth": 2,
+      "flexDirection": "row",
+      "height": 170.85714285714286,
+      "width": 650,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 30,
+        "height": 120,
+        "marginLeft": 24,
+        "width": 120,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 30,
+          "flex": 1,
+          "height": 120,
+          "width": 120,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "marginLeft": 21,
+        "width": 210.00000000000003,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "#1f1f60",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28.000000000000004,
+            "letterSpacing": -0.2,
+            "textAlign": "left",
+          }
+        }
+      >
+        Default
+      </Text>
+    </View>
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.16,
+            "marginTop": 8.214285714285715,
+            "textAlign": "left",
+          }
+        }
+      >
+        0K Following
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "justifyContent": "center",
+        "marginLeft": "auto",
+        "marginRight": 40,
+      }
+    }
+  >
+    <RNGestureHandlerButton
+      collapsable={false}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      rippleColor={0}
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Array [
+                Object {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#7B46E4",
+                  "borderRadius": 32,
+                  "borderWidth": 2,
+                  "height": 60,
+                  "width": 150,
+                },
+              ],
+              Object {},
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+              }
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Array [
+                    Object {
+                      "color": "#7B46E4",
+                      "fontFamily": "BananaGrotesk-Bold",
+                      "fontSize": 28.000000000000004,
+                      "letterSpacing": -0.16,
+                      "lineHeight": 32,
+                    },
+                  ],
+                  Object {},
+                ]
+              }
+            >
+              Follow
+            </Text>
+          </View>
+        </View>
+      </View>
+    </RNGestureHandlerButton>
+  </View>
+</View>
+`;

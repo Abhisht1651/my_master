@@ -1,0 +1,1233 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteFriends2 InviteFriends2 component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 166,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Invite Friends
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 54.214285714285715,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 50,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 650,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          We’ve found 
+          118
+           connections
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 50,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 650,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                Object {
+                  "color": "#1F1F60",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 29.571428571428573,
+                  "lineHeight": 44.35714285714286,
+                }
+              }
+            >
+              Invite friends via email
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-end",
+                "paddingBottom": 6.571428571428571,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#7B46E4",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 23,
+                  "lineHeight": 26.285714285714285,
+                }
+              }
+            >
+              Invite All
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 50.92857142857143,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          key="0"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="0"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Amelia Jones
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          key="1"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="1"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Amelia Jones
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          key="2"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="2"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Amelia Jones
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 83.78571428571429,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 50,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 650,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                Object {
+                  "color": "#1F1F60",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 29.571428571428573,
+                  "lineHeight": 44.35714285714286,
+                }
+              }
+            >
+              Invite friends via contact
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-end",
+                "paddingBottom": 6.571428571428571,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 23,
+                    "lineHeight": 26.285714285714285,
+                  }
+                }
+              >
+                Invite All
+              </Text>
+            </ForwardRef>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 50.92857142857143,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          key="0"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="0"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Name 1 
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          key="1"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="1"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Name 2
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          key="2"
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 210.00000000000003,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 46,
+                }
+              }
+            >
+              <Image
+                key="2"
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "borderRadius": 49.285714285714285,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "width": 120,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 18.071428571428573,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "width": 132,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 23,
+                      "lineHeight": 24.642857142857146,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Name 3
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 30,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "borderWidth": 2,
+                    "height": 49.285714285714285,
+                    "width": 150,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "paddingTop": 8.214285714285715,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "#7B46E4",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    Invite
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "paddingLeft": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#E6ECED",
+                  "borderWidth": 1,
+                  "height": "100%",
+                  "width": 2,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

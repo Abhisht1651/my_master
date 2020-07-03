@@ -1,0 +1,163 @@
+.backgroundStorylineActive{
+	/*background-color: rgba(255,255,255,0.15);*/
+	width: 31.19vw;	
+}
+
+.backgroundcolorStorylineActive{
+	background-color: rgba(255,255,255,0.15);
+	border-radius: 1.388vh;
+	/*padding: 0 2.08vw 0 2.08vw;*/
+}
+.flex1StorylineActive{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.flex2StorylineActive{
+	display: flex;
+	flex-direction: row;	
+}
+
+.flex3StorylineActive{
+	display: flex;
+	flex-direction: row;	
+	justify-content: center;	
+}
+
+.commentTextStorylineActive{
+	font-size: 2.3vh;
+	line-height: 2.68vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:#8F8FAF;
+}
+
+.text1StorylineActive{
+	font-size: 2.4vh;
+	line-height: 2.68vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:white;
+}
+
+.text2StorylineActive{
+	font-size: 2.31vh;
+	line-height: 2.68vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:white;
+}
+
+.storylineActiveImg{
+	height: 2.74vh;
+}
+.dotStorylineActive{
+  height: 0.37vh;
+  width: 0.37vh;
+  background: white 0% 0% no-repeat padding-box;
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.75;
+  vertical-align: middle;
+}
+
+.followbutton1StorylineActive{
+  height: 5.09vh;
+  width: 7.18vw;
+  border-radius: 2.59vh;
+  border-color: #7B46E4;
+  border-width: 0.09vh;
+  border-style: solid;
+  font-size: 2.3vh;
+  background-color: inherit;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: #7B46E4;
+  cursor: pointer;
+}
+
+.reachImgStorylineActive{
+	height: 1.87vh;
+}
+
+.peopleImgStorylineActive{
+	height: 1.96vh;
+}
+
+.text3StorylineActive{
+	font-size: 2.03vh;
+	line-height: 2.31vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:#8F8FAF;
+}
+
+.text4StorylineActive{
+	font-size: 2.5vh;
+	line-height: 4.53vh;
+	font-family: 'BananaGrotesk-Medium';
+	color:#FFFFFF;
+}
+
+.text5StorylineActive{
+	font-size: 3.05vh;
+	line-height: 3.7vh;
+	font-family: 'BananaGrotesk-Medium';
+	color:#FFFFFF;
+	width: 22.9vw;
+}
+
+.text6StorylineActive{
+	font-size: 2.03vh;
+	line-height: 2.31vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:white;
+}
+
+.text7StorylineActive{
+	font-size: 2.6vh;
+	line-height: 2.96vh;
+	font-family: 'BananaGrotesk-Bold';
+	color:white;
+}
+
+
+.storyboxStorylineActive{
+	width: 26.56vw;
+	/*border-radius: 1.388vh;*/
+}
+
+.storyboxBorderStorylineActive{
+	border-style: solid;
+	border-color: rgba(255,255,255,0.15);
+	border-radius: 1.388vh;
+	border-width: 0.02vh;
+
+}
+
+
+.storyImageStorylineActive{
+	width: 100%;
+	/*border-top-left-radius:  1.388vh;*/
+	/*border-top-right-radius:  1.388vh;*/
+}
+
+.shareImgStorylineActive{
+	width: 1.44vw;
+}
+
+.ravenImgStorylineActive{
+	width: 1.05vw;
+}
+
+.reactImgStorylineActive{
+	width: 1.44vw;
+}
+
+.imgVotesStorylineActive{
+	height: 3.42vh;
+	width: 3.42vh;
+	border-radius: 50%;
+}
+
+.imgEntitesStorylineActive{
+	height: 3.42vh;
+	width: 3.42vh;
+}

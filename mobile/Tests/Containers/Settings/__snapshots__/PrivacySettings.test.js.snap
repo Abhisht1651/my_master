@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrivacySettings PrivacySettings component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 214,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Privacy
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 50,
+            "paddingTop": 49.28571428571429,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "width": 652,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Light",
+                    "fontSize": 26.285714285714285,
+                    "lineHeight": 44.35714285714286,
+                  }
+                }
+              >
+                Blocked accounts
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 5.618571428571429,
+                }
+              }
+            >
+              <ForwardRef
+                onPress={[Function]}
+              >
+                <Image
+                  source={
+                    Object {
+                      "default": "",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 22.17857142857143,
+                      "width": 12,
+                    }
+                  }
+                />
+              </ForwardRef>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingTop": 42.714285714285715,
+              }
+            }
+          >
+            <View>
+              <View
+                style={
+                  Object {
+                    "borderBottomColor": "#E6ECED",
+                    "borderBottomWidth": 1,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "paddingTop": 41.07142857142857,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 652,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View>
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Light",
+                      "fontSize": 26.285714285714285,
+                      "lineHeight": 44.35714285714286,
+                    }
+                  }
+                >
+                  Privacy Policy
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "paddingTop": 5.618571428571429,
+                  }
+                }
+              >
+                <ForwardRef
+                  onPress={[Function]}
+                >
+                  <Image
+                    source={
+                      Object {
+                        "default": "",
+                      }
+                    }
+                    style={
+                      Object {
+                        "height": 22.17857142857143,
+                        "width": 12,
+                      }
+                    }
+                  />
+                </ForwardRef>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "paddingTop": 42.714285714285715,
+                }
+              }
+            >
+              <View>
+                <View
+                  style={
+                    Object {
+                      "borderBottomColor": "#E6ECED",
+                      "borderBottomWidth": 1,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,260 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineShortCardDefault should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "height": "100%",
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 145,
+        "paddingBottom": 34,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginTop": "8.0745%",
+          "width": "87.3%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.08,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          World
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#1F1F60",
+              "borderRadius": 2,
+              "height": 4,
+              "marginHorizontal": 10,
+              "width": 4,
+            }
+          }
+        />
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "marginRight": 6,
+              "width": 34,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.08,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Trending
+        </Text>
+      </View>
+      <View>
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <X4SButton
+            disabled={true}
+            onPress={[Function]}
+            outline={false}
+            style={Object {}}
+            title="Following"
+          />
+        </ForwardRef>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginTop": "0.8%",
+          "width": "87.3%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 26,
+              "width": 26,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "opacity": 1,
+              "paddingRight": 40,
+              "textAlign": "left",
+            }
+          }
+        >
+           
+          45
+          K Reached
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 26,
+              "width": 26,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "opacity": 1,
+              "paddingRight": 40,
+              "textAlign": "left",
+            }
+          }
+        >
+           
+          45 friends Following
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": "7.4534%",
+          "width": "87.3%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 32,
+            "letterSpacing": -0.11,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        UK exit from the European Union
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.07,
+            "marginTop": "1.5527%",
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Updated 
+        2m
+         ago
+      </Text>
+    </View>
+  </View>
+  <Image
+    source={
+      Object {
+        "default": "",
+      }
+    }
+    style={
+      Object {
+        "borderBottomLeftRadius": 30,
+        "borderBottomRightRadius": 30,
+        "flex": 177,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,958 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 693,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <ScrollViewMock>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+              "paddingVertical": 2,
+              "width": 750,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 20,
+                "letterSpacing": -0.14,
+                "marginTop": 66.5,
+                "textAlign": "center",
+              }
+            }
+          >
+            Discover
+          </Text>
+          <ForwardRef
+            onPress={[Function]}
+            style={
+              Object {
+                "height": 35,
+                "marginVertical": 26.5,
+                "width": 649.5,
+              }
+            }
+          >
+            <SearchBarDefault
+              onSearchHandler={[Function]}
+              onSubmitEditing={[Function]}
+              onTouchStart={[Function]}
+              placeholder="Search"
+              value=""
+            />
+          </ForwardRef>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "width": 750,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 66.5,
+                "width": 649.5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#262676",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 36,
+                  "letterSpacing": -0.12,
+                  "lineHeight": 54,
+                  "opacity": 1,
+                  "textAlign": "left",
+                }
+              }
+            >
+              Trending Events
+            </Text>
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 32,
+                    "letterSpacing": -0.09,
+                    "opacity": 1,
+                    "textAlign": "right",
+                  }
+                }
+              >
+                View all
+              </Text>
+            </ForwardRef>
+          </View>
+          <View
+            style={
+              Object {
+                "width": 649.5,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                  "marginTop": 40,
+                  "paddingBottom": 20,
+                }
+              }
+            >
+              <storyLineShortestCard
+                category="World"
+                date="Sept 21, 2019"
+                description="Ray Contreras talks about the different accents"
+                source="Forbes"
+                storyImage={
+                  Object {
+                    "default": "",
+                  }
+                }
+                storyTitle="UK exit from the European Union"
+                trending={true}
+                type={2}
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                  "marginTop": 40,
+                  "paddingBottom": 20,
+                }
+              }
+            >
+              <storyLineShortestCard
+                category="World"
+                date="Sept 21, 2019"
+                description="Ray Contreras talks about the different accents"
+                source="Forbes"
+                storyImage={
+                  Object {
+                    "default": "",
+                  }
+                }
+                storyTitle="UK exit from the European Union"
+                trending={true}
+                type={2}
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                  "marginTop": 40,
+                  "paddingBottom": 20,
+                }
+              }
+            >
+              <storyLineShortestCard
+                category="World"
+                date="Sept 21, 2019"
+                description="Ray Contreras talks about the different accents"
+                source="Forbes"
+                storyImage={
+                  Object {
+                    "default": "",
+                  }
+                }
+                storyTitle="UK exit from the European Union"
+                trending={true}
+                type={2}
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                  "marginTop": 40,
+                  "paddingBottom": 50,
+                }
+              }
+            >
+              <storyLineShortestCard
+                category="World"
+                date="Sept 21, 2019"
+                description="Ray Contreras talks about the different accents"
+                source="Forbes"
+                storyImage={
+                  Object {
+                    "default": "",
+                  }
+                }
+                storyTitle="UK exit from the European Union"
+                trending={true}
+                type={2}
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "width": 750,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 41,
+                "width": 649.5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#262676",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 36,
+                  "letterSpacing": -0.12,
+                  "lineHeight": 54,
+                  "opacity": 1,
+                  "textAlign": "left",
+                }
+              }
+            >
+              Suggested Entities
+            </Text>
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 32,
+                    "letterSpacing": -0.09,
+                    "opacity": 1,
+                    "textAlign": "right",
+                  }
+                }
+              >
+                View all
+              </Text>
+            </ForwardRef>
+          </View>
+          <View
+            style={
+              Object {
+                "width": 750,
+              }
+            }
+          >
+            <Carousel
+              activeAnimationOptions={null}
+              activeAnimationType="timing"
+              activeSlideAlignment="center"
+              activeSlideOffset={20}
+              apparitionDelay={0}
+              autoplay={false}
+              autoplayDelay={1000}
+              autoplayInterval={3000}
+              callbackOffsetMargin={5}
+              containerCustomStyle={Object {}}
+              contentContainerCustomStyle={
+                Object {
+                  "marginLeft": -210,
+                }
+              }
+              data={
+                Array [
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "India",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "USA",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "India",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "USA",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "India",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "USA",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "India",
+                  },
+                  Object {
+                    "count": 52,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "USA",
+                  },
+                ]
+              }
+              enableMomentum={false}
+              enableSnap={true}
+              firstItem={0}
+              hasParallaxImages={false}
+              inactiveSlideOpacity={1}
+              inactiveSlideScale={1}
+              inactiveSlideShift={0}
+              itemWidth={225}
+              layout="default"
+              lockScrollTimeoutDuration={1000}
+              lockScrollWhileSnapping={false}
+              loop={false}
+              loopClonesPerSide={3}
+              renderItem={[Function]}
+              scrollEnabled={true}
+              shouldOptimizeUpdates={true}
+              slideStyle={Object {}}
+              sliderWidth={750}
+              swipeThreshold={20}
+              useScrollView={true}
+              vertical={false}
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "minHeight": 267,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 66.5,
+                "width": 649.5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#262676",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 36,
+                  "letterSpacing": -0.12,
+                  "lineHeight": 54,
+                  "opacity": 1,
+                  "textAlign": "left",
+                }
+              }
+            >
+              Suggested Storylines
+            </Text>
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 32,
+                    "letterSpacing": -0.09,
+                    "opacity": 1,
+                    "textAlign": "right",
+                  }
+                }
+              >
+                View all
+              </Text>
+            </ForwardRef>
+          </View>
+          <View
+            style={
+              Object {
+                "width": 750,
+              }
+            }
+          >
+            <Carousel
+              activeAnimationOptions={null}
+              activeAnimationType="timing"
+              activeSlideAlignment="center"
+              activeSlideOffset={20}
+              apparitionDelay={0}
+              autoplay={false}
+              autoplayDelay={1000}
+              autoplayInterval={3000}
+              callbackOffsetMargin={5}
+              containerCustomStyle={Object {}}
+              contentContainerCustomStyle={Object {}}
+              data={
+                Array [
+                  Object {
+                    "following": true,
+                    "friendsFollowing": "45 friends Following",
+                    "heading": "World",
+                    "reach": 45,
+                    "storyImage": Object {
+                      "default": "",
+                    },
+                    "storyTitle": "UK exit from the European Union",
+                    "trending": true,
+                    "updatedTime": "2m",
+                  },
+                  Object {
+                    "following": true,
+                    "friendsFollowing": "45 friends Following",
+                    "heading": "World",
+                    "reach": 45,
+                    "storyImage": Object {
+                      "default": "",
+                    },
+                    "storyTitle": "UK exit from the European Union",
+                    "trending": true,
+                    "updatedTime": "2m",
+                  },
+                  Object {
+                    "following": true,
+                    "friendsFollowing": "45 friends Following",
+                    "heading": "World",
+                    "reach": 45,
+                    "storyImage": Object {
+                      "default": "",
+                    },
+                    "storyTitle": "UK exit from the European Union",
+                    "trending": true,
+                    "updatedTime": "2m",
+                  },
+                ]
+              }
+              enableMomentum={false}
+              enableSnap={true}
+              firstItem={0}
+              hasParallaxImages={false}
+              inactiveSlideOpacity={1}
+              inactiveSlideScale={1}
+              inactiveSlideShift={0}
+              itemWidth={651.5}
+              layout="default"
+              lockScrollTimeoutDuration={1000}
+              lockScrollWhileSnapping={false}
+              loop={false}
+              loopClonesPerSide={3}
+              renderItem={[Function]}
+              scrollEnabled={true}
+              shouldOptimizeUpdates={true}
+              slideStyle={Object {}}
+              sliderWidth={750}
+              swipeThreshold={20}
+              useScrollView={false}
+              vertical={false}
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "width": 750,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 41,
+                "width": 649.5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#262676",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 36,
+                  "letterSpacing": -0.12,
+                  "lineHeight": 54,
+                  "opacity": 1,
+                  "textAlign": "left",
+                }
+              }
+            >
+              Suggested Friends
+            </Text>
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 32,
+                    "letterSpacing": -0.09,
+                    "opacity": 1,
+                    "textAlign": "right",
+                  }
+                }
+              >
+                View all
+              </Text>
+            </ForwardRef>
+          </View>
+          <View
+            style={
+              Object {
+                "width": 750,
+              }
+            }
+          >
+            <Carousel
+              activeAnimationOptions={null}
+              activeAnimationType="timing"
+              activeSlideAlignment="center"
+              activeSlideOffset={20}
+              apparitionDelay={0}
+              autoplay={false}
+              autoplayDelay={1000}
+              autoplayInterval={3000}
+              callbackOffsetMargin={5}
+              containerCustomStyle={Object {}}
+              contentContainerCustomStyle={
+                Object {
+                  "marginLeft": -210,
+                }
+              }
+              data={
+                Array [
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Ross",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Rachel",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Robin",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Ross",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Rachel",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Robin",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Ross",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Rachel",
+                  },
+                  Object {
+                    "count": 4,
+                    "profileIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "title": "Robin",
+                  },
+                ]
+              }
+              enableMomentum={false}
+              enableSnap={true}
+              firstItem={0}
+              hasParallaxImages={false}
+              inactiveSlideOpacity={1}
+              inactiveSlideScale={1}
+              inactiveSlideShift={0}
+              itemWidth={225}
+              layout="default"
+              lockScrollTimeoutDuration={1000}
+              lockScrollWhileSnapping={false}
+              loop={false}
+              loopClonesPerSide={3}
+              renderItem={[Function]}
+              scrollEnabled={true}
+              shouldOptimizeUpdates={true}
+              slideStyle={Object {}}
+              sliderWidth={750}
+              swipeThreshold={20}
+              useScrollView={true}
+              vertical={false}
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "minHeight": 267,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 66.5,
+                "width": 649.5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#262676",
+                  "fontFamily": "BananaGrotesk-Medium",
+                  "fontSize": 36,
+                  "letterSpacing": -0.12,
+                  "lineHeight": 54,
+                  "opacity": 1,
+                  "textAlign": "left",
+                }
+              }
+            >
+              Popular Polls
+            </Text>
+            <ForwardRef
+              onPress={[Function]}
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#7B46E4",
+                    "fontFamily": "BananaGrotesk-Bold",
+                    "fontSize": 32,
+                    "letterSpacing": -0.09,
+                    "opacity": 1,
+                    "textAlign": "right",
+                  }
+                }
+              >
+                View all
+              </Text>
+            </ForwardRef>
+          </View>
+          <View
+            style={
+              Object {
+                "width": 750,
+              }
+            }
+          >
+            <Carousel
+              activeAnimationOptions={null}
+              activeAnimationType="timing"
+              activeSlideAlignment="center"
+              activeSlideOffset={20}
+              apparitionDelay={0}
+              autoplay={false}
+              autoplayDelay={1000}
+              autoplayInterval={3000}
+              callbackOffsetMargin={5}
+              containerCustomStyle={Object {}}
+              contentContainerCustomStyle={Object {}}
+              data={
+                Array [
+                  Object {
+                    "isPollActive": true,
+                    "option": Array [
+                      "India",
+                      "West Indies",
+                      "Australia",
+                      "England",
+                    ],
+                    "question": "Who are your favorites for the World Cup 2020?",
+                    "timeLeft": 2,
+                    "voterIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "votes": 54,
+                  },
+                  Object {
+                    "isPollActive": true,
+                    "option": Array [
+                      "India",
+                      "West Indies",
+                      "Australia",
+                      "England",
+                    ],
+                    "question": "Who are your favorites for the World Cup 2020?",
+                    "timeLeft": 2,
+                    "voterIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "votes": 54,
+                  },
+                  Object {
+                    "isPollActive": true,
+                    "option": Array [
+                      "India",
+                      "West Indies",
+                      "Australia",
+                      "England",
+                    ],
+                    "question": "Who are your favorites for the World Cup 2020?",
+                    "timeLeft": 2,
+                    "voterIcons": Array [
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                      Object {
+                        "default": "",
+                      },
+                    ],
+                    "votes": 54,
+                  },
+                ]
+              }
+              enableMomentum={false}
+              enableSnap={true}
+              firstItem={0}
+              hasParallaxImages={false}
+              inactiveSlideOpacity={1}
+              inactiveSlideScale={1}
+              inactiveSlideShift={0}
+              itemWidth={651.5}
+              layout="default"
+              lockScrollTimeoutDuration={1000}
+              lockScrollWhileSnapping={false}
+              loop={false}
+              loopClonesPerSide={3}
+              renderItem={[Function]}
+              scrollEnabled={true}
+              shouldOptimizeUpdates={true}
+              slideStyle={Object {}}
+              sliderWidth={750}
+              swipeThreshold={20}
+              useScrollView={false}
+              vertical={false}
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+              "width": 750,
+            }
+          }
+        />
+      </View>
+    </ScrollViewMock>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 75,
+      }
+    }
+  >
+    <BottomNav
+      activity={false}
+      activityonPress={[Function]}
+      chats={false}
+      chatsonPress={[Function]}
+      newsfeed={false}
+      newsfeedonPress={[Function]}
+      profile={false}
+      profileonPress={[Function]}
+      search={true}
+      searchonPress={[Function]}
+    />
+  </View>
+</View>
+`;

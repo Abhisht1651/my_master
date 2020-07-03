@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.623046875,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#8F8FAF51",
+        "height": 178.90885416666669,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 40,
+          "left": 53.99999999999999,
+          "position": "absolute",
+          "top": 25.186197916666664,
+          "width": 44,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 40,
+            "left": 170,
+            "lineHeight": 53.99999999999999,
+            "position": "absolute",
+            "textAlign": "center",
+            "top": 13.895833333333332,
+          }
+        }
+      >
+        Friends Who Read Story
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "left": 50,
+          "marginBottom": 26.0546875,
+          "marginTop": 92.05989583333334,
+        }
+      }
+    >
+      <SearchBarDefault
+        onSearchHandler={[Function]}
+        onSubmitEditing={[Function]}
+        onTouchStart={[Function]}
+        placeholder="Search"
+        value=""
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "id": "1",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "2",
+            "name": "Heisenberg",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "3",
+            "name": "Black Widow",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "4",
+            "name": "Jonas Nick",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "5",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "6",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "7",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "8",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "9",
+            "name": "Amelia Jones",
+            "sent": "Read story 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      showsVerticalScrollIndicator={false}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+</View>
+`;

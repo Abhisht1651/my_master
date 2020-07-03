@@ -1,0 +1,14 @@
+.hello{
+  color: #8F8FAF;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 3vh;
+  line-height: 2.03vh;
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  text-align: center;
+  border-bottom-color: #DCDCE9;
+  background-color: black;
+  width:1.77vw;
+  margin-right: 0.6vw;
+}

@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineShortCardSharedChat should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#E6ECED80",
+      "borderRadius": 30,
+      "minHeight": 301,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "opacity": 1,
+        "width": "88%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 32,
+          "letterSpacing": -0.11,
+          "marginVertical": 34,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Sophie
+       send you a storyline!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#DCDCE9",
+        "borderBottomWidth": 1,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginTop": 30,
+        "width": "88%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "lineHeight": 32,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      World
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#1F1F60",
+          "borderRadius": 2,
+          "height": 4,
+          "marginHorizontal": 10,
+          "width": 4,
+        }
+      }
+    />
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 34,
+          "width": 34,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "lineHeight": 32,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+       Trending
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginTop": 10,
+        "width": "88%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 26,
+          "width": 26,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 24,
+          "letterSpacing": -0.07,
+          "lineHeight": 28,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+       Reached 
+      45
+      K people
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "lineHeight": 44,
+        "marginTop": 14,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "88%",
+      }
+    }
+  >
+    Brexit: UK exit from the European Union
+  </Text>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "height": 256,
+        "marginBottom": 30,
+        "marginTop": 8,
+        "width": "88%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 15,
+          "height": "100%",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+</View>
+`;

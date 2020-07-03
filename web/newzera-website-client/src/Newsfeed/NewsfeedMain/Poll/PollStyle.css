@@ -1,0 +1,173 @@
+.backgroundPoll{
+	background-color: rgba(255,255,255,0.15);
+	border-radius: 1.388vh;
+}
+
+.textPollHead{
+	font-family: 'BananaGrotesk-Regular';
+	font-size: 2.22vh;
+	line-height: 2.5vh;
+	color: #8F8FAF;
+}
+.text1Poll{
+	font-family: 'BananaGrotesk-Medium';
+	font-size: 3.05vh;
+	line-height: 3.7vh;
+	color: #FFFFFF;
+}
+
+.text2Poll{
+	font-family: 'BananaGrotesk-Regular';
+	font-size: 2.3vh;
+	line-height: 4.44vh;
+	color: #8F8FAF;	
+}
+
+.text3Poll{
+	font-family: 'BananaGrotesk-Regular';
+	font-size: 1.94vh;
+	line-height: 2.22vh;
+	color: #8F8FAF;	
+}
+
+.text4Poll{
+	font-family: 'BananaGrotesk-Regular';
+	font-size: 2.22vh;
+	line-height: 2.5vh;
+	color: white;	
+}
+
+.text5Poll{
+	font-family: 'BananaGrotesk-Bold';
+	font-size: 2.1vh;
+	line-height: 2.4vh;
+	color: white;	
+}
+
+.text6Poll{
+	font-family: 'BananaGrotesk-Light';
+	font-size: 2.3vh;
+	line-height: 4.44vh;
+	color: #8F8FAF;	
+}
+
+.text7Poll{
+	font-family: 'BananaGrotesk-Regular';
+	font-size: 2.4vh;
+	line-height: 2.68vh;
+	color: #8F8FAF;	
+}
+
+.text8Poll{
+	font-family: 'BananaGrotesk-Bold';
+	font-size: 2.68vh;
+	line-height: 2.96vh;
+	color: white;	
+}
+
+.text9Poll{
+	font-family: 'BananaGrotesk-Light';
+	font-size: 2.22vh;
+	line-height: 4.25vh;
+	color: white;		
+}
+
+.flex1Poll{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.flex2Poll{
+	display: flex;
+	flex-direction: row;
+}
+.imgVotesPoll{
+	height: 4.82vh;
+	width: 4.82vh;
+	border-radius: 50%;
+}
+
+.pollendedImgPoll{
+	height: 2.7vh;
+	width: 2.7vh;
+	border-radius: 50%;	
+}
+
+.commentImgPoll{
+	height: 2.1vh;
+}
+
+.winimgPoll{
+	height: 3.43vh;
+	width: 3.43vh;
+	border-radius: 50%;	
+}
+
+
+.boxPoll{
+	width: 100%;
+	background-color: #E6ECED;
+	border-radius: 0.185vh;
+}
+
+.winningColor1Poll{
+	background: linear-gradient(to right, #7B46E4 53%, #E6ECED 0% );
+}
+
+.winningColor2Poll{
+	background: linear-gradient(to right, #47C3F4 12%, #E6ECED 0% );
+}
+
+.shareImgPoll{
+	height:2.22vh; 
+	
+}
+
+.msgImgPoll{
+	height:2.5vh; 
+	
+}
+
+.reactImgPoll{
+	height:2.22vh; 
+	
+}
+
+.bigCirclePoll{
+	height:4.27vh;
+	width: 4.27vh;
+	border-color: #8F8FAF;
+	border-style: solid;
+	border-width: 0.1vh;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.smallCirclePoll{
+	margin: 0.854vh;
+	height:2.56vh;
+	width: 2.56vh;
+	border-radius: 50%;
+	background-color: #43F9AC;
+}
+
+.voteButtonPoll{
+  height: 6.83vh;
+  width: 26.44vw;
+  border-radius: 3.56vh;
+  border-color: #7B46E4;
+  border-width: 0.09vh;
+  border-style: solid;
+  font-size: 2.59vh;
+  background-color: inherit;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: #7B46E4;
+  cursor: pointer;
+}
+
+.pollImgPoll{
+	height: 1.62vh;
+}
+

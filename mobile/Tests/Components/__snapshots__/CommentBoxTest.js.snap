@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShortPoll CommentBox component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 36,
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginTop": 15,
+          "width": "100%",
+          "zIndex": 100,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1B2062",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 28,
+            "letterSpacing": -0.08,
+            "lineHeight": 32,
+            "marginLeft": 34,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Jammie Rice
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#002468",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "lineHeight": 28,
+              "opacity": 0.5,
+              "textAlign": "left",
+            }
+          }
+        >
+          32 Days
+        </Text>
+        <View
+          style={
+            Object {
+              "paddingLeft": 10,
+              "paddingRight": 20,
+            }
+          }
+        >
+          <DropDown3
+            content={
+              Array [
+                "Edit Comment",
+                "Delete Comment",
+              ]
+            }
+            getOption={[Function]}
+            headerTitle="Options"
+            zIndex={1}
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 15,
+          "width": "89%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#112265",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.08,
+            "lineHeight": 32,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        When Robert Mueller broke his silence in May, his main point was that his long-awaited report spoke for itself.
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginBottom": 20,
+          "marginTop": 17,
+          "width": "89%",
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginRight": 50,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "marginRight": 3,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 26,
+              "letterSpacing": -0.07,
+              "lineHeight": 30,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+           
+          1
+           Reply
+        </Text>
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 26,
+              "letterSpacing": -0.07,
+              "lineHeight": 30,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+           
+          450
+           Boosts
+        </Text>
+      </ForwardRef>
+    </View>
+  </View>
+</View>
+`;

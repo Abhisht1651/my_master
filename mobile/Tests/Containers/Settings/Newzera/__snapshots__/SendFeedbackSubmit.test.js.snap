@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SendFeedbackSubmit SendFeedbackSubmit component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 147,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Send Feedback
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 404.14285714285717,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 76,
+          "paddingRight": 76,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 29.571428571428573,
+            "lineHeight": 36.142857142857146,
+            "textAlign": "center",
+          }
+        }
+      >
+        Thank you for your feedback!
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 150,
+          "paddingRight": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#7B46E4",
+            "borderRadius": 63.25,
+            "height": 82.14285714285714,
+            "width": 450,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 26.285714285714285,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "white",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 26.285714285714285,
+                  "lineHeight": 29.571428571428573,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Submit Again
+            </Text>
+          </View>
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+</View>
+`;

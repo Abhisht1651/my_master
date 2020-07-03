@@ -1,0 +1,303 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageRequest MessageRequest component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "flexDirection": "column-reverse",
+      "height": 1334,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderColor": "#E6ECED",
+        "borderTopWidth": 1.7369791666666665,
+        "height": 286.6015625,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <MediumThinnerButton
+      onPress={[Function]}
+      outline={false}
+      style={Object {}}
+      title="Allow"
+    />
+    <View
+      style={
+        Object {
+          "height": 26.0546875,
+        }
+      }
+    />
+    <MediumThinnerButton
+      onPress={[Function]}
+      outline={true}
+      style={Object {}}
+      title="Deny"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+        "flex": 693,
+      }
+    }
+  >
+    <ForwardRef(AnimatedComponentWrapper)
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Array [
+          Object {
+            "flex": 1,
+            "width": 900,
+          },
+          Object {
+            "transform": Array [
+              Object {
+                "translateX": 0,
+              },
+            ],
+          },
+        ]
+      }
+    >
+      <LinearGradient
+        colors={
+          Array [
+            "#F7F7F7",
+            "#FFFFFF",
+          ]
+        }
+        end={
+          Object {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        locations={
+          Array [
+            0.83,
+            0.17,
+          ]
+        }
+        start={
+          Object {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": "100%",
+              "marginRight": 30,
+            }
+          }
+        >
+          <FlatList
+            data={
+              Array [
+                Object {
+                  "date": "Yesterday",
+                  "id": "1",
+                  "messages": Array [
+                    Object {
+                      "id": "1123",
+                      "texts": Array [
+                        Object {
+                          "msg": "I’m not so good with the advice… Can I interest you in a sarcastic comment?",
+                          "msg_id": "1007",
+                          "userid": "1",
+                        },
+                        Object {
+                          "msg": "Unless your name is Google stop acting like you know everything.",
+                          "msg_id": "1008",
+                          "userid": "1",
+                        },
+                      ],
+                      "time": "11:29 am",
+                      "userid": "1",
+                    },
+                  ],
+                },
+              ]
+            }
+            disableVirtualization={false}
+            horizontal={false}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onContentSizeChange={[Function]}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+      </LinearGradient>
+    </ForwardRef(AnimatedComponentWrapper)>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#E6ECED",
+        "height": 119.8515625,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "left": 50,
+          "position": "absolute",
+          "top": 34.739583333333336,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Object {
+          "left": 118,
+          "top": 17.369791666666668,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 38.213541666666664,
+            "height": 76.42708333333333,
+            "position": "absolute",
+            "width": 76.42708333333333,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "left": 236,
+          "position": "absolute",
+          "top": 26.0546875,
+          "width": 400,
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 31.265625,
+          }
+        }
+      >
+         
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 20.84375,
+            "top": 5.2109375,
+          }
+        }
+      >
+        45 friends in common
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row-reverse",
+          "position": "absolute",
+          "right": 53.99999999999999,
+          "top": 34.739583333333336,
+        }
+      }
+    >
+      <ForwardRef>
+        <View>
+          <DropDown3
+            content={
+              Array [
+                "Mute notifications",
+                "Block user",
+                "Report profile",
+              ]
+            }
+            getOption={[Function]}
+            headerTitle="Options"
+            zIndex={1}
+          />
+        </View>
+      </ForwardRef>
+      <MuteNotifications
+        getOption={[Function]}
+        isModalVisible={false}
+        onBtnPress={[Function]}
+        onClose={[Function]}
+      />
+      <ReportUserPopUp
+        action={[Function]}
+        isModalVisible={false}
+        onBtnPress={[Function]}
+        onClose={[Function]}
+      />
+    </View>
+  </View>
+</View>
+`;

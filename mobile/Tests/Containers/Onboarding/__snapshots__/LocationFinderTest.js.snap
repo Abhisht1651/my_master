@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LocationFinder rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 100.74479166666667,
+        "justifyContent": "space-between",
+        "paddingHorizontal": 50,
+        "width": "100%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 31.265625,
+            "resizeMode": "contain",
+            "width": 36,
+          }
+        }
+      />
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <View>
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 61.497400000000006,
+              "resizeMode": "contain",
+              "tintColor": "#7B46E4",
+              "width": 34.575,
+            }
+          }
+        />
+      </View>
+    </ForwardRef>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "marginBottom": 255.3359375,
+        "marginHorizontal": 180,
+        "marginTop": 138.95833333333334,
+        "textAlign": "center",
+      }
+    }
+  >
+    Looking For Your Current Location
+  </Text>
+  <SvgMock />
+</View>
+`;

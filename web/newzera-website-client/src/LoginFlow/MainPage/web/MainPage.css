@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'), url('../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+a{
+  text-decoration: none;
+  color: currentColor;
+}
+
+.flexLoginFlow{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.flex2LoginFlow{
+	display: flex;
+	flex-direction: row;
+}
+
+.flex3LoginFlow{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.newzeraLogoLoginFlow{
+	height:4.07vh;
+}
+
+.button1LoginFlow{
+  height: 4.167vh;
+  width: 11.25vw;
+  border-radius: 2.03vh;
+  border-color: white;
+  border-style: solid;
+  border-width: 0.09vh;
+  font-size: 1.48vh;
+  background: black 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Regular';
+  color: white;
+  cursor: pointer;
+}
+
+.button2LoginFlow{
+  height: 4.167vh;
+  width: 11.25vw;
+  border-radius: 2.03vh;
+  /*border-color: white;*/
+  border-width: 0.09vh;
+  font-size: 1.48vh;
+  background: white 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Regular';
+  color: #707070;
+  cursor: pointer;
+}
+
+.text1LoginFlow{
+	font-size: 5.55vh;
+	line-height: 6.20vh;
+	color:white;
+	font-family: 'BananaGrotesk-Regular';
+}
+
+.text2LoginFlow{
+	font-size: 2.77vh;
+	line-height: 3.10vh;
+	color:white;
+	font-family: 'BananaGrotesk-Regular';
+}
+
+.boxLoginFlow{
+	width:31.25vw;
+	height: 37.96vh;
+	background-color: white;
+}
+
+.box2LoginFlow{
+	width:64.58vw;
+	height: 46.2vh;
+	background-color: white;
+}
+
+.box3LoginFlow{
+	width:20vh;
+	height: 20vh;
+	background-color: white;
+}
+
+.footerLoginFlow{
+  background-color: white;
+}
+
+.footer1LoginFlow{
+  padding:6.48vh 0 0 8.69vw;
+  font-size: 1vh;
+  font-family: 'BananaGrotesk-Regular';
+}
+
+.footer2LoginFlow{
+  padding:0 0 0 8.69vw;
+  font-size: 1.38vh;
+  line-height: 2.96vh;
+  font-family: 'BananaGrotesk-Regular';
+}
+
+.footer3LoginFlow{
+  padding:0 0 0 6.40vw;
+  font-size: 1.38vh;
+  line-height: 2.96vh;
+  font-family: 'BananaGrotesk-Regular';
+}
+
+.footer4LoginFlow{
+  padding:0 0 0 7.12vw;
+  font-size: 1.38vh;
+  line-height: 1.57vh;
+  font-family: 'BananaGrotesk-Regular';
+}
+
+.footer5LoginFlow{
+  padding:0 0 0 15.41vw;
+  font-size: 1.11vh;
+  line-height: 2.96vh;
+  font-family: 'BananaGrotesk-Regular';
+}
+.socialImgLoginflow{
+  height: 1.29vh;
+}
+
+.emailinputLoginFlow::placeholder{
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 1.11vh;
+  line-height: 2.29vh;
+  color: black;
+}
+
+.emailinputLoginFlow{
+  color: black;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 1.11vh;
+  line-height: 2.29vh;
+  /*border-style: hidden;*/
+  border-radius: 1.85vh;
+  border-color: black;
+  /*background-color: black;*/
+  width:11.25vw;
+  /*height: 3.7vh;*/
+  padding: 1vh 0 0.5vh 1.04vw;
+}
+
+.button5LoginFlow{
+  height: 3.7vh;
+  width: 4.58vw;
+  border-radius: 1.85vh;
+  /*border-color: white;*/
+  border-width: 0.09vh;
+  font-size: 1.48vh;
+  background:black 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Regular';
+  color: white;
+  cursor: pointer;
+}

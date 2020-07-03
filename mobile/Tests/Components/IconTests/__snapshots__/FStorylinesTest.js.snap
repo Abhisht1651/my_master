@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FStorylines Icon component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "flexDirection": "row",
+      "height": 27,
+      "opacity": 1,
+      "width": 198,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 27,
+        "width": 24,
+      }
+    }
+  >
+    <SvgMock />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 20,
+        "marginLeft": 10,
+        "marginTop": 4,
+        "width": 165,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 18,
+          "letterSpacing": -0.12,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Followed Storylines
+    </Text>
+  </View>
+</View>
+`;

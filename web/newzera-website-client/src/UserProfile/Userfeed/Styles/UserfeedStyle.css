@@ -1,0 +1,98 @@
+.widthBackUF{
+	width:29.26vw;
+	background-color: black;
+}
+
+.flex1UF{
+	display: flex;
+	flex-direction: row;
+}
+
+.flex2UF{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.flex3UF{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.userImgUF{
+	width: 1.9vw;
+	height: 1.9vw;
+	border-style: solid;
+	border-width: 0.15vw;
+	border-color: white;
+	border-radius: 50%;
+}
+
+.text1UF{
+	font-size: 1.85vh;
+	line-height: 4.2vh;
+	color:white;
+	font-family: 'BananaGrotesk-Regular';
+}
+
+.text2UF{
+	font-size: 1.85vh;
+	line-height: 4.2vh;
+	color:white;
+	font-family: 'BananaGrotesk-Bold';
+}
+
+.text3UF{
+	font-size: 1.75vh;
+	line-height: 1.94vh;
+	color:#8F8FAF;
+	font-family: 'BananaGrotesk-Regular';
+}
+
+.text4UF{
+	font-size: 1.94vh;
+	/*line-height: 4.35vh;*/
+	color:#1F1F60;
+	font-family: 'BananaGrotesk-Regular';	
+	text-align: center;
+	vertical-align: middle;
+}
+
+.text5UF{
+	font-size: 1.85vh;
+	line-height: 4.5vh;
+	color:#8F8FAF;
+	font-family: 'BananaGrotesk-Light';
+}
+.ellipsesUF{
+	height:0.5vh;
+	width: 1.4vw;
+}
+
+.entitiesImg{
+	height:4.77vh;
+	width: 4.77vh;
+}
+
+.friendsImg{
+	height:4.77vh;
+	width: 4.77vh;
+	border-radius: 50%;	
+}
+
+.msgBlueImgUI{
+	width:1.43vw;
+	height: 2.21vh;
+}
+
+
+.box1UF{
+	height:4.77vh;
+	width: 4.77vh;
+	border-style: solid;
+	border-color: #E6ECED;
+	border-width: 0.09vh;
+	border-radius: 0.46vh;
+	background-color: white;	
+}

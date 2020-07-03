@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FriendRequestList should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderBottomWidth": 1,
+      "borderColor": "#E6ECED",
+      "flexDirection": "row",
+      "height": 213.57142857142856,
+      "paddingTop": 32.857142857142854,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#7B46E4",
+        "borderRadius": 8,
+        "height": 16,
+        "justifyContent": "center",
+        "marginLeft": 24,
+        "marginRight": 16,
+        "marginTop": 24.642857142857142,
+        "width": 16,
+      }
+    }
+  />
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "center",
+        "aspectRatio": 1,
+        "borderColor": "#DCDCE9",
+        "borderRadius": 50,
+        "borderWidth": 1,
+        "height": 73.28571428571428,
+        "justifyContent": "center",
+        "marginRight": 26,
+      }
+    }
+  >
+    <MediumProfilePicture
+      image={
+        Object {
+          "default": "",
+        }
+      }
+      onPress={[Function]}
+      type={1}
+    />
+  </ForwardRef>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-start",
+        "width": "50%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 30,
+          "letterSpacing": -0.12,
+        }
+      }
+    >
+      Armando Santanera
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 23,
+          "letterSpacing": -0.08,
+        }
+      }
+    >
+      48 Friends in Common
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginBottom": 26.285714285714285,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginRight": 20,
+          }
+        }
+      >
+        <X3SButton
+          onPress={[Function]}
+          outline={false}
+          style={
+            Object {
+              "textAlign": "center",
+              "width": 150,
+            }
+          }
+          title="Accept"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginRight": 20,
+          }
+        }
+      >
+        <X3SButton
+          onPress={[Function]}
+          outline={true}
+          style={
+            Object {
+              "textAlign": "center",
+              "width": 150,
+            }
+          }
+          title="Ignore"
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "marginRight": 52,
+        "marginTop": "1%",
+        "width": "23%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 20,
+          "letterSpacing": -0.07,
+        }
+      }
+    >
+      1 day ago
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteFriends1 InviteFriends1 component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 166,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Invite Friends
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 390.99999999999994,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "paddingLeft": 50,
+          "paddingRight": 50,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "aspectRatio": 1.625,
+            "backgroundColor": "white",
+            "borderColor": "#DCDCE9",
+            "borderRadius": 24.642857142857142,
+            "borderWidth": 1,
+            "height": 328.57142857142856,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "aspectRatio": 1,
+              "height": 98.57142857142857,
+              "marginBottom": 13.142857142857142,
+              "marginTop": 49.285714285714285,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 98.57142857142858,
+                "width": 95.28571428571428,
+              }
+            }
+          />
+        </View>
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 72.28571428571428,
+              "justifyContent": "center",
+              "marginBottom": 4.928571428571429,
+              "width": "61.53%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 30,
+                "letterSpacing": -0.12,
+                "lineHeight": 36.14285714285714,
+                "textAlign": "center",
+              }
+            }
+          >
+            Import contacts from your phone
+          </Text>
+        </ForwardRef>
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "height": 27.928571428571427,
+              "width": "61.53%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#8F8FAF",
+                "fontFamily": "BananaGrotesk-Light",
+                "fontSize": 23,
+                "textAlign": "center",
+              }
+            }
+          >
+            Get access to my adresss book
+          </Text>
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrivacyPolicy PrivacyPolicy component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 160,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Privacy Policy
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingLeft": 50,
+          "paddingTop": 65.71428571428572,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 650,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 26.285714285714285,
+              "lineHeight": 29.571428571428573,
+            }
+          }
+        >
+          The Data Policy
+        </Text>
+        <View
+          style={
+            Object {
+              "paddingTop": 41.07142857142857,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26.285714285714285,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </Text>
+        <View
+          style={
+            Object {
+              "paddingTop": 69,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 26.285714285714285,
+              "lineHeight": 29.571428571428573,
+            }
+          }
+        >
+          The Data Policy
+        </Text>
+        <View
+          style={
+            Object {
+              "paddingTop": 41.07142857142857,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26.285714285714285,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

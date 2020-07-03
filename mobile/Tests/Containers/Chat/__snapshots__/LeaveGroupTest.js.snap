@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeaveGroup LeaveGroup component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#2222234D",
+        "height": 1334,
+        "justifyContent": "center",
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "borderRadius": 15,
+          "height": 527.3571428571429,
+          "width": 650,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#E6ECED",
+            "flexDirection": "row",
+            "height": 87.07142857142857,
+            "justifyContent": "center",
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "marginLeft": "auto",
+              "marginRight": 41.94,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "aspectRatio": 1,
+                "height": 17.28,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "width": "80%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 30,
+              "letterSpacing": -0.14,
+            }
+          }
+        >
+          Do you want to leave
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 30,
+              "letterSpacing": -0.14,
+            }
+          }
+        >
+          the group?
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "height": 26.285714285714285,
+              "width": "100%",
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 24,
+              "letterSpacing": -0.11,
+            }
+          }
+        >
+          You will not be able to see new
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 24,
+              "letterSpacing": -0.11,
+            }
+          }
+        >
+          notifications from this chat.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 65.71428571428571,
+            "marginTop": "auto",
+          }
+        }
+      >
+        <MediumThinButton
+          disabled={false}
+          onPress={[Function]}
+          style={Object {}}
+          title="Leave"
+        />
+      </View>
+    </View>
+  </View>
+</Component>
+`;

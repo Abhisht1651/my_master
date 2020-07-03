@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Activities Activities component renders correctly 1`] = `
+<View>
+  <View>
+    <View
+      style={
+        Object {
+          "marginBottom": 43.42447916666667,
+          "marginTop": 43.42447916666667,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "position": "absolute",
+          }
+        }
+      >
+        <Image
+          style={
+            Object {
+              "borderRadius": 28.000000000000004,
+              "height": 56.00000000000001,
+              "width": 56.00000000000001,
+            }
+          }
+        />
+      </View>
+      <ActivityText />
+      <View
+        style={
+          Object {
+            "marginLeft": 80,
+            "marginRight": 40,
+            "marginTop": 6,
+          }
+        }
+      >
+        <View>
+          <View>
+            <Text
+              style={
+                Object {
+                  "color": "#1F1F60",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": -0.14,
+                  "lineHeight": 28.000000000000004,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#1F1F60",
+                "borderRadius": 2,
+                "height": 4,
+                "marginLeft": 78,
+                "marginTop": 12,
+                "position": "absolute",
+                "width": 4,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": 84,
+                "marginRight": 2,
+                "position": "absolute",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8989A7",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 24,
+                }
+              }
+            >
+               
+            </Text>
+          </View>
+        </View>
+        <View />
+        <View />
+      </View>
+      <View />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#E6ECED",
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "position": "absolute",
+        "right": -20,
+        "zIndex": 1,
+      }
+    }
+  >
+    <DropDown />
+  </View>
+</View>
+`;

@@ -1,0 +1,344 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUp rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "left": 54,
+          "position": "absolute",
+          "top": 2.60546875,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 31.265625,
+            "resizeMode": "contain",
+            "width": 36,
+          }
+        }
+      />
+    </ForwardRef>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 217.12239583333334,
+            "marginTop": 159.80208333333334,
+            "resizeMode": "contain",
+            "width": 376.9244791666667,
+          }
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            },
+            Object {
+              "marginTop": 78.1640625,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "width": 550,
+            }
+          }
+        >
+          <TextInputComponent
+            borderBottomColor="#7B46E4"
+            borderBottomStyle={Object {}}
+            captureText={[Function]}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            placeholder="Full name"
+            placeholderTextColor="#8F8FAF"
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "marginTop": 57.3203125,
+              },
+              Object {
+                "width": 550,
+              },
+            ]
+          }
+        >
+          <TextInputComponent
+            borderBottomColor="#7B46E4"
+            borderBottomStyle={Object {}}
+            captureText={[Function]}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            placeholder="Email / Phone No."
+            placeholderTextColor="#8F8FAF"
+          />
+          <View
+            style={
+              Object {
+                "height": 24.317708333333336,
+                "justifyContent": "center",
+                "marginTop": 8.684895833333334,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#FF1742",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 25,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "marginTop": 26.0546875,
+              },
+              Object {
+                "width": 550,
+              },
+            ]
+          }
+        >
+          <TextInputForPassword
+            borderBottomColor="#7B46E4"
+            borderBottomStyle={
+              Object {
+                "borderBottomColor": "#7B46E4",
+              }
+            }
+            captureText={[Function]}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            placeholder="Password"
+            placeholderTextColor="#8F8FAF"
+          />
+          <View
+            style={
+              Object {
+                "height": 24.317708333333336,
+                "justifyContent": "center",
+                "marginTop": 8.684895833333334,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#08C981",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 28,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                 
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#FF1742",
+                      "fontFamily": "BananaGrotesk-Regular",
+                      "fontSize": 25,
+                    },
+                    undefined,
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "marginTop": 26.0546875,
+              },
+              Object {
+                "width": 550,
+              },
+            ]
+          }
+        >
+          <TextInputForPassword
+            borderBottomColor="#7B46E4"
+            borderBottomStyle={Object {}}
+            captureText={[Function]}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            placeholder="Confirm Password"
+            placeholderTextColor="#8F8FAF"
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "marginHorizontal": 102.00000000000001,
+            "marginTop": 71.21614583333334,
+          },
+        ]
+      }
+    >
+      <SmallCheckbox
+        onPress={[Function]}
+      />
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "marginLeft": "2.7%",
+          }
+        }
+      >
+        I accept the 
+        <Text
+          style={
+            Object {
+              "color": "#7B46E4",
+            }
+          }
+        >
+          Terms of Use
+        </Text>
+         &
+         
+        <Text
+          style={
+            Object {
+              "color": "#7B46E4",
+            }
+          }
+        >
+          Privacy Policy.
+        </Text>
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          Object {
+            "marginTop": 95.53385416666667,
+          },
+        ]
+      }
+    >
+      <MediumButton
+        disabled={true}
+        onPress={null}
+        outline={false}
+        style={Object {}}
+        title="Continue"
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginTop": 86.84895833333334,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 31,
+            }
+          }
+        >
+          Already a user? 
+        </Text>
+        <ClickableText
+          onPress={[Function]}
+          style={Object {}}
+          text="Log in"
+          textStyle={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+            }
+          }
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

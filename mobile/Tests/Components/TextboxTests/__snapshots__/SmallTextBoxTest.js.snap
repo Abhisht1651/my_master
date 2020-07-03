@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SmallTextBox should match to snapshot 1`] = `
+<KeyboardAvoidingView
+  behavior="padding"
+  enabled={true}
+  keyboardVerticalOffset={0}
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 10,
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 29.57142857142857,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.11,
+            "margin": 0,
+            "padding": 0,
+          }
+        }
+      >
+        Write a bio
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#F5F8F8",
+          "borderRadius": 10,
+          "flex": 1,
+          "marginTop": 19.714285714285715,
+          "width": "100%",
+        }
+      }
+    >
+      <Component
+        allowFontScaling={true}
+        autoCorrect={false}
+        maxLength={75}
+        multiline={true}
+        onChangeText={[Function]}
+        placeholder="Up to 75 characters."
+        placeholderTextColor="#8F8FAF"
+        rejectResponderTermination={true}
+        selectionColor="#7B46E4"
+        spellCheck={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 21,
+              "height": 134.71428571428572,
+              "marginLeft": "5.43%",
+              "marginTop": 32.857142857142854,
+              "paddingTop": 0,
+              "textAlignVertical": "top",
+              "width": "94.20%",
+            },
+            Object {
+              "color": "#000080",
+            },
+            Object {},
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>
+</KeyboardAvoidingView>
+`;

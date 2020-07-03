@@ -1,0 +1,163 @@
+.storiesNewsfeed{
+	height: 12.86vh;
+	width: 5.12vw;
+	z-index: 1;
+}
+
+.storiesNameNewsfeed{
+	height: 4.02vh;
+	/*width: 4.02vh;*/
+}
+
+
+.gfd{
+	height: 120px;
+	width: 50px;
+	border-style: solid;
+	border-radius: 12px;
+	border-color: white;
+	border-width: 20px;
+	margin: 5px;
+}
+
+
+.white-grad {
+  --b:0.1vh;  /* border width*/
+  --r:1.388vh; /* the radius */
+
+  --g:transparent calc(100% - var(--b)),#fff calc(100% - var(--b) + 1px) 100%;
+  color: #313149;
+  /*padding: 0.3vh;*/
+  display: inline-block;
+  /*margin: 0.3vh;*/
+  position:relative;
+  z-index:0;
+}
+.white-grad:before {
+  content:"";
+  position:absolute;
+  z-index:-1;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  border: var(--b) solid transparent;
+  border-radius: var(--r);
+  background: var(--c,linear-gradient(to bottom, #4BBFF3, #B27CF3)) border-box;
+  -webkit-mask:
+    radial-gradient(farthest-side at bottom left ,var(--g)) top     right/var(--r) var(--r),
+    radial-gradient(farthest-side at top right   ,var(--g)) bottom  left /var(--r) var(--r),
+    radial-gradient(farthest-side at top left    ,var(--g)) bottom  right/var(--r) var(--r),
+    radial-gradient(farthest-side at bottom right,var(--g)) top     left /var(--r) var(--r);
+  -webkit-mask-repeat:no-repeat;
+  
+  mask:
+    radial-gradient(farthest-side at bottom left ,var(--g)) top     right/var(--r) var(--r),
+    radial-gradient(farthest-side at top right   ,var(--g)) bottom  left /var(--r) var(--r),
+    radial-gradient(farthest-side at top left    ,var(--g)) bottom  right/var(--r) var(--r),
+    radial-gradient(farthest-side at bottom right,var(--g)) top     left /var(--r) var(--r),
+    linear-gradient(#fff,#fff) top   /100% var(--b),
+    linear-gradient(#fff,#fff) bottom/100% var(--b),
+    linear-gradient(#fff,#fff) left  /var(--b) 100%,
+    linear-gradient(#fff,#fff) right /var(--b) 100%;
+  mask-repeat:no-repeat;
+}
+
+
+.white-grad2 {
+  --b:0.4vh;  /* border width*/
+  --r:2.01vh; /* the radius */
+
+  --g:transparent calc(100% - var(--b)),#fff calc(100% - var(--b) + 1px) 100%;
+  color: #313149;
+  /*padding: 0.3vh;*/
+  display: inline-block;
+  /*margin: 0.3vh;*/
+  position:relative;
+  z-index:0;
+}
+.white-grad2:before {
+  content:"";
+  position:absolute;
+  z-index:-1;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  border: var(--b) solid transparent;
+  border-radius: var(--r);
+  background: var(--c,linear-gradient(to bottom, #4BBFF3, #B27CF3)) border-box;
+  -webkit-mask:
+    radial-gradient(farthest-side at bottom left ,var(--g)) top     right/var(--r) var(--r),
+    radial-gradient(farthest-side at top right   ,var(--g)) bottom  left /var(--r) var(--r),
+    radial-gradient(farthest-side at top left    ,var(--g)) bottom  right/var(--r) var(--r),
+    radial-gradient(farthest-side at bottom right,var(--g)) top     left /var(--r) var(--r);
+  -webkit-mask-repeat:no-repeat;
+  
+  mask:
+    radial-gradient(farthest-side at bottom left ,var(--g)) top     right/var(--r) var(--r),
+    radial-gradient(farthest-side at top right   ,var(--g)) bottom  left /var(--r) var(--r),
+    radial-gradient(farthest-side at top left    ,var(--g)) bottom  right/var(--r) var(--r),
+    radial-gradient(farthest-side at bottom right,var(--g)) top     left /var(--r) var(--r),
+    linear-gradient(#fff,#fff) top   /100% var(--b),
+    linear-gradient(#fff,#fff) bottom/100% var(--b),
+    linear-gradient(#fff,#fff) left  /var(--b) 100%,
+    linear-gradient(#fff,#fff) right /var(--b) 100%;
+  mask-repeat:no-repeat;
+}
+
+
+.borderStoryNewsfeed{
+	
+}
+
+.containerNewsfeed{
+	position: relative;
+	width: 5.12vw;
+	height: 12.86vh;
+	
+	/*border-image-source: linear-gradient(to bottom, red , blue);*/
+	 /*border-image: linear-gradient(to bottom, green 0%, red 100%);*/
+	padding: 0.23vh;
+}
+
+.overlayNewsfeed{
+	position: absolute;
+  	left:1.7vw;
+  	top:10.85vh;
+  	height: 4.02vh;
+  	padding: 0.23vh;
+}
+
+.allStoriesNewsfeed::-webkit-scrollbar {
+  display: none;
+}
+.allStoriesNewsfeed{
+	/*position: fixed;*/
+    
+    
+
+    width: 29.07vw; /* viewport width */
+    height: 20vh; /* viewport height */
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.storiesNametextNewsfeed{
+	font-size: 1.85vh;
+	line-height: 2.03vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:#8F8FAF;
+}
+
+.categoryFiltertextNewsfeed{
+	font-size: 1.67vh;
+	line-height: 1.85vh;
+	font-family: 'BananaGrotesk-Light';
+	color:white;
+	opacity: 0.75;
+}
+
+.categoryFilterImgNewsfeed{
+	width: 1.4vw;
+}

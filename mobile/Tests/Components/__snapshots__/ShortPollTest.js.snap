@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShortPoll ShortPoll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "minHeight": 120,
+      "minWidth": 300,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": 32,
+        "width": "88%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 36,
+          "letterSpacing": -0.11,
+          "lineHeight": 44,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Who are your favorites for the World Cup 2020?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 14,
+        "paddingBottom": 18,
+        "width": "88%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginLeft": 8,
+          }
+        }
+      >
+        <Image
+          key="0"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+        <Image
+          key="1"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+        <Image
+          key="2"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#082366",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.1,
+              "opacity": 0.5,
+              "textAlign": "left",
+            }
+          }
+        >
+          54
+          K votes
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 34,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": 6,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#002468",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "opacity": 0.5,
+              "textAlign": "right",
+            }
+          }
+        >
+          2 hours left
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

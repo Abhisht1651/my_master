@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FEntities Icon component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "flexDirection": "row",
+      "height": 27,
+      "opacity": 1,
+      "width": 180,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 27,
+        "width": 24,
+      }
+    }
+  >
+    <SvgMock />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 20,
+        "marginLeft": 13,
+        "marginTop": 4,
+        "width": 145,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 18,
+          "letterSpacing": -0.12,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Followed Entities
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlockUser BlockUser component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#2222234D",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 15,
+          "height": 329,
+          "maxWidth": "86.66%",
+          "width": "86.66%",
+        }
+      }
+    >
+      <ForwardRef
+        activeOpacity={1}
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "height": 19,
+            "justifyContent": "flex-end",
+            "marginTop": 23.25,
+            "width": "84%",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 19,
+              "tintColor": "#1E1E60",
+              "width": 19,
+            }
+          }
+        />
+      </ForwardRef>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "marginTop": 3.97,
+            "width": "82.71%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 30,
+              "letterSpacing": -0.14,
+            }
+          }
+        >
+          Block Profile
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 16,
+              "height": 45,
+              "letterSpacing": -0.11,
+              "lineHeight": 22.5,
+              "marginTop": 6,
+              "textAlign": "center",
+              "width": 170,
+            }
+          }
+        >
+          Are you sure you want to block this profile?
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 14,
+              "height": 70,
+              "lineHeight": 23,
+              "marginTop": 23,
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          They won’t be able to see your posts, activities or stories. Newzera won’t let them know you blocked them.
+        </Text>
+      </View>
+      <ForwardRef
+        activeOpacity={1}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#7B46E4",
+            "borderRadius": 39,
+            "height": 50,
+            "justifyContent": "center",
+            "marginTop": 38,
+            "width": "84%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 16,
+              "letterSpacing": -0.09,
+            }
+          }
+        >
+          Block
+        </Text>
+      </ForwardRef>
+    </View>
+  </View>
+</Component>
+`;

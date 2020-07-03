@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewConversation NewConversation component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": "column",
+      "height": 1334,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#E6ECED",
+        "borderBottomWidth": 2,
+        "elevation": 2,
+        "height": 192.2142857142857,
+        "paddingHorizontal": 48,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 101.85714285714286,
+          "justifyContent": "space-between",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 34,
+                "width": 44,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 40,
+            "letterSpacing": -0.28,
+          }
+        }
+      >
+        New Conversation
+      </Text>
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Text
+          style={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32,
+              "letterSpacing": -0.18,
+            }
+          }
+        >
+          Invite
+        </Text>
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 73.92857142857143,
+          "width": "100%",
+        }
+      }
+    >
+      <SearchBarDefault
+        onSearchHandler={[Function]}
+        onSubmitEditing={[Function]}
+        onTouchStart={[Function]}
+        placeholder="Search"
+        value=""
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "paddingHorizontal": 50,
+        "paddingTop": 55.857142857142854,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 944.6428571428571,
+          "width": "100%",
+        }
+      }
+    >
+      <ScrollViewMock>
+        <View>
+          <FlatList
+            data={
+              Array [
+                Object {
+                  "id": "1",
+                  "name": "Amelia Jones",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "2",
+                  "name": "John Doe",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "3",
+                  "name": "Jim Moriarty",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "4",
+                  "name": "Ash Ketchum",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "5",
+                  "name": "Richard Hendricks",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "6",
+                  "name": "Carry Minati",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "7",
+                  "name": "John Snow",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "8",
+                  "name": "Dwanye Johnson",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "9",
+                  "name": "James Anderson",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+                Object {
+                  "id": "10",
+                  "name": "Robin Van Persie",
+                  "source": Object {
+                    "default": "",
+                  },
+                },
+              ]
+            }
+            disableVirtualization={false}
+            horizontal={false}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsVerticalScrollIndicator={false}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+      </ScrollViewMock>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 180.71428571428572,
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <LargeThinButton
+      disabled={false}
+      onPress={[Function]}
+      other={false}
+      outline={false}
+      style={Object {}}
+      title="Start"
+    />
+  </View>
+</View>
+`;

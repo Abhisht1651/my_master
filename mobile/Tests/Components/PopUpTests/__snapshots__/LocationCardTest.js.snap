@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LocationCard Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 19.5,
+      "height": 460,
+      "justifyContent": "center",
+      "maxWidth": "90.27%",
+      "width": 650,
+    }
+  }
+>
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "height": 31.21428571428571,
+        "justifyContent": "flex-end",
+        "width": "84%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 31.21428571428571,
+        }
+      }
+    />
+  </ForwardRef>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-start",
+        "height": "21%",
+        "justifyContent": "center",
+        "marginVertical": 8.214285714285714,
+        "paddingLeft": 31,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 23.4,
+          "letterSpacing": -0.12,
+          "marginBottom": 18.07142857142857,
+        }
+      }
+    >
+      Current location
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 20.8,
+          "letterSpacing": -0.11,
+        }
+      }
+    >
+      Rajiv Chowk, Gurgao, India.
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "height": "12%",
+        "marginBottom": 57.5,
+        "marginTop": 27.928571428571427,
+        "width": "10%",
+      }
+    }
+  >
+    <SvgMock />
+  </View>
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#7B46E4",
+        "borderRadius": 50.7,
+        "height": "18%",
+        "justifyContent": "center",
+        "marginVertical": 8.214285714285714,
+        "width": "84%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 20.8,
+          "letterSpacing": -0.09,
+        }
+      }
+    >
+      Continue
+    </Text>
+  </ForwardRef>
+</View>
+`;

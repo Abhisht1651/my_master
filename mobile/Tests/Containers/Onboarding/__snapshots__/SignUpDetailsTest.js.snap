@@ -1,0 +1,375 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUpDetails rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <Header
+    container={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+    count={1}
+    isProgressBarVisible={true}
+    onPressBack={[Function]}
+    onPressRight={[Function]}
+    progressContainer={Object {}}
+    rightText="Skip"
+    rightTextStyle={Object {}}
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 0.5,
+      }
+    }
+  />
+  <ScrollViewMock
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "flex": 1,
+        "marginTop": 2,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 37,
+          "marginLeft": "13.3%",
+          "marginTop": "4.6%",
+        }
+      }
+    >
+      Personalize your profile
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginTop": 79.373,
+        }
+      }
+    >
+      <View>
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "aspectRatio": 1,
+              "backgroundColor": "#1F1F6016",
+              "borderRadius": 87.7772,
+              "height": 175.42100000000002,
+              "justifyContent": "center",
+              "width": 175.42100000000002,
+            }
+          }
+        >
+          <View>
+            <SvgMock
+              height="100%"
+            />
+          </View>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "bottom": 0,
+            "position": "absolute",
+            "right": 250.20000000000002,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderColor": "#E6ECED",
+              "borderRadius": 44.422200000000004,
+              "borderWidth": 1,
+              "height": 88.711,
+              "justifyContent": "center",
+              "width": 88.711,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 46.1564,
+                "resizeMode": "contain",
+                "width": 55.361000000000004,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginTop": 78.1640625,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 550,
+          }
+        }
+      >
+        <TextInputComponent
+          borderBottomColor="#7B46E4"
+          borderBottomStyle={Object {}}
+          captureText={[Function]}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          placeholder="Full name"
+          placeholderTextColor="#8F8FAF"
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 231.01822916666669,
+              "width": 552,
+            },
+            Object {
+              "marginTop": 60.794270833333336,
+            },
+          ]
+        }
+      >
+        <SmallTextBox
+          captureText={[Function]}
+          placeholder="Up to 75 characters."
+          placeholderColor="#8F8FAF"
+          textBoxStyle={Object {}}
+          textColor="#000080"
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 60.794270833333336,
+            },
+            Object {
+              "width": 550,
+            },
+          ]
+        }
+      >
+        <TextInputComponent
+          borderBottomColor="#7B46E4"
+          borderBottomStyle={Object {}}
+          captureText={[Function]}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          placeholder="Profession"
+          placeholderTextColor="#8F8FAF"
+        />
+        <Text
+          style={
+            Object {
+              "bottom": 15.6328125,
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26,
+              "position": "absolute",
+              "right": 0,
+            }
+          }
+        >
+          (Optional)
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 60.794270833333336,
+            },
+            Object {
+              "width": 550,
+            },
+          ]
+        }
+      >
+        <TextInputComponent
+          borderBottomColor="#7B46E4"
+          borderBottomStyle={Object {}}
+          captureText={[Function]}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          placeholder="Date of Birth"
+          placeholderTextColor="#8F8FAF"
+        />
+        <Text
+          style={
+            Object {
+              "bottom": 15.6328125,
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26,
+              "position": "absolute",
+              "right": 0,
+            }
+          }
+        >
+          (dd/mm/yyyy)
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 60.794270833333336,
+            },
+            Object {
+              "width": 550,
+            },
+            Object {
+              "height": 53.36,
+            },
+          ]
+        }
+      >
+        <DropDown1
+          getOption={[Function]}
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 60.794270833333336,
+            },
+            Object {
+              "width": 550,
+            },
+            Object {
+              "height": 53.36,
+            },
+          ]
+        }
+      >
+        <SearchSuggestion2
+          placeholder="Search"
+          rightEndText="(Optional)"
+          zIndex={1}
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "marginBottom": 266.8,
+          "marginLeft": 102.00000000000001,
+          "marginTop": 15.6328125,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 7.91,
+            "width": 7.22,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 21,
+            "marginLeft": 9.04,
+            "textAlign": "center",
+          }
+        }
+      >
+        Use Current location
+      </Text>
+    </View>
+  </ScrollViewMock>
+  <HideWithKeyboard>
+    <LinearGradient
+      colors={
+        Array [
+          "#FFFFFF00",
+          "#F7F7F7",
+        ]
+      }
+      end={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      start={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Object {
+          "alignItems": "center",
+          "bottom": 0,
+          "height": 237.45200000000003,
+          "justifyContent": "center",
+          "position": "absolute",
+          "width": "100%",
+        }
+      }
+    >
+      <LargeButton
+        disabled={false}
+        onPress={[Function]}
+        style={Object {}}
+        title="Continue"
+      />
+    </LinearGradient>
+  </HideWithKeyboard>
+</View>
+`;

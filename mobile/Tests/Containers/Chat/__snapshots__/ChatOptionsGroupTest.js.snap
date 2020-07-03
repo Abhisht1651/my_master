@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatOptions ChatOptions component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <FlatList
+    data={
+      Array [
+        Object {
+          "id": "1",
+        },
+        Object {
+          "groupname": "",
+          "grpicon": Object {
+            "default": "",
+          },
+          "id": "2",
+          "members": Array [
+            Object {
+              "activeStatus": "Active 45 minutes",
+              "id": "5",
+              "image": Object {
+                "default": "",
+              },
+              "name": "Tony",
+            },
+            Object {
+              "activeStatus": "Active 45 minutes",
+              "id": "6",
+              "image": Object {
+                "default": "",
+              },
+              "name": "Steve",
+            },
+            Object {
+              "activeStatus": "Active 45 minutes",
+              "id": "7",
+              "image": Object {
+                "default": "",
+              },
+              "name": "Banner",
+            },
+            Object {
+              "activeStatus": "Active 45 minutes",
+              "id": "8",
+              "image": Object {
+                "default": "",
+              },
+              "name": "Natasha",
+            },
+            Object {
+              "activeStatus": "Active 45 minutes",
+              "id": "9",
+              "image": Object {
+                "default": "",
+              },
+              "name": "HawkEye",
+            },
+          ],
+        },
+        Object {
+          "id": "3",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    listKey={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onEndReachedThreshold={2}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={
+      Array [
+        0,
+      ]
+    }
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+</View>
+`;

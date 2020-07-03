@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReportUser ReportUser component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#2222234D",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 15,
+          "height": 908.5,
+          "width": "87.69%",
+        }
+      }
+    >
+      <ForwardRef
+        activeOpacity={1}
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "height": 19,
+            "justifyContent": "flex-end",
+            "marginTop": 32.857142857142854,
+            "width": "84%",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 19,
+              "tintColor": "#1E1E60",
+              "width": 19,
+            }
+          }
+        />
+      </ForwardRef>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 180.7142857142857,
+            "marginTop": 18.892857142857142,
+            "width": "82.71%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 30,
+              "letterSpacing": -0.14,
+            }
+          }
+        >
+          Report a user
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 16,
+              "height": 45,
+              "letterSpacing": -0.11,
+              "lineHeight": 22.5,
+              "marginTop": 3.2857142857142856,
+              "textAlign": "center",
+              "width": 260,
+            }
+          }
+        >
+          Tell us more why you want to report this user.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 230,
+            "justifyContent": "space-between",
+            "width": "84.61%",
+          }
+        }
+      >
+        <ForwardRef
+          activeOpacity={1}
+          onPress={[Function]}
+          style={
+            Object {
+              "flexDirection": "row",
+              "height": 75.57142857142857,
+              "justifyContent": "flex-start",
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "aspectRatio": 1,
+                "borderColor": "#8F8FAF",
+                "borderRadius": 50,
+                "borderWidth": 1,
+                "height": 41.07142857142857,
+                "justifyContent": "center",
+                "marginRight": "3%",
+                "marginTop": 3,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#262676",
+                "fontFamily": "BananaGrotesk-Light",
+                "fontSize": 21,
+                "width": "88%",
+              }
+            }
+          >
+            This person is using their account for spam.
+          </Text>
+        </ForwardRef>
+        <ForwardRef
+          activeOpacity={1}
+          onPress={[Function]}
+          style={
+            Object {
+              "flexDirection": "row",
+              "height": 75.57142857142857,
+              "justifyContent": "flex-start",
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "aspectRatio": 1,
+                "borderColor": "#8F8FAF",
+                "borderRadius": 50,
+                "borderWidth": 1,
+                "height": 41.07142857142857,
+                "justifyContent": "center",
+                "marginRight": "3%",
+                "marginTop": 3,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#262676",
+                "fontFamily": "BananaGrotesk-Light",
+                "fontSize": 21,
+                "width": "88%",
+              }
+            }
+          >
+            This person is posting inappropiate or vulgar content.
+          </Text>
+        </ForwardRef>
+        <ForwardRef
+          activeOpacity={1}
+          onPress={[Function]}
+          style={
+            Object {
+              "flexDirection": "row",
+              "height": 75.57142857142857,
+              "justifyContent": "flex-start",
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "aspectRatio": 1,
+                "borderColor": "#8F8FAF",
+                "borderRadius": 50,
+                "borderWidth": 1,
+                "height": 41.07142857142857,
+                "justifyContent": "center",
+                "marginRight": "3%",
+                "marginTop": 3,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#262676",
+                "fontFamily": "BananaGrotesk-Light",
+                "fontSize": 21,
+                "width": "88%",
+              }
+            }
+          >
+            This person is being abusive towards or threatening other users.
+          </Text>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 185.64285714285714,
+            "marginTop": 46,
+            "width": "84.61%",
+          }
+        }
+      >
+        <Component
+          multiline={true}
+          placeholder="Add comments about why you are reporting this user,"
+          placeholderTextColor="#9A9AB8"
+          selectionColor="#7B46E4"
+          style={
+            Object {
+              "backgroundColor": "#F5F8F8",
+              "borderRadius": 15,
+              "color": "#000080",
+              "flex": 1,
+              "paddingLeft": "5%",
+              "paddingTop": 27.928571428571427,
+              "textAlignVertical": "top",
+            }
+          }
+        />
+      </View>
+      <ForwardRef
+        activeOpacity={1}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#7B46E4",
+            "borderRadius": 39,
+            "height": 50,
+            "justifyContent": "center",
+            "marginTop": 42.714285714285715,
+            "width": "84%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 16,
+              "letterSpacing": -0.09,
+            }
+          }
+        >
+          Report
+        </Text>
+      </ForwardRef>
+    </View>
+  </View>
+</Component>
+`;

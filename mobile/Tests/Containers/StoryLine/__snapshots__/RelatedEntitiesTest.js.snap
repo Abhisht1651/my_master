@@ -1,0 +1,294 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RelatedEntities Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "height": 67.5,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 122,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "marginLeft": 37.5,
+            "width": 44,
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.08,
+          "marginLeft": 142.5,
+          "opacity": 1,
+        }
+      }
+    >
+      Related Entities
+    </Text>
+  </View>
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "marginTop": 22,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="3"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="4"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="5"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="6"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="7"
+        style={
+          Object {
+            "marginBottom": 10,
+            "width": 645,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'BananaGrotesk-Extralight';
+  src: local('BananaGrotesk-Extralight'), url('../../Fonts/BananaGrotesk-Extralight.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Thin';
+  src: local('BananaGrotesk-Thin'), url('../../Fonts/BananaGrotesk-Thin.otf') format('opentype');
+}
+
+.error{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.oopsMob{
+  font-size: 3.07vh;
+  line-height: 4.8vh;
+  color:#141B4E;
+  font-family: 'BananaGrotesk-Thin';
+}
+
+.error-imgMob{
+  width:100vw;
+}
+
+.t404Mob{
+  font-size: 7.63vh;
+  line-height: 9.23vh;
+  color:#141B4E;
+  font-family: 'BananaGrotesk-Thin';
+}
+
+.timeMob{
+  font-size: 1.97vh;
+  line-height: 2.58vh;
+  color:#141B4E;
+  text-align: 'center';
+  font-family: 'BananaGrotesk-Extralight';
+}
+
+.home-buttonMob{
+  height: 7.38vh;
+  width: 86.67vw;
+  border-radius: 3.69vh;
+  font-size: 1.97vh;
+  background: #141B4E 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: white;
+  cursor: pointer;
+}

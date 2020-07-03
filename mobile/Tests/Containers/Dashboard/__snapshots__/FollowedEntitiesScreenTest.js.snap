@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FollowedEntitiesScreen should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginBottom": 36.142857142857146,
+        "marginLeft": 50,
+        "marginRight": 50,
+        "marginTop": 69,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "justifyContent": "flex-start",
+          "width": 46,
+        }
+      }
+    >
+      <SvgMock />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.28,
+          "marginLeft": 110,
+        }
+      }
+    >
+      Followed Entities
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 32.85714285714286,
+      }
+    }
+  >
+    <SearchBarDefault
+      onSearchHandler={[Function]}
+      onSubmitEditing={[Function]}
+      onTouchStart={[Function]}
+      placeholder="Search"
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 1,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginBottom": 24.642857142857146,
+        "marginLeft": 50,
+        "marginTop": 24.642857142857146,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "justifyContent": "flex-start",
+          "width": 42,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <SvgMock />
+      </ForwardRef>
+    </View>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.14,
+            "marginLeft": 22,
+          }
+        }
+      >
+        Filter by
+      </Text>
+    </ForwardRef>
+  </View>
+  <TimeFilter
+    getSelectedMonths={[Function]}
+    getSelectedYears={[Function]}
+    headerTitle="Filter By"
+    isModalVisible={false}
+    onBtnPress={[Function]}
+    onClose={[Function]}
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 1,
+        "width": 750,
+      }
+    }
+  />
+  <ScrollViewMock
+    contentContainerStyle={
+      Object {
+        "backgroundColor": "#F7F7F7",
+      }
+    }
+    showsVerticalScrollIndicator={false}
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "id": "1",
+          },
+          Object {
+            "id": "2",
+          },
+          Object {
+            "id": "3",
+          },
+          Object {
+            "id": "4",
+          },
+          Object {
+            "id": "5",
+          },
+          Object {
+            "id": "6",
+          },
+          Object {
+            "id": "7",
+          },
+          Object {
+            "id": "8",
+          },
+          Object {
+            "id": "9",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </ScrollViewMock>
+</View>
+`;

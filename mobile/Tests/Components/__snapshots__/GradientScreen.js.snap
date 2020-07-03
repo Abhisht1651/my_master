@@ -1,0 +1,683 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GradientScreen component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          860275700,
+          867335411,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 663.3035714285714,
+            "height": 1326.607142857143,
+            "width": 1326.607142857143,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 655.2995714285714,
+              "height": 1310.5991428571429,
+              "width": 1310.5991428571429,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          1715913716,
+          1722973427,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 575,
+            "height": 1150,
+            "width": 1150,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 566.9959999999999,
+              "height": 1133.9919999999997,
+              "width": 1133.9919999999997,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          2571551732,
+          2578611443,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 454.25,
+            "height": 908.5,
+            "width": 908.5,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 446.246,
+              "height": 892.492,
+              "width": 892.492,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          3427189748,
+          3434249459,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 338.42857142857144,
+            "height": 676.8571428571429,
+            "width": 676.8571428571429,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 330.4245714285714,
+              "height": 660.8491428571429,
+              "width": 660.8491428571429,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4282827764,
+          4289887475,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 243.14285714285714,
+            "height": 486.2857142857143,
+            "width": 486.2857142857143,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 235.13885714285715,
+              "height": 470.2777142857143,
+              "width": 470.2777142857143,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`GradientScreen component with Component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          860275700,
+          867335411,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 663.3035714285714,
+            "height": 1326.607142857143,
+            "width": 1326.607142857143,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 655.2995714285714,
+              "height": 1310.5991428571429,
+              "width": 1310.5991428571429,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          1715913716,
+          1722973427,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 575,
+            "height": 1150,
+            "width": 1150,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 566.9959999999999,
+              "height": 1133.9919999999997,
+              "width": 1133.9919999999997,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          2571551732,
+          2578611443,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 454.25,
+            "height": 908.5,
+            "width": 908.5,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 446.246,
+              "height": 892.492,
+              "width": 892.492,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          3427189748,
+          3434249459,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 338.42857142857144,
+            "height": 676.8571428571429,
+            "width": 676.8571428571429,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 330.4245714285714,
+              "height": 660.8491428571429,
+              "width": 660.8491428571429,
+            },
+          ]
+        }
+      />
+    </BVLinearGradient>
+  </View>
+  <View
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4282827764,
+          4289887475,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 250,
+            "height": 500,
+            "justifyContent": "center",
+            "width": 500,
+          },
+          Object {
+            "borderRadius": 243.14285714285714,
+            "height": 486.2857142857143,
+            "width": 486.2857142857143,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 245,
+              "height": 490,
+              "justifyContent": "center",
+              "width": 490,
+            },
+            Object {
+              "borderRadius": 235.13885714285715,
+              "height": 470.2777142857143,
+              "width": 470.2777142857143,
+            },
+          ]
+        }
+      >
+        <Text>
+          Hello
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;

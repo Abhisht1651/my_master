@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchSuggestion should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "height": 49.285714285714285,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#7B46E4",
+        "flexDirection": "row",
+        "height": 49.285714285714285,
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      allowFontScaling={true}
+      keyboardType="default"
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      placeholder="Search"
+      rejectResponderTermination={true}
+      selectionColor="#7B46E4"
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 30,
+          "letterSpacing": -0.12,
+          "margin": 0,
+          "padding": 0,
+          "paddingBottom": 9,
+          "textAlignVertical": "center",
+          "width": "70.72%",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 23,
+          "paddingBottom": 17,
+          "textAlignVertical": "center",
+        }
+      }
+    >
+      (Optional)
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,135 @@
+
+
+.backgroundMI{
+	background-color: black;
+	width: 31.25vw;
+}
+
+.rectImgMI{
+	width: 100%;
+}
+
+.followUserImgMI{
+	height: 0.92vh;
+	width: 0.92vh;
+
+}
+
+.userImgMI{
+	height: 15.55vh;
+	width: 15.55vh;
+	border-radius: 50%;
+	margin-top: -4vh;
+}
+
+
+.flex1MI{
+	display: flex;
+	flex-direction: row;
+}
+
+
+.flex2MI{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.editDPMI{
+	font-size: 1.48vh;
+	line-height: 1.67vh;
+	color:#8F8FAF;
+	font-family: 'BananaGrotesk-Regular';
+	text-align: center;
+}
+
+.userNameTextMI{
+	font-size: 2.03vh;
+	line-height: 2.68vh;
+	color:white;
+	font-family: 'BananaGrotesk-Medium';
+}
+
+.editButtonMI{
+  height: 3.7vh;
+  width: 5.41vw;
+  border-radius: 1.85vh;
+  border-color: #7B46E4;
+  border-width: 0.09vh;
+  border-style: solid;
+  font-size: 1.57vh;
+  background: black 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: #7B46E4;
+  cursor: pointer;
+}
+
+.userTitleTextMI{
+	font-size: 1.48vh;
+	line-height: 2.5vh;
+	color:white;
+	font-family: 'BananaGrotesk-Light';
+}
+
+.numFollowTextMI{
+	font-size: 1.29vh;
+	line-height: 2.5vh;
+	color:white;
+	font-family: 'BananaGrotesk-Semibold';	
+}
+
+.numFollowText2MI{
+	font-size: 1.29vh;
+	line-height: 2.5vh;
+	color:white;
+	font-family: 'BananaGrotesk-Light';	
+}
+
+.aboutUserMI{
+	font-size: 1.48vh;
+	line-height: 2.22vh;
+	color:white;
+	font-family: 'BananaGrotesk-Light';		
+	width: 15.1vw;
+}
+
+.text1MI{
+	font-size: 1.67vh;
+	line-height: 1.85vh;
+	color:white;
+	opacity: 0.75;
+	font-family: 'BananaGrotesk-Regular';		
+}
+
+.addFriendImgMI{
+	height: 0.962vh;
+	width: 0.74vh;
+}
+
+.ellipsesMI{
+	height:0.5vh;
+	width: 1.4vw;
+}
+
+.inputMI{
+  color: white;
+  font-family: 'BananaGrotesk-Light';
+  font-size: 1.29vh;
+  line-height: 1.48vh;
+  border-style:solid;
+  border-color: white;
+  border-width: 0.09vh;
+  border-radius: 2.03vh;
+  background-color: black;
+  padding: 0 0 0 1.45vw;
+  width:25.5vw;
+  height:4.35vh;
+  opacity: 0.5;
+}
+
+::placeholder {
+  color: white;
+  font-family: 'BananaGrotesk-Light';
+  font-size: 1.29vh;
+  line-height: 1.48vh;
+}

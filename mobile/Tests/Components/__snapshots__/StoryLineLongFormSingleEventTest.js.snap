@@ -1,0 +1,538 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineLongFormSingleEvent should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "minHeight": 570,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginTop": 50,
+        "opacity": 1,
+        "width": "85.23%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      World
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#1F1F60",
+          "borderRadius": 2,
+          "height": 4,
+          "marginHorizontal": 10,
+          "width": 4,
+        }
+      }
+    />
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 34,
+          "marginRight": 10,
+          "width": 34,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Inactive
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#1F1F60",
+          "borderRadius": 2,
+          "height": 4,
+          "marginHorizontal": 10,
+          "width": 4,
+        }
+      }
+    />
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 34,
+          "marginRight": 10,
+          "width": 34,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Trending
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginTop": 22,
+        "width": "85.23%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 26,
+          "marginRight": 4,
+          "opacity": 1,
+          "width": 26,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 24,
+          "letterSpacing": -0.07,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      45
+      K Reached
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "marginTop": 48,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "85.23%",
+      }
+    }
+  >
+    UK exit from the European Union
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#8F8FAF",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 24,
+        "letterSpacing": -0.07,
+        "marginTop": 5,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "85.23%",
+      }
+    }
+  >
+    Updated 
+    2m
+     ago
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderColor": "#E6ECED",
+        "borderRadius": 30,
+        "borderWidth": 0.5,
+        "marginTop": 34,
+        "opacity": 1,
+        "width": "85.23%",
+      }
+    }
+  >
+    <ImageBackground
+      imageStyle={
+        Object {
+          "borderTopLeftRadius": 30,
+          "borderTopRightRadius": 30,
+        }
+      }
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "height": 316.5,
+          "justifyContent": "flex-end",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": "15%",
+            "width": "20%",
+          }
+        }
+      />
+    </ImageBackground>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 36,
+          "letterSpacing": -0.12,
+          "marginTop": "8%",
+          "opacity": 1,
+          "textAlign": "left",
+          "width": "86.28%",
+        }
+      }
+    >
+      Corbyn wins Labor conference Brexit vote in the latest polls
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "marginTop": "3%",
+          "width": "86.28%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 24,
+            "letterSpacing": -0.07,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Related entities
+      </Text>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginLeft": "5%",
+          }
+        }
+      >
+        <ForwardRef
+          key="0"
+          onPress={[Function]}
+        >
+          <Image
+            key="0"
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 8,
+                "height": 37.5,
+                "marginHorizontal": "3%",
+                "width": 37.5,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          key="1"
+          onPress={[Function]}
+        >
+          <Image
+            key="1"
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 8,
+                "height": 37.5,
+                "marginHorizontal": "3%",
+                "width": 37.5,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          key="2"
+          onPress={[Function]}
+        >
+          <Image
+            key="2"
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 8,
+                "height": 37.5,
+                "marginHorizontal": "3%",
+                "width": 37.5,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          key="3"
+          onPress={[Function]}
+        >
+          <Image
+            key="3"
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 8,
+                "height": 37.5,
+                "marginHorizontal": "3%",
+                "width": 37.5,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "marginTop": "4%",
+          "width": "100%",
+        }
+      }
+    />
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "marginLeft": 10,
+          "marginVertical": "6%",
+          "width": "86.28%",
+        }
+      }
+    >
+      <Image
+        key="0"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 40,
+            "marginLeft": -10,
+            "opacity": 1,
+            "width": 40,
+          }
+        }
+      />
+      <Image
+        key="1"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 40,
+            "marginLeft": -10,
+            "opacity": 1,
+            "width": 40,
+          }
+        }
+      />
+      <Image
+        key="2"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 40,
+            "marginLeft": -10,
+            "opacity": 1,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": 0,
+            "marginLeft": "2%",
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        34
+        K comments
+      </Text>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginVertical": 40,
+        "width": "82.857%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "opacity": 1,
+            "width": 130,
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+</View>
+`;

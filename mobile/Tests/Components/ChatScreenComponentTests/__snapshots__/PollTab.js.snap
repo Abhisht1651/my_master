@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageScreen MediaTab component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F7F7F7",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginLeft": 50,
+        "marginRight": 50,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "date": "Today",
+            "id": "111",
+            "poll": Array [
+              Object {
+                "id": "1",
+                "isPollActive": true,
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+              Object {
+                "id": "2",
+                "isPollActive": true,
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+              Object {
+                "id": "3",
+                "isPollActive": true,
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+            ],
+          },
+          Object {
+            "date": "Jan 15th 2020",
+            "id": "1111",
+            "poll": Array [
+              Object {
+                "id": "11",
+                "isPollActive": true,
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+              Object {
+                "id": "12",
+                "isPollActive": true,
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+            ],
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      listKey={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+</View>
+`;

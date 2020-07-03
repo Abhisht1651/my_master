@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineShortCardPreview should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginTop": 50,
+        "width": "84.84%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "lineHeight": 32,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      World
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#1F1F60",
+          "borderRadius": 2,
+          "height": 4,
+          "marginHorizontal": 10,
+          "width": 4,
+        }
+      }
+    />
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 34,
+          "marginRight": 3,
+          "width": 34,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 28,
+          "letterSpacing": -0.08,
+          "lineHeight": 32,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+       Trending
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "lineHeight": 54,
+        "marginTop": 20,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "84.84%",
+      }
+    }
+  >
+    UK exit from the European Union
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#47C3F4",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "lineHeight": 54,
+        "marginTop": 20,
+        "opacity": 1,
+        "textAlign": "left",
+        "width": "84.84%",
+      }
+    }
+  >
+    Choose a Preview
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginBottom": 36,
+        "marginTop": 26,
+        "width": "100%",
+      }
+    }
+  >
+    <Carousel
+      activeAnimationOptions={null}
+      activeAnimationType="timing"
+      activeSlideAlignment="center"
+      activeSlideOffset={20}
+      apparitionDelay={0}
+      autoplay={false}
+      autoplayDelay={1000}
+      autoplayInterval={3000}
+      callbackOffsetMargin={5}
+      containerCustomStyle={Object {}}
+      contentContainerCustomStyle={Object {}}
+      data={
+        Array [
+          Object {
+            "date": "Sept 21 2019",
+            "heading": "AS Boris Delivers A Brexit Deal, EU have Agreed",
+            "image": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "date": "Sept 21 2019",
+            "heading": "AS Boris Delivers A Brexit Deal, EU have Agreed",
+            "image": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "date": "Sept 21 2019",
+            "heading": "AS Boris Delivers A Brexit Deal, EU have Agreed",
+            "image": Object {
+              "default": "",
+            },
+          },
+        ]
+      }
+      enableMomentum={false}
+      enableSnap={true}
+      firstItem={0}
+      hasParallaxImages={false}
+      inactiveSlideOpacity={1}
+      inactiveSlideScale={1}
+      inactiveSlideShift={0}
+      itemWidth={576.5}
+      layout="default"
+      lockScrollTimeoutDuration={1000}
+      lockScrollWhileSnapping={false}
+      loop={false}
+      loopClonesPerSide={3}
+      onSnapToItem={[Function]}
+      renderItem={[Function]}
+      scrollEnabled={true}
+      shouldOptimizeUpdates={true}
+      slideStyle={Object {}}
+      sliderWidth={660}
+      swipeThreshold={20}
+      useScrollView={false}
+      vertical={false}
+    />
+  </View>
+</View>
+`;

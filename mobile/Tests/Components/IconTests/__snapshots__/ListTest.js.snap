@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Icon component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "flexDirection": "row",
+      "height": 18,
+      "opacity": 1,
+      "width": 274,
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "flexDirection": "row",
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 16,
+          "width": 19,
+        }
+      }
+    >
+      <SvgMock />
+    </View>
+    <View
+      style={
+        Object {
+          "height": 18,
+          "width": 46,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 16,
+            "letterSpacing": -0.09,
+            "opacity": 1,
+          }
+        }
+      >
+        Share
+      </Text>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginLeft": 44,
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 16,
+          "width": 17,
+        }
+      }
+    >
+      <SvgMock />
+    </View>
+    <View
+      style={
+        Object {
+          "height": 18,
+          "width": 46,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 16,
+            "letterSpacing": -0.09,
+            "opacity": 1,
+          }
+        }
+      >
+        Raven
+      </Text>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginLeft": 37,
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 16,
+          "width": 19,
+        }
+      }
+    >
+      <SvgMock />
+    </View>
+    <View
+      style={
+        Object {
+          "height": 18,
+          "width": 46,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 16,
+            "letterSpacing": -0.09,
+            "opacity": 1,
+          }
+        }
+      >
+        React
+      </Text>
+    </View>
+  </View>
+</View>
+`;

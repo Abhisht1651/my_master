@@ -1,0 +1,97 @@
+/*
+
+.padd{
+	padding: 16.41vh 26.94vw 16.91vh 27.22vw;
+	background-color: #7B46E4;
+}
+.specificationss{
+	
+	height: 66.67vh;
+	width:45.83vw;
+	border-radius: 1.97vh;
+	background-color: white;
+}
+
+.cross{
+	text-align: right;
+	padding:3.78vh 2.12vw;
+	font-size: 2.8vh;
+	color:#7B46E4;
+	border-radius: 0.12vh;
+	opacity: 1;
+}
+
+.contact{
+	padding:1vh 0 0 3.26vw;
+	color: #7B46E4;
+	font-family: "BananaGrotesk-Bold";
+	font-size: 5.18vh;
+	line-height: 3.33vh;
+}
+
+.stay-up{
+	padding: 2.22vh 0 0 3.42vw;
+	font-size: 1.97vh;
+	font-family: "BananaGrotesk-Light";
+	color:#1F1F60;
+}
+
+.inputs{
+	padding: 5.67vh 0 0 3.33vw;
+	padding-right:3.6vw;
+}
+.input-text{
+	height:7.4vh;
+	border-radius: 3.7vh;
+	background-color: #F5F8F8;
+	width:38.88vw;
+}
+.name{
+	font-family: "BananaGrotesk-Semibold";
+	font-size:1.72vh;
+	color:#1F1F60;
+	padding: 2.83vh 0 2.59vh 2.77vw;
+	
+}
+.placeholder-class{
+	font-family: "BananaGrotesk-Light";
+	font-size: 1.97vh;
+	color:#8F8FAF;
+	padding: 2.5vh 0 2.46vh 2.63vw;
+	
+	border-style: hidden;
+	background-color: #F5F8F8
+}
+
+.submit-button{
+	padding:3.7vh 3.6vw 0 32.5vw;
+}
+.submit-button-6{
+	width:9.7vw;
+	height: 7.4vh;
+	background: #7B46E4 0% 0% no-repeat padding-box;
+	border-radius: 4.75vh;
+	color:white;
+	font-size: 1.97vh;
+	font-family: "BananaGrotesk-Bold";
+	text-align: center;
+}
+
+.footer-6{
+	padding: 6.5vh 0 7.03vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.footer-6-content{
+	font-family: "BananaGrotesk-Regular";
+	font-size: 1.97vh;
+	color:#8F8FAF;
+	padding-left: 3.33vw;
+}
+
+.footer-icons{
+	text-align: right;
+	padding-right: 3.6vw;
+} */

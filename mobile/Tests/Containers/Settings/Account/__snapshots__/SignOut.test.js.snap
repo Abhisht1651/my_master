@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignOut SignOut component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "zIndex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "paddingLeft": 52,
+        "paddingTop": 349.9285714285714,
+        "position": "absolute",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderRadius": 24.642857142857146,
+          "width": 648,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingLeft": 560,
+            "paddingTop": 41.07142857142857,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 31.21428571428571,
+                "width": 31.21428571428571,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 62.42857142857142,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 124,
+            "paddingRight": 126.00000000000001,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+              "textAlign": "center",
+            }
+          }
+        >
+          Are you sure you want to sign out?
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 13.142857142857142,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 64,
+            "paddingRight": 62,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26.285714285714285,
+              "lineHeight": 44.35714285714286,
+              "textAlign": "center",
+            }
+          }
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 37.785714285714285,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 47,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 63.25,
+              "height": 82.14285714285714,
+              "width": 550,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 26.285714285714285,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "white",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 26.285714285714285,
+                  "lineHeight": 29.571428571428573,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Sign Out
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 49.28571428571429,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

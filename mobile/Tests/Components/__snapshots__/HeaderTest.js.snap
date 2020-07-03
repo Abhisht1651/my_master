@@ -1,0 +1,541 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 101.384,
+        "justifyContent": "space-between",
+        "padding": "6%",
+      },
+      Object {},
+    ]
+  }
+>
+  <View />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 5,
+          "justifyContent": "space-between",
+          "marginLeft": 30,
+          "width": 42,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 31,
+            },
+            Object {},
+          ]
+        }
+      >
+            
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Header component with backButton renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 101.384,
+        "justifyContent": "space-between",
+        "padding": "6%",
+      },
+      Object {},
+    ]
+  }
+>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 31.265625,
+            "resizeMode": "contain",
+            "tintColor": "#1F1F60",
+            "width": 36,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 5,
+          "justifyContent": "space-between",
+          "marginLeft": 30,
+          "width": 42,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 31,
+            },
+            Object {},
+          ]
+        }
+      >
+            
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Header component with backbutton and right side text renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 101.384,
+        "justifyContent": "space-between",
+        "padding": "6%",
+      },
+      Object {},
+    ]
+  }
+>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 31.265625,
+            "resizeMode": "contain",
+            "tintColor": "#1F1F60",
+            "width": 36,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 5,
+          "justifyContent": "space-between",
+          "marginLeft": 30,
+          "width": 42,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 31,
+            },
+            Object {},
+          ]
+        }
+      >
+        Hello
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Header component with right side text renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 101.384,
+        "justifyContent": "space-between",
+        "padding": "6%",
+      },
+      Object {},
+    ]
+  }
+>
+  <View />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 5,
+          "justifyContent": "space-between",
+          "marginLeft": 30,
+          "width": 42,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#DDE4E6",
+              "borderRadius": 2,
+              "height": 2.5,
+              "width": 12,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 31,
+            },
+            Object {},
+          ]
+        }
+      >
+        Hello
+      </Text>
+    </View>
+  </View>
+</View>
+`;

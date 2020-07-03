@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropDown2 Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "flex-end",
+    }
+  }
+  zIndex={1}
+>
+  <TouchableOpacity
+    activeOpacity={1}
+    delayLongPress={600}
+    extraButtonProps={
+      Object {
+        "rippleColor": "transparent",
+      }
+    }
+    onPress={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <SvgMock />
+  </TouchableOpacity>
+</View>
+`;

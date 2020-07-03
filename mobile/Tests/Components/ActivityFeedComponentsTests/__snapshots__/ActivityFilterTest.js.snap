@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivityFilter ActivityFilter component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 26.0546875,
+      "height": 1030,
+      "width": 650,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 36,
+        "paddingTop": 44,
+        "position": "absolute",
+        "right": 46,
+        "width": 36,
+      }
+    }
+  >
+    <TouchableWithoutFeedback>
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 36,
+            "width": 36,
+          }
+        }
+      />
+    </TouchableWithoutFeedback>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#1E1E60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 36,
+        "letterSpacing": -0.64,
+        "lineHeight": 40,
+        "marginTop": 112.00000000000001,
+        "textAlign": "center",
+      }
+    }
+  >
+    Activity Type
+  </Text>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginTop": 32,
+        "width": 500,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#252576",
+          "fontFamily": "BananaGrotesk-light",
+          "fontSize": 32,
+          "letterSpacing": -0.22,
+          "lineHeight": 53.99999999999999,
+          "textAlign": "center",
+        }
+      }
+    >
+      Select the type for filtering your friends' activity
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "marginLeft": 96,
+        "marginRight": 104,
+        "top": 8.684895833333334,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "id": "1",
+            "name": "Wall Post",
+          },
+          Object {
+            "id": "2",
+            "name": "Reaction",
+          },
+          Object {
+            "id": "3",
+            "name": "Poll Participation",
+          },
+          Object {
+            "id": "4",
+            "name": "Follow",
+          },
+          Object {
+            "id": "5",
+            "name": "Add Friend",
+          },
+          Object {
+            "id": "6",
+            "name": "Comment",
+          },
+          Object {
+            "id": "7",
+            "name": "Boost",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginTop": 80,
+      }
+    }
+  >
+    <SmallButton
+      onPress={[Function]}
+      style={Object {}}
+      title="Apply"
+    />
+  </View>
+</View>
+`;

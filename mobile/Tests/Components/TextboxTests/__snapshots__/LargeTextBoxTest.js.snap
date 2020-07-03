@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LargeTextBox should match to snapshot 1`] = `
+<KeyboardAvoidingView
+  behavior="padding"
+  enabled={true}
+  keyboardVerticalOffset={0}
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "rgba(143, 143, 175,0.24)",
+        "borderRadius": 10,
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "marginLeft": 40,
+          "marginTop": 49.285714285714285,
+          "maxWidth": "73.76%",
+        }
+      }
+    >
+      <Component
+        allowFontScaling={true}
+        autoCorrect={false}
+        multiline={true}
+        onChangeText={[Function]}
+        placeholder="You must write something to be able to post!"
+        placeholderTextColor="#8F8FAF"
+        rejectResponderTermination={true}
+        selectionColor="#7B46E4"
+        spellCheck={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 24,
+              "height": "100%",
+              "letterSpacing": -0.11,
+              "paddingTop": 0,
+              "textAlignVertical": "top",
+            },
+            Object {
+              "color": "#000080",
+            },
+            Object {},
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "height": 60,
+          "paddingBottom": 15,
+          "paddingRight": 15,
+        }
+      }
+    >
+      <ForwardRef
+        activeOpacity={1}
+        style={
+          Object {
+            "alignItems": "center",
+            "aspectRatio": 1,
+            "backgroundColor": "#7B46E4",
+            "borderRadius": 50,
+            "height": 45,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <SvgMock />
+      </ForwardRef>
+    </View>
+  </View>
+</KeyboardAvoidingView>
+`;

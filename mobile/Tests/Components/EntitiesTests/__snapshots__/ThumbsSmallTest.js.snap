@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardType1 Entity component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "height": 34.739583333333336,
+      "width": 40,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 10,
+        "height": 40,
+        "width": 40,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 10,
+          "height": 40,
+          "width": 40,
+        }
+      }
+    />
+  </View>
+</View>
+`;

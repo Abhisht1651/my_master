@@ -1,0 +1,344 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimeFilter should match to snapshot 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#2222234D",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#E6ECED",
+          "borderTopLeftRadius": 15,
+          "borderTopRightRadius": 15,
+          "borderWidth": 1,
+          "height": 805,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderBottomWidth": 1,
+            "borderColor": "#E6ECED",
+            "flexDirection": "row",
+            "height": 101.85714285714285,
+            "justifyContent": "center",
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 27,
+              "letterSpacing": -0.12,
+              "marginLeft": "auto",
+              "textAlign": "center",
+              "width": 260,
+            }
+          }
+        >
+          Activity history
+        </Text>
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "marginLeft": 167.5,
+              "marginRight": 51.94,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "aspectRatio": 1,
+                "height": 17.28,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 423.85714285714283,
+              "justifyContent": "space-between",
+              "marginLeft": 50,
+              "marginRight": 112,
+              "marginTop": 49.285714285714285,
+              "width": 138,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 27,
+                "letterSpacing": -0.12,
+                "marginBottom": 23,
+              }
+            }
+          >
+            Year
+          </Text>
+          <FlatList
+            contentContainerStyle={
+              Object {
+                "flex": 1,
+                "justifyContent": "space-around",
+              }
+            }
+            data={
+              Array [
+                Object {
+                  "id": 2020,
+                  "stateProp": false,
+                },
+                Object {
+                  "id": 2019,
+                  "stateProp": false,
+                },
+                Object {
+                  "id": 2018,
+                  "stateProp": false,
+                },
+                Object {
+                  "id": 2017,
+                  "stateProp": false,
+                },
+                Object {
+                  "id": 2016,
+                  "stateProp": false,
+                },
+                Object {
+                  "id": 2015,
+                  "stateProp": false,
+                },
+              ]
+            }
+            disableVirtualization={false}
+            horizontal={false}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 391,
+              "justifyContent": "space-between",
+              "marginRight": 122,
+              "marginTop": 49.285714285714285,
+              "width": 328,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 27,
+                "letterSpacing": -0.12,
+                "marginBottom": 23,
+              }
+            }
+          >
+            Month
+          </Text>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "height": 328.57142857142856,
+                "justifyContent": "space-between",
+                "width": "100%",
+              }
+            }
+          >
+            <View>
+              <FlatList
+                contentContainerStyle={
+                  Object {
+                    "flex": 1,
+                    "justifyContent": "space-around",
+                  }
+                }
+                data={
+                  Array [
+                    Object {
+                      "id": "Jan",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Feb",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Mar",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Apr",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "May",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Jun",
+                      "stateProp": false,
+                    },
+                  ]
+                }
+                disableVirtualization={false}
+                horizontal={false}
+                initialNumToRender={10}
+                keyExtractor={[Function]}
+                maxToRenderPerBatch={10}
+                numColumns={1}
+                onEndReachedThreshold={2}
+                removeClippedSubviews={false}
+                renderItem={[Function]}
+                scrollEventThrottle={50}
+                updateCellsBatchingPeriod={50}
+                windowSize={21}
+              />
+            </View>
+            <View>
+              <FlatList
+                contentContainerStyle={
+                  Object {
+                    "flex": 1,
+                    "justifyContent": "space-around",
+                  }
+                }
+                data={
+                  Array [
+                    Object {
+                      "id": "Jul",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Aug",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Sept",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Oct",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Nov",
+                      "stateProp": false,
+                    },
+                    Object {
+                      "id": "Dec",
+                      "stateProp": false,
+                    },
+                  ]
+                }
+                disableVirtualization={false}
+                horizontal={false}
+                initialNumToRender={10}
+                keyExtractor={[Function]}
+                maxToRenderPerBatch={10}
+                numColumns={1}
+                onEndReachedThreshold={2}
+                removeClippedSubviews={false}
+                renderItem={[Function]}
+                scrollEventThrottle={50}
+                updateCellsBatchingPeriod={50}
+                windowSize={21}
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 228.35714285714286,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 38.5,
+              "height": 82.14285714285714,
+              "justifyContent": "center",
+              "marginTop": 94.46428571428571,
+              "width": 533.9285714285714,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 24,
+                "letterSpacing": -0.09,
+              }
+            }
+          >
+            Apply
+          </Text>
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+</Component>
+`;

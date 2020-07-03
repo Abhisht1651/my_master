@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Suggestion Screen should render the component itself correctly 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 32,
+        "letterSpacing": -0.11,
+        "opacity": 1,
+        "textAlign": "left",
+      }
+    }
+  >
+    Last Searches
+  </Text>
+  <View
+    style={
+      Object {
+        "marginTop": 6.5,
+      }
+    }
+  >
+    <View
+      key="0"
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 136,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Light",
+            "fontSize": 28,
+            "letterSpacing": 0,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Amazonas fire
+      </Text>
+      <TouchableOpacity
+        activeOpacity={0.2}
+        delayLongPress={600}
+        extraButtonProps={
+          Object {
+            "rippleColor": "transparent",
+          }
+        }
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 22,
+              "opacity": 1,
+              "width": 22,
+            }
+          }
+        />
+      </TouchableOpacity>
+    </View>
+    <View
+      key="1"
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 136,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Light",
+            "fontSize": 28,
+            "letterSpacing": 0,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Queen Elizabeth
+      </Text>
+      <TouchableOpacity
+        activeOpacity={0.2}
+        delayLongPress={600}
+        extraButtonProps={
+          Object {
+            "rippleColor": "transparent",
+          }
+        }
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 22,
+              "opacity": 1,
+              "width": 22,
+            }
+          }
+        />
+      </TouchableOpacity>
+    </View>
+    <View
+      key="2"
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 136,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Light",
+            "fontSize": 28,
+            "letterSpacing": 0,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        Nicolas Maduro
+      </Text>
+      <TouchableOpacity
+        activeOpacity={0.2}
+        delayLongPress={600}
+        extraButtonProps={
+          Object {
+            "rippleColor": "transparent",
+          }
+        }
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 22,
+              "opacity": 1,
+              "width": 22,
+            }
+          }
+        />
+      </TouchableOpacity>
+    </View>
+  </View>
+</View>
+`;

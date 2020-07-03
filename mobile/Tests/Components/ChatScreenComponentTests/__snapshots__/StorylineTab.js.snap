@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageScreen MediaTab component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F7F7F7",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginLeft": 50,
+        "marginRight": 50,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "date": "Today",
+            "id": "111",
+            "storyline": Array [
+              Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "id": "1",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "id": "2",
+                "seen": 95,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "id": "3",
+                "seen": 155,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+            ],
+          },
+          Object {
+            "date": "Jan 15th 2020",
+            "id": "1111",
+            "storyline": Array [
+              Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "id": "11",
+                "seen": 50,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+              Object {
+                "category": "World",
+                "date": "Sept 21, 2019",
+                "description": "Ray Contreras talks about the different accents",
+                "id": "12",
+                "seen": 95,
+                "source": "Forbes",
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "total": 500,
+                "trending": true,
+              },
+            ],
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      listKey={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+</View>
+`;

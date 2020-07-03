@@ -1,0 +1,315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "height": 67.5,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 122,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "marginLeft": 37.5,
+            "width": 44,
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.08,
+          "marginLeft": 142.5,
+          "opacity": 1,
+        }
+      }
+    >
+      Trending Events
+    </Text>
+  </View>
+  <ComponentWrapper
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "marginVertical": 4,
+          "width": 650,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="3"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="4"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="5"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="6"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="7"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+      <View
+        key="8"
+        style={
+          Object {
+            "borderBottomColor": "#E6ECED",
+            "borderBottomWidth": 1,
+            "marginTop": 20,
+            "paddingBottom": 20,
+          }
+        }
+      >
+        <storyLineShortestCard
+          category="World"
+          date="Sept 21, 2019"
+          description="Ray Contreras talks about the different accents"
+          source="Forbes"
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          type={1}
+        />
+      </View>
+    </View>
+  </ComponentWrapper>
+</View>
+`;

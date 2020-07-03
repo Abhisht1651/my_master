@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Results Entities Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "marginVertical": 20,
+          "width": 650,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="3"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="4"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="5"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        key="6"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        key="7"
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

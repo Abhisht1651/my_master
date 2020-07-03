@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toggle should match to snapshot 1`] = `
+<_default
+  backgroundActive="#F7F7F7"
+  backgroundInactive="#F7F7F7"
+  circleColorActive="#7B46E4"
+  circleColorInactive="#DCDCE9"
+  disabled={false}
+  height={21}
+  onAsyncPress={[Function]}
+  onSyncPress={[Function]}
+  style={
+    Object {
+      "borderColor": "#DCDCE9",
+      "borderWidth": 1,
+    }
+  }
+  value={false}
+  width={40}
+/>
+`;

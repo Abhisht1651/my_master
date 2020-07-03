@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoriesFromFriends1 should match to snapshot 1`] = `
+<ForwardRef
+  activeOpacity={1}
+  onPress={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "aspectRatio": 0.58,
+      "height": 208.64285714285714,
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "default": "",
+      }
+    }
+    style={
+      Object {
+        "aspectRatio": 0.77,
+        "borderRadius": 29.57142857142857,
+        "height": 156.07142857142856,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "borderBottomColor": "#47C3F4",
+        "borderBottomWidth": 11.5,
+        "borderLeftColor": "transparent",
+        "borderLeftWidth": 6.571428571428571,
+        "borderRadius": 2,
+        "borderRightColor": "transparent",
+        "borderRightWidth": 6.571428571428571,
+        "borderStyle": "solid",
+        "bottom": 36.964285714285715,
+        "height": 0,
+        "left": 73.92857142857143,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "rotate": "19deg",
+          },
+        ],
+        "width": 0,
+      }
+    }
+  />
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "center",
+        "aspectRatio": 1,
+        "backgroundColor": "#47C3F4",
+        "borderRadius": 50,
+        "height": 59.14285714285714,
+        "justifyContent": "center",
+        "position": "absolute",
+        "top": 115,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 1,
+          "height": 21.357142857142858,
+          "position": "absolute",
+          "width": 3.2857142857142856,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 1,
+          "height": 3.2857142857142856,
+          "position": "absolute",
+          "width": 21.357142857142858,
+        }
+      }
+    />
+  </ForwardRef>
+  <Text
+    style={
+      Object {
+        "color": "#8F8FAF",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 23,
+        "letterSpacing": -0.08,
+      }
+    }
+  >
+    You
+  </Text>
+</ForwardRef>
+`;

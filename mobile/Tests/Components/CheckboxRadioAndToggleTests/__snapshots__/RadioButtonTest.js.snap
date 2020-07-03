@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton should match to snapshot 1`] = `
+<ForwardRef
+  onPress={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#8F8FAF",
+      "borderRadius": 50,
+      "borderWidth": 1,
+      "height": 25,
+      "justifyContent": "center",
+      "width": 25,
+    }
+  }
+/>
+`;

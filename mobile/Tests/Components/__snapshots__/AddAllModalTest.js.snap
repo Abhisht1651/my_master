@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddAllModal AddAllModal component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <ReactNativeModal
+    animationIn="slideInUp"
+    animationInTiming={300}
+    animationOut="slideOutDown"
+    animationOutTiming={300}
+    avoidKeyboard={false}
+    backdropColor="black"
+    backdropOpacity={0.7}
+    backdropTransitionInTiming={300}
+    backdropTransitionOutTiming={300}
+    coverScreen={true}
+    customBackdrop={null}
+    deviceHeight={null}
+    deviceWidth={null}
+    hasBackdrop={true}
+    hideModalContentWhileAnimating={false}
+    isVisible={false}
+    onBackButtonPress={[Function]}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    onModalShow={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    propagateSwipe={false}
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+    useNativeDriver={false}
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#fff",
+          "borderRadius": 24.642857142857146,
+          "borderWidth": 1.6428571428571428,
+          "height": 591.4285714285714,
+          "marginLeft": "5%",
+          "width": "90%",
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "marginRight": "4%",
+            "marginTop": "4%",
+          }
+        }
+      >
+        <SvgMock />
+      </ForwardRef>
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 40,
+            "letterSpacing": -0.28,
+            "lineHeight": 44.35714285714286,
+            "marginBottom": 13.142857142857142,
+            "marginTop": 62.42857142857142,
+            "textAlign": "center",
+          }
+        }
+      >
+        Add All
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Light",
+            "fontSize": 32,
+            "letterSpacing": -0.28,
+            "lineHeight": 41.07142857142857,
+            "marginBottom": 64.07142857142857,
+            "marginLeft": 64,
+            "marginRight": 64,
+            "textAlign": "center",
+          }
+        }
+      >
+        Are you sure you want to add all friends?
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "marginTop": 98.57142857142858,
+          }
+        }
+      >
+        <MediumButton
+          disabled={false}
+          onPress={[Function]}
+          outline={false}
+          style={Object {}}
+          title="Continue"
+        />
+      </View>
+    </View>
+  </ReactNativeModal>
+</View>
+`;

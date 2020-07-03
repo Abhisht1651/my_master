@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NormalPopUp Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 15,
+      "height": 486.2857142857143,
+      "justifyContent": "center",
+      "width": 650,
+    }
+  }
+>
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "height": 31.21428571428571,
+        "justifyContent": "flex-end",
+        "width": "84%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 31.21428571428571,
+          "tintColor": "#1E1E60",
+        }
+      }
+    />
+  </ForwardRef>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": "51%",
+        "justifyContent": "center",
+        "marginVertical": 8.214285714285714,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1E1E60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 26,
+          "letterSpacing": -0.14,
+          "marginBottom": 18.07142857142857,
+        }
+      }
+    >
+      Normal PopUp
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 20.8,
+          "letterSpacing": -0.11,
+          "lineHeight": 41.07142857142857,
+          "textAlign": "center",
+        }
+      }
+    >
+      This is about the PopUp!
+    </Text>
+  </View>
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#7B46E4",
+        "borderRadius": 39,
+        "height": "18%",
+        "justifyContent": "center",
+        "marginVertical": 8.214285714285714,
+        "width": "84%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 20.8,
+          "letterSpacing": -0.09,
+        }
+      }
+    >
+      Continue
+    </Text>
+  </ForwardRef>
+</View>
+`;

@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Commentbar1 should match to snapshot 1`] = `
+<View
+  elevation={-1}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#E6ECED",
+        "borderTopWidth": 1,
+        "flexDirection": "row",
+        "height": 124.85714285714285,
+        "width": 750,
+      },
+      Object {
+        "height": 147.85714285714286,
+      },
+    ]
+  }
+>
+  <ForwardRef
+    style={
+      Object {
+        "marginLeft": 50,
+        "marginRight": 12,
+      }
+    }
+  >
+    <SvgMock
+      height="100%"
+    />
+  </ForwardRef>
+  <ForwardRef
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#F7F7F7",
+          "borderRadius": 19,
+          "paddingLeft": 15.73,
+          "width": 440,
+        },
+        Object {
+          "height": 65.4842857142857,
+        },
+      ]
+    }
+  >
+    <Component
+      allowFontScaling={true}
+      autoCorrect={false}
+      maxLength={150}
+      multiline={true}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onTouchStart={[Function]}
+      placeholder="Type Something"
+      placeholderTextColor="rgba(27, 32, 98, 0.3)"
+      rejectResponderTermination={true}
+      selectionColor="#7B46E4"
+      spellCheck={false}
+      style={
+        Object {
+          "color": "#1B2062",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 28,
+          "height": "100%",
+          "letterSpacing": -0.09,
+          "margin": 0,
+          "padding": 0,
+          "textAlign": "left",
+          "textAlignVertical": "center",
+          "width": "90%",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </ForwardRef>
+  <ForwardRef
+    style={
+      Object {
+        "marginLeft": 16,
+      }
+    }
+  >
+    <SvgMock
+      height="100%"
+    />
+  </ForwardRef>
+  <ForwardRef
+    style={
+      Object {
+        "marginLeft": 10,
+        "marginRight": 50,
+      }
+    }
+  >
+    <SvgMock
+      height="100%"
+    />
+  </ForwardRef>
+</View>
+`;

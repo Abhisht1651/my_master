@@ -1,0 +1,300 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InsertSticker InsertSticker component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column-reverse",
+        "height": 1334,
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "height": 637.4285714285714,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderBottomWidth": 1,
+            "borderColor": "#E6ECED",
+            "flexDirection": "row",
+            "height": 101.85714285714285,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 18,
+              "letterSpacing": -0.12,
+              "marginLeft": "auto",
+              "textAlign": "right",
+              "width": "70%",
+            }
+          }
+        >
+          Insert Sticker
+        </Text>
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "marginLeft": 95.75,
+              "marginRight": 25.97,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "aspectRatio": 1,
+                "height": 17.28,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 535.5714285714286,
+          }
+        }
+      >
+        <ScrollViewMock>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "height": 46,
+                "width": "100%",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 182.35714285714286,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "height": 16.428571428571427,
+                "width": "100%",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 182.35714285714286,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "height": 16.428571428571427,
+                "width": "100%",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 182.35714285714286,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "height": "100%",
+                  "width": 20,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F3F3F3",
+                  "borderRadius": 22,
+                  "height": 182.35714285714286,
+                  "width": 222,
+                }
+              }
+            />
+          </View>
+        </ScrollViewMock>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#2222234D",
+          "height": 696.5714285714286,
+        }
+      }
+    />
+  </View>
+</Component>
+`;

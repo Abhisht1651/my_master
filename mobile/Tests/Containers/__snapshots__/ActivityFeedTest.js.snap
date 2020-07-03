@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivityFeed ActivityFeed component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "height": 1334,
+      "width": 750,
+    }
+  }
+>
+  <ReactNativeModal
+    animationIn="zoomIn"
+    animationInTiming={300}
+    animationOut="zoomOut"
+    animationOutTiming={300}
+    avoidKeyboard={false}
+    backdropColor="black"
+    backdropOpacity={0.7}
+    backdropTransitionInTiming={300}
+    backdropTransitionOutTiming={300}
+    coverScreen={true}
+    customBackdrop={null}
+    deviceHeight={null}
+    deviceWidth={null}
+    hasBackdrop={true}
+    hideModalContentWhileAnimating={false}
+    isVisible={false}
+    onBackButtonPress={[Function]}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    onModalShow={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    propagateSwipe={false}
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+    useNativeDriver={false}
+  >
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <ActivityFilter
+        activityChange={[Function]}
+        applyChange={[Function]}
+        closemodal={[Function]}
+        selected={Array []}
+      />
+    </View>
+  </ReactNativeModal>
+  <View
+    style={
+      Object {
+        "flex": 693,
+      }
+    }
+  >
+    <View>
+      <FlatList
+        data={
+          Array [
+            Object {
+              "id": "1",
+              "title": "header1",
+            },
+            Object {
+              "id": "2",
+              "title": "header2",
+            },
+            Object {
+              "id": "3",
+              "title": "feed",
+            },
+          ]
+        }
+        disableVirtualization={false}
+        horizontal={false}
+        initialNumToRender={10}
+        keyExtractor={[Function]}
+        maxToRenderPerBatch={10}
+        numColumns={1}
+        onEndReachedThreshold={2}
+        onScroll={[Function]}
+        removeClippedSubviews={false}
+        renderItem={[Function]}
+        scrollEventThrottle={50}
+        showsVerticalScrollIndicator={false}
+        stickyHeaderIndices={
+          Array [
+            1,
+          ]
+        }
+        updateCellsBatchingPeriod={50}
+        windowSize={21}
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 75,
+      }
+    }
+  >
+    <BottomNav
+      activity={true}
+      activityonPress={[Function]}
+      chats={false}
+      chatsonPress={[Function]}
+      newsfeed={false}
+      newsfeedonPress={[Function]}
+      profile={false}
+      profileonPress={[Function]}
+      search={false}
+      searchonPress={[Function]}
+    />
+  </View>
+</View>
+`;

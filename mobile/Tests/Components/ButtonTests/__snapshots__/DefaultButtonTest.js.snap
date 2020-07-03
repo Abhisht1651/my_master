@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefaultButton DefaultButton component renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Array [
+        Object {
+          "backgroundColor": "#7B46E4",
+          "borderRadius": 32,
+          "height": 60,
+          "width": 150,
+        },
+      ],
+      Object {},
+    ]
+  }
+>
+  <TouchableWithoutFeedback
+    disabled={false}
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Array [
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 28.000000000000004,
+                "letterSpacing": -0.16,
+                "lineHeight": 32,
+              },
+            ],
+            Object {},
+          ]
+        }
+      >
+        Button
+      </Text>
+    </View>
+  </TouchableWithoutFeedback>
+</View>
+`;

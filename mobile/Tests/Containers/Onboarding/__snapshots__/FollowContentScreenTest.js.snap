@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FollowContentScreen rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <Header
+    container={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+    count={2}
+    isProgressBarVisible={true}
+    onPressBack={[Function]}
+    onPressRight={[Function]}
+    progressContainer={Object {}}
+    rightText="Skip"
+    rightTextStyle={Object {}}
+  />
+  <ScrollViewMock>
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "height": 106.72,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 35,
+            "marginLeft": 50.25,
+            "marginTop": 31.215599999999995,
+          }
+        }
+      >
+        Start following content
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#F7F7F7",
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginHorizontal": 50,
+            "marginTop": 45.161458333333336,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 32,
+            }
+          }
+        >
+          Top Storylines
+        </Text>
+        <ClickableText
+          onPress={[Function]}
+          style={Object {}}
+          text="Follow all"
+          textStyle={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 28,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 34.739583333333336,
+          }
+        }
+      >
+        <FlatList
+          ItemSeparatorComponent={[Function]}
+          ListFooterComponent={[Function]}
+          ListHeaderComponent={[Function]}
+          data={Array []}
+          disableVirtualization={false}
+          extraData={Array []}
+          horizontal={true}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsHorizontalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 32,
+            "marginLeft": 43.42447916666667,
+            "marginTop": 72.30279999999999,
+          }
+        }
+      >
+        Top Entities
+      </Text>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "marginHorizontal": 43.42447916666667,
+            "marginTop": 26.0546875,
+          }
+        }
+      >
+        <ClickableText
+          onPress={[Function]}
+          style={Object {}}
+          text="View all entities"
+          textStyle={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 28,
+              "marginBottom": 266.8,
+              "marginTop": 50.692,
+              "textAlign": "center",
+            }
+          }
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+  <LinearGradient
+    colors={
+      Array [
+        "#FFFFFF00",
+        "#F7F7F7",
+      ]
+    }
+    end={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    start={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Object {
+        "alignItems": "center",
+        "bottom": 0,
+        "height": 237.45200000000003,
+        "justifyContent": "center",
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <LargeButton
+      disabled={false}
+      onPress={[Function]}
+      style={Object {}}
+      title="Continue"
+    />
+  </LinearGradient>
+</View>
+`;

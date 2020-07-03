@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircularGradient component renders correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <BVLinearGradient
+    colors={
+      Array [
+        4282827764,
+        4289887475,
+      ]
+    }
+    endPoint={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    locations={null}
+    startPoint={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 250,
+          "height": 500,
+          "justifyContent": "center",
+          "width": 500,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 245,
+            "height": 490,
+            "justifyContent": "center",
+            "width": 490,
+          },
+          Object {},
+        ]
+      }
+    />
+  </BVLinearGradient>
+</View>
+`;
+
+exports[`CircularGradient component with Component renders correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <BVLinearGradient
+    colors={
+      Array [
+        4282827764,
+        4289887475,
+      ]
+    }
+    endPoint={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    locations={null}
+    startPoint={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 250,
+          "height": 500,
+          "justifyContent": "center",
+          "width": 500,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 245,
+            "height": 490,
+            "justifyContent": "center",
+            "width": 490,
+          },
+          Object {},
+        ]
+      }
+    >
+      <Text>
+        Hello
+      </Text>
+    </View>
+  </BVLinearGradient>
+</View>
+`;

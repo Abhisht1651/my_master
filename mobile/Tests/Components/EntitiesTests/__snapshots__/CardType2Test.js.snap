@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardType1 Entity component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "borderColor": "#e6eced",
+      "borderRadius": 14.000000000000002,
+      "borderWidth": 2,
+      "flexDirection": "column",
+      "height": "100%",
+      "minHeight": 279.6536458333333,
+      "width": 210.00000000000003,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 120,
+        "marginTop": 34.739583333333336,
+        "width": 120,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 30,
+          "flex": 1,
+          "height": 120,
+          "width": 120,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderColor": "white",
+        "borderWidth": 2,
+        "height": "auto",
+        "justifyContent": "center",
+        "marginTop": 24,
+        "textAlign": "center",
+        "width": 154,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "color": "#1f1f60",
+            "fontFamily": "BananaGrotesk-Light",
+            "fontSize": 28.000000000000004,
+            "justifyContent": "center",
+            "letterSpacing": -0.2,
+            "opacity": 1,
+          }
+        }
+      >
+        Default
+      </Text>
+    </View>
+    <View>
+      <Text
+        style={
+          Object {
+            "alignItems": "center",
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "justifyContent": "center",
+            "letterSpacing": -0.16,
+            "opacity": 1,
+          }
+        }
+      >
+        0 friends
+      </Text>
+    </View>
+    <View>
+      <Text
+        style={
+          Object {
+            "alignItems": "center",
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "justifyContent": "center",
+            "letterSpacing": -0.16,
+            "opacity": 1,
+          }
+        }
+      >
+        follow
+      </Text>
+    </View>
+  </View>
+</View>
+`;

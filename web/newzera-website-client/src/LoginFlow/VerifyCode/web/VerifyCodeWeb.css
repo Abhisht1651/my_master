@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+.verifyhead2Loginflow{
+  color:#8F8FAF;
+  font-family: 'BananaGrotesk-Light';
+  font-size: 1.48vh;
+  line-height: 2.5vh;
+}
+
+.verifytimeLoginflow{
+  color:#8F8FAF;
+  font-family: 'BananaGrotesk-Bold';
+  font-size: 1.48vh;
+  line-height: 2.5vh;
+}
+
+.containerStyle{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.textInputStyle{
+    height: 0.1vh;
+    width: 1.77vw;
+    margin-left:0.52vw;
+    text-align: center;
+    /*fontSize: scaledSize(35),*/
+    font-family: 'BananaGrotesk-Bold';
+    color: '#1F1F60';
+    padding: 0;
+    margin: 0;
+}
+
+.changedTextBorder{
+  border-bottom-width: 1;
+  border-color: #1F1F60;
+}
+
+.offTintStyle{
+  border-bottom-width: 1;
+  border-color: #DCDCE9; 
+}
+
+.hello{
+  color: #8F8FAF;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 3vh;
+  line-height: 2.03vh;
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  text-align: center;
+  border-bottom-color: #DCDCE9;
+  background-color: black;
+  width:1.77vw;
+  margin-right: 0.6vw;
+}
+
+.focusedColor:{
+  border-color:red;
+}

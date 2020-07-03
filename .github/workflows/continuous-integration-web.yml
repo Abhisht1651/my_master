@@ -1,0 +1,40 @@
+name: obi CI for web
+
+on:
+  pull_request:
+    branches: [master]
+    paths:
+      - "web/newzera-website-client/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      working-directory: ./web/newzera-website-client
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: npm ci
+        run: npm ci
+        working-directory: ${{env.working-directory}}
+      - name: npm run build
+        run: npm run build --if-present
+        working-directory: ${{env.working-directory}}
+      - name: npm test
+        run: npm test -- --coverage
+        working-directory: ${{env.working-directory}}
+        env:
+          CI: true
+      - uses: codecov/codecov-action@v1
+        with:
+          working-directory: ${{env.working-directory}}
+          token: ${{ secrets.CODECOV_TOKEN }}
+          fail_ci_if_error: true

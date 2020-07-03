@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageScreen MediaTab component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F7F7F7",
+      "flex": 1,
+    }
+  }
+>
+  <FlatList
+    data={
+      Array [
+        Object {
+          "id": "1",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "2",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "3",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "4",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "6",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "7",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "8",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "9",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "10",
+          "image": Object {
+            "default": "",
+          },
+        },
+        Object {
+          "id": "11",
+          "image": Object {
+            "default": "",
+          },
+        },
+      ]
+    }
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    listKey={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={3}
+    onEndReachedThreshold={2}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+</View>
+`;

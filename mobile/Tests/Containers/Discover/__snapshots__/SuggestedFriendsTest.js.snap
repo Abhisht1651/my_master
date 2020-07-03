@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Suggested Friends Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "height": 44,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 122,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "marginLeft": 37.5,
+            "width": 44,
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.08,
+          "marginLeft": 127.5,
+          "opacity": 1,
+        }
+      }
+    >
+      Suggested Friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#E6ECED",
+        "borderBottomWidth": 1,
+        "width": 750,
+      }
+    }
+  />
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "width": 750,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="3"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="4"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="5"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="6"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="7"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+      <View
+        key="8"
+        style={
+          Object {
+            "width": 645,
+          }
+        }
+      >
+        <ListOfUsers
+          buttonText="Add"
+          buttonTextAfterPress="Added"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Amelia Jones"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="Optional Text"
+          profileType={1}
+          type={2}
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoriesFromFriends2 should match to snapshot 1`] = `
+<ForwardRef
+  onPress={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "height": 208.64285714285714,
+      "justifyContent": "space-between",
+      "width": 118.28571428571428,
+    }
+  }
+>
+  <LinearGradient
+    colors={
+      Array [
+        "#46C3F4",
+        "#B27CF3",
+      ]
+    }
+    end={
+      Object {
+        "x": 1,
+        "y": 1,
+      }
+    }
+    start={
+      Object {
+        "x": 1,
+        "y": 0,
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 24.642857142857142,
+        "height": 152.78571428571428,
+        "width": 119.92857142857143,
+      }
+    }
+  >
+    <ForwardRef
+      activeOpacity={1}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderRadius": 21.357142857142858,
+          "flex": 1,
+          "justifyContent": "center",
+          "margin": 2,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderColor": "white",
+            "borderRadius": 21.357142857142858,
+            "borderWidth": 2,
+            "height": "100%",
+            "width": "100%",
+          }
+        }
+      />
+    </ForwardRef>
+  </LinearGradient>
+  <View
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "borderBottomColor": "#B27CF3",
+        "borderBottomWidth": 11.5,
+        "borderLeftColor": "transparent",
+        "borderLeftWidth": 6.571428571428571,
+        "borderRadius": 2,
+        "borderRightColor": "transparent",
+        "borderRightWidth": 6.571428571428571,
+        "borderStyle": "solid",
+        "bottom": 36.964285714285715,
+        "height": 0,
+        "left": 72.28571428571428,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "rotate": "19deg",
+          },
+        ],
+        "width": 0,
+      }
+    }
+  />
+  <ForwardRef
+    activeOpacity={1}
+    style={
+      Object {
+        "position": "absolute",
+      }
+    }
+  >
+    <LinearGradient
+      colors={
+        Array [
+          "#46C3F4",
+          "#B27CF3",
+        ]
+      }
+      end={
+        Object {
+          "x": 1,
+          "y": 1,
+        }
+      }
+      start={
+        Object {
+          "x": 1,
+          "y": 0,
+        }
+      }
+      style={
+        Object {
+          "aspectRatio": 1,
+          "borderRadius": 50,
+          "height": 59.14285714285714,
+          "top": 115,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "borderRadius": 100,
+            "flex": 1,
+            "margin": 2,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "aspectRatio": 1,
+              "borderRadius": 50,
+              "height": "100%",
+            }
+          }
+        />
+      </View>
+    </LinearGradient>
+  </ForwardRef>
+  <Text
+    style={
+      Object {
+        "color": "#8F8FAF",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 23,
+        "letterSpacing": -0.08,
+      }
+    }
+  >
+    Name
+  </Text>
+</ForwardRef>
+`;

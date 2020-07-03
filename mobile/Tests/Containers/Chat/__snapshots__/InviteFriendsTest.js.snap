@@ -1,0 +1,320 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteFriends InviteFriends component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "flexDirection": "column",
+      "height": 1334,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#E6ECED",
+        "borderBottomWidth": 2,
+        "elevation": 2,
+        "flexDirection": "row",
+        "height": 110.07142857142857,
+        "justifyContent": "space-between",
+        "paddingHorizontal": 48,
+        "width": "auto",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 40,
+          "width": 40,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.28,
+        }
+      }
+    >
+      Invite Friends
+    </Text>
+    <ForwardRef>
+      <Text
+        style={
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 32,
+            "letterSpacing": -0.18,
+          }
+        }
+      >
+        Import
+      </Text>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 1334,
+        "paddingHorizontal": 44,
+        "paddingTop": 55.857142857142854,
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 39.42857142857142,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 36,
+            "letterSpacing": -0.24,
+          }
+        }
+      >
+        Based on your contacts
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 42.714285714285715,
+          "width": "100%",
+        }
+      }
+    >
+      <ScrollViewMock>
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="laura@newzera.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Sachin Tendulkar"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="notout100@gmail.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Brian Lara"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Sourav Ganguly"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+        <ListOfUsers
+          buttonText="Invite"
+          buttonTextAfterPress="Invited"
+          image={
+            Object {
+              "default": "",
+            }
+          }
+          name="Laura Leucona"
+          needoptiontext={false}
+          onCancelPress={[Function]}
+          onPress={[Function]}
+          optionalText="email@email.com"
+          profileType={1}
+          type={1}
+        />
+      </ScrollViewMock>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RelatedPolls should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "height": 44,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 122,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "marginLeft": 37.5,
+            "width": 44,
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.08,
+          "marginLeft": 142.5,
+          "opacity": 1,
+        }
+      }
+    >
+      Related Polls
+    </Text>
+  </View>
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "marginTop": 90.5,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <relatedPoll
+          border={true}
+          isPollActive={true}
+          onPressVote={[Function]}
+          option={
+            Array [
+              "India",
+              "West Indies",
+              "Australia",
+              "England",
+            ]
+          }
+          question="Who are your favorites for the World Cup 2020?"
+          timeLeft={2}
+          voterIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          votes={54}
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <relatedPoll
+          border={true}
+          isPollActive={true}
+          onPressVote={[Function]}
+          option={
+            Array [
+              "India",
+              "West Indies",
+              "Australia",
+              "England",
+            ]
+          }
+          question="Who are your favorites for the World Cup 2020?"
+          timeLeft={2}
+          voterIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          votes={54}
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <relatedPoll
+          border={true}
+          isPollActive={true}
+          onPressVote={[Function]}
+          option={
+            Array [
+              "India",
+              "West Indies",
+              "Australia",
+              "England",
+            ]
+          }
+          question="Who are your favorites for the World Cup 2020?"
+          timeLeft={2}
+          voterIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          votes={54}
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

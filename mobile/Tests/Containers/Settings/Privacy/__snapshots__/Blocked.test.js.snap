@@ -1,0 +1,621 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blocked Blocked component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "paddingTop": 92,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "paddingLeft": 53.99999999999999,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 9.857142857142856,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 22.17857142857143,
+                "width": 36,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingLeft": 130,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 32.85714285714286,
+              "lineHeight": 44.35714285714286,
+            }
+          }
+        >
+          Blocked Accounts
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 50.92857142857143,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 14.785714285714286,
+        }
+      }
+    />
+    <View
+      key="0"
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 32.85714285714286,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 50,
+            "paddingRight": 50,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Image
+              key="0"
+              source={
+                Object {
+                  "default": "",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 36.142857142857146,
+                  "height": 72.28571428571429,
+                  "width": 72.28571428571429,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 20,
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 29.571428571428573,
+                    "lineHeight": 44.35714285714286,
+                  }
+                }
+              >
+                Sean
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingTop": 13.142857142857142,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#7B46E4",
+                  "borderRadius": 26.285714285714285,
+                  "borderWidth": 1.6428571428571428,
+                  "height": 49.28571428571429,
+                  "width": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "paddingTop": 8.214285714285715,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#7B46E4",
+                      "fontFamily": "BananaGrotesk-Bold",
+                      "fontSize": 23,
+                      "lineHeight": 26.285714285714285,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Unblock
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "paddingTop": 34.5,
+            }
+          }
+        >
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      key="1"
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 32.85714285714286,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 50,
+            "paddingRight": 50,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Image
+              key="1"
+              source={
+                Object {
+                  "default": "",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 36.142857142857146,
+                  "height": 72.28571428571429,
+                  "width": 72.28571428571429,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 20,
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 29.571428571428573,
+                    "lineHeight": 44.35714285714286,
+                  }
+                }
+              >
+                Amanda
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingTop": 13.142857142857142,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#7B46E4",
+                  "borderRadius": 26.285714285714285,
+                  "borderWidth": 1.6428571428571428,
+                  "height": 49.28571428571429,
+                  "width": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "paddingTop": 8.214285714285715,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#7B46E4",
+                      "fontFamily": "BananaGrotesk-Bold",
+                      "fontSize": 23,
+                      "lineHeight": 26.285714285714285,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Unblock
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "paddingTop": 34.5,
+            }
+          }
+        >
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      key="2"
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 32.85714285714286,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 50,
+            "paddingRight": 50,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Image
+              key="2"
+              source={
+                Object {
+                  "default": "",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 36.142857142857146,
+                  "height": 72.28571428571429,
+                  "width": 72.28571428571429,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 20,
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 29.571428571428573,
+                    "lineHeight": 44.35714285714286,
+                  }
+                }
+              >
+                Laura Lecuona
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingTop": 13.142857142857142,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#7B46E4",
+                  "borderRadius": 26.285714285714285,
+                  "borderWidth": 1.6428571428571428,
+                  "height": 49.28571428571429,
+                  "width": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "paddingTop": 8.214285714285715,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#7B46E4",
+                      "fontFamily": "BananaGrotesk-Bold",
+                      "fontSize": 23,
+                      "lineHeight": 26.285714285714285,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Unblock
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "paddingTop": 34.5,
+            }
+          }
+        >
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      key="3"
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 32.85714285714286,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 50,
+            "paddingRight": 50,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Image
+              key="3"
+              source={
+                Object {
+                  "default": "",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 36.142857142857146,
+                  "height": 72.28571428571429,
+                  "width": 72.28571428571429,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "paddingLeft": 20,
+                  "paddingTop": 16.42857142857143,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#1F1F60",
+                    "fontFamily": "BananaGrotesk-Medium",
+                    "fontSize": 29.571428571428573,
+                    "lineHeight": 44.35714285714286,
+                  }
+                }
+              >
+                Laura Lecuona
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingTop": 13.142857142857142,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "borderColor": "#7B46E4",
+                  "borderRadius": 26.285714285714285,
+                  "borderWidth": 1.6428571428571428,
+                  "height": 49.28571428571429,
+                  "width": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "paddingTop": 8.214285714285715,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#7B46E4",
+                      "fontFamily": "BananaGrotesk-Bold",
+                      "fontSize": 23,
+                      "lineHeight": 26.285714285714285,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Unblock
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "paddingTop": 34.5,
+            }
+          }
+        >
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#E6ECED",
+                  "borderBottomWidth": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

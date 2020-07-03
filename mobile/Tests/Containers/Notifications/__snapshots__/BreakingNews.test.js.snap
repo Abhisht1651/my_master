@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BreakingNews BreakingNews component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "zIndex": 10,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 132,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "paddingLeft": 53.99999999999999,
+              "paddingTop": 42.714285714285715,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 41.07142857142857,
+                "width": 50,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "width": 574,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 37.785714285714285,
+                "width": 464,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#1F1F60",
+                  "fontFamily": "BananaGrotesk-Light",
+                  "fontSize": 23,
+                  "lineHeight": 31.21428571428571,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontFamily": "BananaGrotesk-Bold",
+                  }
+                }
+              >
+                Breaking news:
+              </Text>
+              This is the name of the story line ,this can be two lines long
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 34.5,
+              }
+            }
+          >
+            <ForwardRef
+              activeOpacity={1}
+              onPress={[Function]}
+            >
+              <Image
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 4.928571428571428,
+                    "width": 30,
+                  }
+                }
+              />
+            </ForwardRef>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 4.928571428571428,
+                "width": 464,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 19.71428571428571,
+                  "lineHeight": 23,
+                }
+              }
+            >
+              12K
+               people talking about this
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 4.928571428571428,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 19.71428571428571,
+                  "lineHeight": 23,
+                }
+              }
+            >
+              5 min
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 34.5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingLeft": 53.99999999999999,
+            "paddingRight": 46,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

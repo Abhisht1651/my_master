@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardType1 Entity component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "height": 102,
+      "width": 132,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "borderRadius": 30,
+        "height": 120,
+        "width": 120,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 30,
+          "height": 120,
+          "width": 120,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 52.109375,
+        "justifyContent": "center",
+        "width": 132,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 28.000000000000004,
+          "letterSpacing": 0,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Default
+    </Text>
+  </View>
+</View>
+`;

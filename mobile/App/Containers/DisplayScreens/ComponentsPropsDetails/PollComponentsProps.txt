@@ -1,0 +1,78 @@
+Short Poll:
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>
+
+Short Poll Join:
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>
+
+Related Poll:
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>,
+  option: Array<string>,
+  onPressVote: PropTypes.func
+
+Popular Poll: 
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>,
+  progressBar: Array<{ name: string, percentage: string }>,
+  activeProgressBar: number
+
+Poll Active:
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>,
+  option: Array<string>,
+  comments: number,
+  onPressVote: PropTypes.func,
+  onPressShare: PropTypes.func,
+  onPressReact: PropTypes.func,
+  onPressRaven: PropTypes.func,
+  onPressComment: PropTypes.func,
+  onPressComments: PropTypes.func
+
+    
+Poll Results: 
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>,
+  progressBar: Array<{ name: string, percentage: string }>,
+  participated: boolean,
+  comments: number,
+  activeProgressBar: number,
+  onPressShare: PropTypes.func,
+  onPressReact: PropTypes.func,
+  onPressRaven: PropTypes.func,
+  onPressComment: PropTypes.func,
+  onPressComments: PropTypes.func
+
+Poll Story:
+  question: string,
+  votes: number,
+  timeLeft: number,
+  isPollActive: boolean,
+  voterIcons: Array<string>,
+  option: Array<string>,
+  comments: number,
+  onPressVote: PropTypes.func,
+  onPressShare: PropTypes.func,
+  onPressReact: PropTypes.func,
+  onPressRaven: PropTypes.func,
+  onPressComment: PropTypes.func,
+  onPressComments: PropTypes.func

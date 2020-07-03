@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Dropdown component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "flex-end",
+      "width": 320,
+    }
+  }
+>
+  <ForwardRef
+    activeOpacity={1}
+    onPress={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 82.50651041666667,
+        "justifyContent": "center",
+        "paddingTop": 33.00260416666667,
+        "width": "25%",
+      }
+    }
+  >
+    <SvgMock />
+  </ForwardRef>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#DCDCE9",
+          "borderRadius": 8,
+          "elevation": 3,
+          "height": 277.9166666666667,
+          "letterSpacing": 0.08,
+          "position": "absolute",
+          "width": 320,
+        },
+        Object {
+          "shadowColor": "#1F1F6016",
+          "shadowOffSet": Object {
+            "height": 0,
+            "width": 0,
+          },
+          "shadowOpacity": 0.5,
+          "shadowRadius": 10,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#DCDCE9",
+          "borderRadius": 8,
+          "flexDirection": "row",
+          "height": 82.50651041666667,
+          "justifyContent": "space-between",
+          "width": 320,
+        }
+      }
+    >
+      <ForwardRef
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 14,
+              "paddingLeft": 26.0546875,
+              "paddingTop": 33.00260416666667,
+            }
+          }
+        >
+          Options
+        </Text>
+      </ForwardRef>
+      <ForwardRef
+        activeOpacity={1}
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "paddingTop": 33.00260416666667,
+            "width": "25%",
+          }
+        }
+      >
+        <SvgMock />
+      </ForwardRef>
+    </View>
+    <ForwardRef
+      activeOpacity={1}
+      onPress={[Function]}
+      style={
+        Object {
+          "width": 277.9166666666667,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "borderBottomColor": "#DCDCE9",
+            "borderBottomWidth": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginLeft": 30,
+            "paddingBottom": 26.0546875,
+            "paddingTop": 26.0546875,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26,
+            }
+          }
+        >
+          Hide activities from this friend
+        </Text>
+      </View>
+    </ForwardRef>
+    <ForwardRef
+      activeOpacity={1}
+      onPress={[Function]}
+      style={
+        Object {
+          "width": 277.9166666666667,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginLeft": 30,
+            "paddingBottom": 26.0546875,
+            "paddingTop": 26.0546875,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 26,
+            }
+          }
+        >
+          Delete Activity
+        </Text>
+      </View>
+    </ForwardRef>
+  </View>
+</View>
+`;

@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageScreen ActivityFeed component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 693,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "id": "1",
+          },
+          Object {
+            "id": "2",
+          },
+          Object {
+            "id": "3",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={
+        Array [
+          1,
+        ]
+      }
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 75,
+        "zIndex": -1,
+      }
+    }
+  >
+    <BottomNav
+      activity={false}
+      activityonPress={[Function]}
+      chats={true}
+      chatsonPress={[Function]}
+      newsfeed={false}
+      newsfeedonPress={[Function]}
+      profile={false}
+      profileonPress={[Function]}
+      search={false}
+      searchonPress={[Function]}
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'),
+    url('../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+.flex-4-1 {
+  display: flex;
+  flex-direction: row;
+  background: #7b46e4 0% 0% no-repeat padding-box;
+}
+
+.flex-4-1-1 {
+  color: white;
+  width: 50vw;
+  opacity: 1;
+}
+
+.newzera-img {
+  padding-left: 3.5vw;
+  padding-top: 4.01vh;
+  height: 5.43vh;
+
+  /*width:10vw;*/
+}
+
+.heading-4 {
+  padding: 17.96vh 0 0 4.16vw;
+  font-size: 5.18vh;
+  line-height: 6.67vh;
+  font-family: 'BananaGrotesk-Medium';
+}
+.flex-4-1-2 {
+  background-color: black;
+  background-image: url(../../Images/background4.jpg);
+  opacity: 1;
+  width: 50vw;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
+
+.nav-bar-4 {
+  font-family: 'BananaGrotesk-Semibold';
+  text-align: right;
+  padding: 5.92vh 9.13vh 0 0;
+  font-size: 1.82vh;
+  word-spacing: 4vh;
+}
+
+.content-4 {
+  padding: 9.2vh 15.27vw 0 4.16vw;
+  font-size: 1.97vh;
+  line-height: 3.33vh;
+  font-family: 'BananaGrotesk-Light';
+  color: #dcdce9;
+}
+
+.openings-box {
+  background-color: '#DCDCE9';
+  padding-top: 11.11vh;
+  padding-left: 113.11vh;
+  width: 17.7vw;
+}
+.openings-head {
+  color: green;
+  color: #7b46e4;
+  /*height:6vh;*/
+}
+
+.openings-button {
+  padding: 11.11vh 0 0 4.16vw;
+}
+
+.main-button {
+  height: 7.4vh;
+  width: 17.7vw;
+  background: #dcdce9 0% 0% no-repeat padding-box;
+  border-radius: 4.8vh;
+  opacity: 1;
+  color: #7b46e4;
+  font-size: 2.4vh;
+  font-family: 'BananaGrotesk-Regular';
+  cursor: pointer;
+  /*padding: 0 0 0 2.11vw;*/
+  /*transform: matrix(0, -1, 1, 0, 0, 0);*/
+}
+
+.links-content {
+  padding: 13.2vh 0 0 4.16vw;
+  color: #dcdce9;
+}
+
+.flex-links {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.97vh;
+  line-height: 3.33vh;
+  font-family: 'BananaGrotesk-Light';
+}
+
+.flex-links-1 {
+  width: 30.55vw;
+}
+
+.flex-links-2 {
+  padding-left: 7.77vw;
+  width: 7.5vw;
+}
+
+.flex-links-3 {
+  padding-left: 7.77vw;
+  width: 7.5vw;
+}

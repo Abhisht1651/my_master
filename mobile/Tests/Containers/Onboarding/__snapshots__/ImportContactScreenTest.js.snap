@@ -1,0 +1,446 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImportContacts  rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <Header
+    container={
+      Object {
+        "backgroundColor": "white",
+        "height": 101.384,
+      }
+    }
+    count={3}
+    isProgressBarVisible={true}
+    onPressBack={[Function]}
+    onPressRight={[Function]}
+    progressContainer={
+      Object {
+        "marginLeft": 112.5,
+      }
+    }
+    rightText="Invite Friends"
+    rightTextStyle={Object {}}
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "flex": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 35,
+          "marginHorizontal": 63.00000000000001,
+          "marginTop": 78.706,
+        }
+      }
+    >
+      Import your contacts to suggest connections
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 347.39583333333337,
+          "marginHorizontal": 50.25,
+          "marginTop": 199.75260416666669,
+          "width": 650,
+        }
+      }
+    >
+      <ImportCard
+        onPress={[Function]}
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "marginTop": 266.8,
+        }
+      }
+    >
+      <LargeButton
+        disabled={false}
+        onPress={[Function]}
+        style={Object {}}
+        title="Maybe Later"
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`ImportContacts component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 101.384,
+          "justifyContent": "space-between",
+          "padding": "6%",
+        },
+        Object {
+          "backgroundColor": "white",
+          "height": 101.384,
+        },
+      ]
+    }
+  >
+    <View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "alignSelf": "center",
+              "height": 31.265625,
+              "resizeMode": "contain",
+              "tintColor": "#1F1F60",
+              "width": 36,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "height": 5,
+            "justifyContent": "space-between",
+            "marginLeft": 30,
+            "width": 42,
+          },
+          Object {
+            "marginLeft": 112.5,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "width": 40,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "#7B46E4",
+                "borderRadius": 2,
+                "height": 2.5,
+                "width": 12,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "backgroundColor": "#7B46E4",
+                "borderRadius": 2,
+                "height": 2.5,
+                "width": 12,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "backgroundColor": "#7B46E4",
+                "borderRadius": 2,
+                "height": 2.5,
+                "width": 12,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#7B46E4",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 31,
+              },
+              Object {},
+            ]
+          }
+        >
+          Invite Friends
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "flex": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 35,
+          "marginHorizontal": 63.00000000000001,
+          "marginTop": 78.706,
+        }
+      }
+    >
+      Import your contacts to suggest connections
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 347.39583333333337,
+          "marginHorizontal": 50.25,
+          "marginTop": 199.75260416666669,
+          "width": 650,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DCDCE9",
+            "borderRadius": 24.642857142857142,
+            "borderWidth": 1,
+            "height": "100%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "aspectRatio": 1,
+              "height": "30%",
+              "marginBottom": 13.142857142857142,
+              "marginTop": 49.285714285714285,
+            }
+          }
+        >
+          <SvgMock
+            height="100%"
+          />
+        </View>
+        <View
+          activeOpacity={1}
+          style={
+            Object {
+              "alignItems": "center",
+              "height": "22%",
+              "justifyContent": "center",
+              "marginBottom": 6.571428571428571,
+              "width": "61.53%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 31,
+                "letterSpacing": -0.12,
+                "lineHeight": 36.14285714285714,
+                "textAlign": "center",
+              }
+            }
+          >
+            Import contacts from your phone
+          </Text>
+        </View>
+        <View
+          activeOpacity={1}
+          style={
+            Object {
+              "height": "8.5%",
+              "width": "61.53%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#8F8FAF",
+                "fontFamily": "BananaGrotesk-Light",
+                "fontSize": 24,
+                "textAlign": "center",
+              }
+            }
+          >
+            Get access to my adresss book
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "marginTop": 266.8,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 78,
+              "height": 120,
+              "width": 650,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#FFFFFF",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 32,
+                  "letterSpacing": -0.18,
+                  "lineHeight": 36,
+                },
+                Object {},
+              ]
+            }
+          >
+            Maybe Later
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

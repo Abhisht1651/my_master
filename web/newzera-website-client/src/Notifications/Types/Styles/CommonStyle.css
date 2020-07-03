@@ -1,0 +1,50 @@
+.iconNOT{
+	width: 4.58vw;
+}
+
+
+.seenBackNOT{
+	background-color: rgba(247, 247, 247, 0.15)
+}
+
+.trendingImgNOT{
+	width: 1.54vw;
+	height: 1.54vw;
+}
+
+.ellipsesImg{
+	width: 1.04vw;
+}
+
+.personImgNOT{
+	width: 1.86vw;
+	height: 1.86vw;
+	border-radius: 50%;
+}
+
+.msgImgNOT{
+	width: 1.32vw;
+	height: 1.32vw;
+	margin:-3vh -2vh -2.5vh -2.2vh;
+}
+
+.text1NOT{
+  font-size: 1.66vh;
+  line-height: 2.3vh;
+  font-family: 'BananaGrotesk-Bold';
+  color: white;
+}
+
+.text2NOT{
+  font-size: 1.66vh;
+  line-height: 2.3vh;
+  font-family: 'BananaGrotesk-Light';
+  color: white;
+}
+
+.text3NOT{
+	font-size: 1.38vh;
+  line-height: 1.57vh;
+  font-family: 'BananaGrotesk-Regular';
+  color: #8F8FAF;	
+}

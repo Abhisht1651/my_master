@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 44,
+            "height": 88,
+            "marginBottom": 22.580729166666664,
+            "marginTop": 27.791666666666664,
+            "width": 88,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "left": 114,
+            "marginBottom": 52.109375,
+            "marginTop": 52.109375,
+            "position": "absolute",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 36,
+              "letterSpacing": -0.24,
+              "lineHeight": 53.99999999999999,
+            }
+          }
+        >
+          Amelia
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#8F8FAF",
+            "borderRadius": 30,
+            "borderWidth": 1,
+            "height": 60,
+            "justifyContent": "center",
+            "position": "absolute",
+            "right": 0,
+            "top": 43.42447916666667,
+            "width": 60,
+          }
+        }
+      />
+    </View>
+  </TouchableWithoutFeedback>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 1.7369791666666665,
+        "width": "100%",
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OTPTextView rendering should match to snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      },
+      Object {},
+    ]
+  }
+>
+  <Component
+    allowFontScaling={true}
+    autoCorrect={false}
+    autoFocus={false}
+    key="0"
+    keyboardType="numeric"
+    maxLength={1}
+    multiline={false}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onKeyPress={[Function]}
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "fontSize": 22,
+          "textAlign": "center",
+        },
+        Object {},
+        Object {},
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <Component
+    allowFontScaling={true}
+    autoCorrect={false}
+    autoFocus={false}
+    key="1"
+    keyboardType="numeric"
+    maxLength={1}
+    multiline={false}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onKeyPress={[Function]}
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "fontSize": 22,
+          "textAlign": "center",
+        },
+        Object {},
+        Object {},
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <Component
+    allowFontScaling={true}
+    autoCorrect={false}
+    autoFocus={false}
+    key="2"
+    keyboardType="numeric"
+    maxLength={1}
+    multiline={false}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onKeyPress={[Function]}
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "fontSize": 22,
+          "textAlign": "center",
+        },
+        Object {},
+        Object {},
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <Component
+    allowFontScaling={true}
+    autoCorrect={false}
+    autoFocus={false}
+    key="3"
+    keyboardType="numeric"
+    maxLength={1}
+    multiline={false}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onKeyPress={[Function]}
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "fontSize": 22,
+          "textAlign": "center",
+        },
+        Object {},
+        Object {},
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediumProfilePicture Rendering should match to snapshot 1`] = `
+<View>
+  <ForwardRef
+    activeOpacity={1}
+    onPress={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "borderRadius": 100,
+        "height": 88,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "aspectRatio": 1,
+          "borderRadius": 100,
+          "height": "100%",
+        }
+      }
+    />
+  </ForwardRef>
+</View>
+`;

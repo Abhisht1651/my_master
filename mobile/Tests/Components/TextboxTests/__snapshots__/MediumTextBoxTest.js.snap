@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LargeTextBox should render the component without crashing 1`] = `
+<KeyboardAvoidingView
+  behavior="padding"
+  enabled={true}
+  keyboardVerticalOffset={0}
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 5,
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 29.57142857142857,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "Helvetica",
+            "fontSize": 27,
+            "letterSpacing": -0.12,
+            "padding": 0,
+            "textAlignVertical": "top",
+          }
+        }
+      >
+        What do you think?
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#F5F8F8",
+          "borderRadius": 10,
+          "flex": 1,
+          "marginTop": 37.5,
+          "width": "100%",
+        }
+      }
+    >
+      <Component
+        allowFontScaling={true}
+        autoCorrect={false}
+        multiline={true}
+        onChangeText={[Function]}
+        placeholder="Write your opinion."
+        placeholderTextColor="#8F8FAF"
+        rejectResponderTermination={true}
+        selectionColor="#7B46E4"
+        spellCheck={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Helvetica",
+              "fontSize": 24,
+              "height": "92.90%",
+              "letterSpacing": -0.11,
+              "marginLeft": "6.17%",
+              "marginTop": 34.5,
+              "padding": 0,
+              "textAlignVertical": "top",
+              "width": "73.76%",
+            },
+            Object {
+              "color": "#000080",
+            },
+            Object {},
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>
+</KeyboardAvoidingView>
+`;

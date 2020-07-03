@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'),
+    url('../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+.background4-4-mob {
+  background-image: url(../../Images/background4.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 100% 100%;
+  height: 49.26vh;
+}
+
+.para-4-1-mob {
+  padding: 5.66vh 0 0 8vw;
+}
+.para-4-1-1-mob {
+  padding-right: 5.33vw;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 5.17vh;
+  line-height: 6.65vh;
+  color: white;
+}
+
+.para-4-1-2-mob {
+  padding: 5.17vh 26.67vw 0 0;
+  font-size: 1.72vh;
+  line-height: 3.32vh;
+  font-family: 'BananaGrotesk-Light';
+  color: #dcdce9;
+}
+
+.button-4-mob {
+  padding-top: 1.6vh;
+}
+.para-4-2-mob {
+  padding: 9.23vh 9.33vw 0 4.26vw;
+  color: #dcdce9;
+}
+
+.flex-links-mob {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.72vh;
+  line-height: 2.4vh;
+  font-family: 'BananaGrotesk-Light';
+}
+
+.flex-links-1-mob {
+  width: 30vw;
+}
+
+.flex-links-2-mob {
+  padding-left: 2.4vw;
+  width: 22.06vw;
+}
+
+.flex-links-3-mob {
+  padding-left: 2.4vw;
+  width: 18.53vw;
+}
+
+.main-button-4-mob {
+  height: 6.1vh;
+  width: 60vw;
+  background: #dcdce9 0% 0% no-repeat padding-box;
+  border-radius: 4.8vh;
+  opacity: 1;
+  color: #7b46e4;
+  font-size: 1.97vh;
+  font-family: 'BananaGrotesk-Regular';
+  cursor: pointer;
+}
+.footer-4-mob {
+  padding-left: 7.46vw;
+  padding-right: 4.2vw;
+}

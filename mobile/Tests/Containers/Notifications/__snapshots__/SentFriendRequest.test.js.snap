@@ -1,0 +1,284 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SentFriendRequest SentFriendRequest component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "zIndex": 9,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 132,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "paddingLeft": 50,
+              "paddingTop": 46,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 22.17857142857143,
+                "height": 44.35714285714286,
+                "width": 44.35714285714286,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "width": 574,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingTop": 37.785714285714285,
+                "width": 464,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 34.5,
+              }
+            }
+          >
+            <ForwardRef
+              activeOpacity={1}
+              onPress={[Function]}
+            >
+              <Image
+                source={
+                  Object {
+                    "default": "",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 4.928571428571428,
+                    "width": 30,
+                  }
+                }
+              />
+            </ForwardRef>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "width": 464,
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#8F8FAF",
+                    "fontFamily": "BananaGrotesk-Light",
+                    "fontSize": 23,
+                    "lineHeight": 31.21428571428571,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#1F1F60",
+                      "fontFamily": "BananaGrotesk-Semibold",
+                    }
+                  }
+                >
+                  Donald Trump
+                </Text>
+                 sent you a friend request. You have 
+                92
+                 friends in common.
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "paddingTop": 14.785714285714286,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#7B46E4",
+                    "borderRadius": 26.285714285714285,
+                    "height": 49.28571428571429,
+                    "width": 180,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "paddingTop": 11.5,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontFamily": "BananaGrotesk-Bold",
+                        "fontSize": 23,
+                        "lineHeight": 26.285714285714285,
+                      }
+                    }
+                  >
+                    Accept
+                  </Text>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "borderColor": "#7B46E4",
+                    "paddingLeft": 10,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "#7B46E4",
+                      "borderRadius": 26.285714285714285,
+                      "borderWidth": 3.2857142857142856,
+                      "height": 49.28571428571429,
+                      "width": 180,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "paddingTop": 11.5,
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Object {
+                          "color": "#7B46E4",
+                          "fontFamily": "BananaGrotesk-Bold",
+                          "fontSize": 23,
+                          "lineHeight": 26.285714285714285,
+                        }
+                      }
+                    >
+                      Ignore
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-end",
+                "paddingRight": 28.000000000000004,
+                "paddingTop": 4.928571428571428,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Light",
+                  "fontSize": 19.71428571428571,
+                  "lineHeight": 23,
+                }
+              }
+            >
+              2 days
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 34.5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingLeft": 53.99999999999999,
+            "paddingRight": 46,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E6ECED",
+              "borderBottomWidth": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

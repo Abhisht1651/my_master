@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#DCDCE9",
+      "borderRadius": 26.0546875,
+      "borderWidth": 1.7369791666666665,
+      "marginBottom": 21.712239583333336,
+      "marginLeft": 50,
+      "marginRight": 50,
+      "marginTop": 21.712239583333336,
+      "width": "86.66%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#DCDCE9",
+        "borderBottomWidth": 1.7369791666666665,
+        "height": 118.11458333333334,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <TouchableWithoutFeedback>
+      <View
+        style={
+          Object {
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#8F8FAF",
+                  "fontFamily": "BananaGrotesk-Regular",
+                  "fontSize": 28.000000000000004,
+                  "letterSpacing": -0.16,
+                  "lineHeight": 32,
+                  "width": 400,
+                },
+                Object {
+                  "left": 96,
+                },
+              ]
+            }
+          >
+            <Text>
+              You sent a raven to 
+            </Text>
+            <Text
+              style={
+                Object {
+                  "textDecorationLine": "underline",
+                }
+              }
+            >
+               friends
+            </Text>
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "position": "absolute",
+              "right": 40,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 24,
+                "width": 12,
+              }
+            }
+          />
+        </View>
+      </View>
+    </TouchableWithoutFeedback>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#DCDCE9",
+        "borderBottomWidth": 1.7369791666666665,
+        "height": 644,
+      }
+    }
+  >
+    <storyLineShortCardDefault
+      border={false}
+      followDisplay={true}
+      followerDisplay={true}
+      following={true}
+      friendsFollowing="45 friends Following"
+      heading="World"
+      onPressFollow={[Function]}
+      reach={45}
+      storyImage={
+        Object {
+          "default": "",
+        }
+      }
+      storyTitle="UK exit from the European Union"
+      trending={true}
+      updatedTime="2m"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 118.11458333333334,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 34.739583333333336,
+          "justifyContent": "center",
+          "width": 280,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <Text
+          style={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 28.000000000000004,
+              "letterSpacing": -0.16,
+              "lineHeight": 32,
+              "textAlign": "center",
+            }
+          }
+        >
+          Send to more friends
+        </Text>
+      </TouchableWithoutFeedback>
+    </View>
+  </View>
+</View>
+`;

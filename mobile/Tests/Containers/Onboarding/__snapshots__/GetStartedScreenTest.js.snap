@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GetStartedScreen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 226.78000000000003,
+          "marginTop": 237.45200000000003,
+          "resizeMode": "contain",
+          "width": 434.99999999999994,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": "2.5%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 38,
+        }
+      }
+    >
+      A better way of catching up.
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginTop": 295.3476,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Array [
+            Object {
+              "backgroundColor": "#7B46E4",
+              "borderRadius": 78,
+              "height": 120,
+              "width": 550,
+            },
+          ],
+          Object {},
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "#FFFFFF",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 32,
+                  "letterSpacing": -0.18,
+                  "lineHeight": 36,
+                },
+              ],
+              Object {},
+            ]
+          }
+        >
+          Get Started
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginTop": 17.342000000000002,
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderColor": "#7B46E4",
+              "borderRadius": 78,
+              "borderWidth": 2,
+              "height": 120,
+              "width": 550,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#7B46E4",
+                  "fontFamily": "BananaGrotesk-Bold",
+                  "fontSize": 32,
+                  "letterSpacing": -0.18,
+                  "lineHeight": 36,
+                },
+                Object {},
+              ]
+            }
+          >
+            Log In
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Requests Icon component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "flexDirection": "row",
+      "height": 25,
+      "opacity": 1,
+      "width": 180,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  >
+    <SvgMock />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 20,
+        "marginLeft": 13,
+        "marginTop": 3,
+        "width": 144,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 18,
+          "letterSpacing": -0.12,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Friend Requests
+    </Text>
+  </View>
+</View>
+`;

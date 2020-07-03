@@ -1,0 +1,436 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RelatedPoll RelatedPoll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "minHeight": 300,
+      "minWidth": 300,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": 52,
+        "width": "88%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 36,
+          "letterSpacing": -0.11,
+          "lineHeight": 44,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Who are your favorites for the World Cup 2020?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderBottomColor": "#E6ECED",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 24,
+        "paddingBottom": 10,
+        "width": "88%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginLeft": 8,
+          }
+        }
+      >
+        <Image
+          key="0"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+        <Image
+          key="1"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+        <Image
+          key="2"
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "marginLeft": -16,
+              "opacity": 1,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#082366",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.1,
+              "opacity": 0.5,
+              "textAlign": "left",
+            }
+          }
+        >
+          54
+          K votes
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 34,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": 6,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#002468",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "opacity": 0.5,
+              "textAlign": "right",
+            }
+          }
+        >
+          2 hours left
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 29,
+        "width": "100%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "width": "40%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#8F8FAF",
+            "borderRadius": 24,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 50,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28,
+              "letterSpacing": 0,
+              "marginTop": 2,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          India
+        </Text>
+      </View>
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "width": "40%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#8F8FAF",
+            "borderRadius": 24,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 50,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28,
+              "letterSpacing": 0,
+              "marginTop": 2,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          West Indies
+        </Text>
+      </View>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 29,
+        "width": "100%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "width": "40%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#8F8FAF",
+            "borderRadius": 24,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 50,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28,
+              "letterSpacing": 0,
+              "marginTop": 2,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Australia
+        </Text>
+      </View>
+    </ForwardRef>
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "width": "40%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#8F8FAF",
+            "borderRadius": 24,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 50,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28,
+              "letterSpacing": 0,
+              "marginTop": 2,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          England
+        </Text>
+      </View>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "marginVertical": 40,
+      }
+    }
+  >
+    <MediumThinnerButton
+      onPress={[Function]}
+      outline={true}
+      style={Object {}}
+      title="Vote"
+    />
+  </View>
+</View>
+`;

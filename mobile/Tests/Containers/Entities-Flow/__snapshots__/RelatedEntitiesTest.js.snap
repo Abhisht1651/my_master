@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RelatedEntities Related Entites component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 100.21428571428572,
+        "justifyContent": "space-between",
+        "paddingLeft": 53.99999999999999,
+        "paddingRight": 229.99999999999997,
+        "shadowColor": "#E6ECED",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+        }
+      }
+    >
+      Related Entities
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#E6ECED",
+      }
+    }
+  >
+    <ScrollViewMock>
+      <View
+        style={
+          Object {
+            "paddingBottom": 8.214285714285715,
+            "paddingTop": 59.142857142857146,
+          }
+        }
+      >
+        <CardType1
+          count={52}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="India"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={51}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          title="United States of America"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="United States of America"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "paddingVertical": 8.214285714285715,
+          }
+        }
+      >
+        <CardType1
+          count={0}
+          image1={
+            Object {
+              "default": "",
+            }
+          }
+          onPressFollow={[Function]}
+          title="Default"
+        />
+      </View>
+    </ScrollViewMock>
+  </View>
+</View>
+`;

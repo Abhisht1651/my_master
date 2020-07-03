@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Commentbar2 should match to snapshot 1`] = `
+<View
+  elevation={-1}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#E6ECED",
+        "borderTopWidth": 2,
+        "flexDirection": "row",
+        "width": 750,
+      },
+      Object {
+        "height": 147.85714285714286,
+      },
+    ]
+  }
+>
+  <ForwardRef
+    style={
+      Object {
+        "marginLeft": 51.5,
+        "marginRight": 34.5,
+      }
+    }
+  >
+    <SvgMock
+      height="100%"
+    />
+  </ForwardRef>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F7F7F7",
+          "borderRadius": 19,
+          "flexDirection": "row",
+          "height": 65.4842857142857,
+          "paddingLeft": 15.73,
+          "width": 568,
+        },
+        Object {
+          "height": 65.50071428571428,
+        },
+      ]
+    }
+  >
+    <Component
+      allowFontScaling={true}
+      autoCorrect={false}
+      maxLength={150}
+      multiline={true}
+      onChangeText={[Function]}
+      onContentSizeChange={[Function]}
+      onTouchStart={[Function]}
+      placeholder="Comment Something"
+      placeholderTextColor="rgba(27, 32, 98, 0.3)"
+      rejectResponderTermination={true}
+      selectionColor="#7B46E4"
+      spellCheck={false}
+      style={
+        Object {
+          "color": "#1B2062",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 27,
+          "height": "70%",
+          "letterSpacing": -0.09,
+          "margin": 0,
+          "padding": 0,
+          "textAlign": "left",
+          "textAlignVertical": "center",
+          "width": "78%",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <ForwardRef
+      activeOpacity={1}
+      onPress={null}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "letterSpacing": -0.09,
+            "opacity": 0.4,
+          }
+        }
+      >
+        Post
+      </Text>
+    </ForwardRef>
+  </View>
+</View>
+`;

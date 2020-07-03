@@ -1,0 +1,388 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Entities1 Entities1 component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "elevation": 2,
+        "flexDirection": "row",
+        "height": 100.21428571428572,
+        "justifyContent": "space-between",
+        "paddingHorizontal": 50,
+        "shadowColor": "#E6ECED",
+        "width": "100%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+      />
+    </ForwardRef>
+    <Bubbles2 />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "elevation": 1,
+        "height": 847.7142857142857,
+        "justifyContent": "center",
+        "paddingBottom": 95.28571428571428,
+        "paddingLeft": 50,
+        "paddingRight": 62,
+        "paddingTop": 60.785714285714285,
+        "shadowColor": "#E6ECED",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginTop": 60.785714285714285,
+          }
+        }
+      >
+        <Profile
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 80.5,
+            "justifyContent": "center",
+            "marginTop": 31.21428571428571,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 40,
+              "letterSpacing": -0.28,
+            }
+          }
+        >
+          Donald Trump
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 32,
+              "letterSpacing": -0.22,
+              "textAlign": "left",
+            }
+          }
+        >
+          President of the USA
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 93.64285714285714,
+            "justifyContent": "center",
+            "marginTop": 49.28571428571429,
+          }
+        }
+      >
+        <X4SButton
+          disabled={false}
+          onPress={[Function]}
+          outline={true}
+          style={Object {}}
+          title="Follow"
+        />
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28.000000000000004,
+              "marginTop": 8.214285714285715,
+            }
+          }
+        >
+          54K Following
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 95.28571428571428,
+            "marginTop": 47.64285714285714,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 36,
+              "letterSpacing": -0.24,
+            }
+          }
+        >
+          Details
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 32,
+              "letterSpacing": -0.22,
+              "marginTop": 24.642857142857146,
+            }
+          }
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 302.2857142857143,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 138,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginHorizontal": 50,
+            "marginTop": 69,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 36,
+              "letterSpacing": -0.24,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Similar Entities
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 32,
+              "letterSpacing": -0.18,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          View All
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 179.07142857142858,
+        }
+      }
+    >
+      <ScrollViewMock
+        horizontal={true}
+      >
+        <View
+          style={
+            Object {
+              "paddingLeft": 26,
+              "paddingRight": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="India"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="USA"
+          />
+        </View>
+        <View
+          profileIcons={
+            Array [
+              Object {
+                "default": "",
+              },
+            ]
+          }
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="UNICEF"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="European"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="Europe"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="Default"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "paddingHorizontal": 8,
+            }
+          }
+        >
+          <ThumbsLarge
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="Default"
+          />
+        </View>
+      </ScrollViewMock>
+    </View>
+  </View>
+</View>
+`;

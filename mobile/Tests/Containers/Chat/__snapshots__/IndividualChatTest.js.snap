@@ -1,0 +1,375 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IndividualChat IndividualChat component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "flexDirection": "column-reverse",
+      "height": 1334,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderColor": "#E6ECED",
+        "borderTopWidth": 1.7369791666666665,
+        "height": 132.01041666666666,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Commentbar1
+      captureText={[Function]}
+      placeholderText="Type Something"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 693,
+      }
+    }
+  >
+    <ForwardRef(AnimatedComponentWrapper)
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Array [
+          Object {
+            "flex": 1,
+            "width": 900,
+          },
+          Object {
+            "transform": Array [
+              Object {
+                "translateX": 0,
+              },
+            ],
+          },
+        ]
+      }
+    >
+      <LinearGradient
+        colors={
+          Array [
+            "#F7F7F7",
+            "#FFFFFF",
+          ]
+        }
+        end={
+          Object {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        locations={
+          Array [
+            0.83,
+            0.17,
+          ]
+        }
+        start={
+          Object {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": "100%",
+              "marginRight": 30,
+            }
+          }
+        >
+          <FlatList
+            data={
+              Array [
+                Object {
+                  "date": "Yesterday",
+                  "id": "1",
+                  "messages": Array [
+                    Object {
+                      "id": "1123",
+                      "texts": Array [
+                        Object {
+                          "msg": "Hi Jesse, What is the status of meth production",
+                          "msg_id": "1007",
+                          "userid": "1",
+                        },
+                        Object {
+                          "msg": "I think, this time we will achieve 99.9% purity",
+                          "msg_id": "1008",
+                          "userid": "1",
+                        },
+                      ],
+                      "time": "11:29 am",
+                      "userid": "1",
+                    },
+                    Object {
+                      "id": "1124",
+                      "texts": Array [
+                        Object {
+                          "msg": "Yeah!!, I think so too..",
+                          "msg_id": "1009",
+                          "userid": "2",
+                        },
+                        Object {
+                          "msg": "But why are you doing this thing",
+                          "msg_id": "1010",
+                          "userid": "2",
+                        },
+                      ],
+                      "time": "11:30 am",
+                      "userid": "2",
+                    },
+                    Object {
+                      "id": "1125",
+                      "texts": Array [
+                        Object {
+                          "msg": "For the Family",
+                          "msg_id": "1011",
+                          "userid": "1",
+                        },
+                      ],
+                      "time": "11:32 am",
+                      "userid": "1",
+                    },
+                  ],
+                },
+                Object {
+                  "date": "Today",
+                  "id": "2",
+                  "messages": Array [
+                    Object {
+                      "id": "1123",
+                      "texts": Array [
+                        Object {
+                          "msg": "Hi Jesse, What is the status of meth production",
+                          "msg_id": "1007",
+                          "userid": "1",
+                        },
+                        Object {
+                          "msg": "I think, this time we will achieve 99.9% purity",
+                          "msg_id": "1008",
+                          "userid": "1",
+                        },
+                      ],
+                      "time": "11:29 am",
+                      "userid": "1",
+                    },
+                    Object {
+                      "id": "1124",
+                      "texts": Array [
+                        Object {
+                          "msg": "Yeah!!, I think so too..",
+                          "msg_id": "1009",
+                          "userid": "2",
+                        },
+                        Object {
+                          "msg": "But why are you doing this thing",
+                          "msg_id": "1010",
+                          "userid": "2",
+                        },
+                      ],
+                      "time": "11:30 am",
+                      "userid": "2",
+                    },
+                    Object {
+                      "id": "1125",
+                      "texts": Array [
+                        Object {
+                          "msg": "For the Family",
+                          "msg_id": "1011",
+                          "userid": "1",
+                        },
+                      ],
+                      "time": "11:32 am",
+                      "userid": "1",
+                    },
+                  ],
+                },
+              ]
+            }
+            disableVirtualization={false}
+            horizontal={false}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onContentSizeChange={[Function]}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+      </LinearGradient>
+    </ForwardRef(AnimatedComponentWrapper)>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#E6ECED",
+        "height": 119.8515625,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "left": 50,
+          "position": "absolute",
+          "top": 34.739583333333336,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Object {
+          "left": 118,
+          "top": 17.369791666666668,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 38.213541666666664,
+            "height": 76.42708333333333,
+            "position": "absolute",
+            "width": 76.42708333333333,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "left": 236,
+          "position": "absolute",
+          "top": 26.0546875,
+          "width": 400,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 31.265625,
+            }
+          }
+        >
+           
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 20.84375,
+              "top": 5.2109375,
+            }
+          }
+        >
+          Active now
+        </Text>
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row-reverse",
+          "position": "absolute",
+          "right": 53.99999999999999,
+          "top": 34.739583333333336,
+        }
+      }
+    >
+      <ForwardRef>
+        <View>
+          <DropDown3
+            content={
+              Array [
+                "Mute notifications",
+                "Block user",
+                "Report profile",
+              ]
+            }
+            getOption={[Function]}
+            headerTitle="Options"
+            zIndex={1}
+          />
+        </View>
+      </ForwardRef>
+      <MuteNotifications
+        isModalVisible={false}
+        onBtnPress={[Function]}
+        onClose={[Function]}
+      />
+      <BlockProfilePopUp
+        blockAction={[Function]}
+        closeAction={[Function]}
+        isModalVisible={false}
+        onBtnPress={[Function]}
+      />
+      <ReportUserPopUp
+        action={[Function]}
+        isModalVisible={false}
+        onBtnPress={[Function]}
+      />
+    </View>
+  </View>
+</View>
+`;

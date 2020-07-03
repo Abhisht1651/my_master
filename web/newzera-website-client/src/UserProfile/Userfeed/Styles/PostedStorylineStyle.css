@@ -1,0 +1,29 @@
+.box1PS{
+	width: 31.25vw;
+	background-color: rgba(255,255,255,0.1);
+	border-radius: 1.38vh;
+}
+
+.userImgPS{
+	height: 3.8vw;
+	width: 3.8vw;
+}
+
+.userNameTextPS{
+	font-size: 2.77vh;
+	line-height: 2.5vh;
+	color: white;
+	font-family: 'BananaGrotesk-Medium';
+}
+
+.storyHeadTextPS{
+	font-size: 2.12vh;
+	line-height: 3.14vh;
+	color: white;
+	font-family: 'BananaGrotesk-Regular';	
+	width: 28.82vw;
+}
+
+.readMorePS{
+	font-family: 'BananaGrotesk-Bold';	
+}

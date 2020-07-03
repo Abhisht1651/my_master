@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrendingStoryline TrendingStoryline component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "flexDirection": "column",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 100.21428571428572,
+        "justifyContent": "space-between",
+        "paddingLeft": 53.99999999999999,
+        "paddingRight": 195.99999999999997,
+        "shadowColor": "#E6ECED",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+        }
+      }
+    >
+      Trending Storylines
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#E6ECED",
+      }
+    }
+  >
+    <ScrollViewMock>
+      <View>
+        <View
+          style={
+            Object {
+              "height": 62.42857142857142,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "height": 529,
+              "width": 600,
+            }
+          }
+        >
+          <storyLineShortCardDefault
+            border={true}
+            followDisplay={true}
+            followerDisplay={true}
+            following={true}
+            friendsFollowing="45 friends Following"
+            heading="World"
+            onPressFollow={[Function]}
+            reach={45}
+            storyImage={
+              Object {
+                "default": "",
+              }
+            }
+            storyTitle="UK exit from the European Union"
+            trending={true}
+            updatedTime="2m"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 83.78571428571429,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "height": 529,
+              "width": 600,
+            }
+          }
+        >
+          <storyLineShortCardDefault
+            border={true}
+            followDisplay={true}
+            followerDisplay={true}
+            following={true}
+            friendsFollowing="45 friends Following"
+            heading="World"
+            onPressFollow={[Function]}
+            reach={45}
+            storyImage={
+              Object {
+                "default": "",
+              }
+            }
+            storyTitle="UK exit from the European Union"
+            trending={true}
+            updatedTime="2m"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 83.78571428571429,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "height": 529,
+              "width": 600,
+            }
+          }
+        >
+          <storyLineShortCardDefault
+            border={true}
+            followDisplay={true}
+            followerDisplay={true}
+            following={true}
+            friendsFollowing="45 friends Following"
+            heading="World"
+            onPressFollow={[Function]}
+            reach={45}
+            storyImage={
+              Object {
+                "default": "",
+              }
+            }
+            storyTitle="UK exit from the European Union"
+            trending={true}
+            updatedTime="2m"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 83.78571428571429,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "height": 529,
+              "width": 600,
+            }
+          }
+        >
+          <storyLineShortCardDefault
+            border={true}
+            followDisplay={true}
+            followerDisplay={true}
+            following={true}
+            friendsFollowing="45 friends Following"
+            heading="World"
+            onPressFollow={[Function]}
+            reach={45}
+            storyImage={
+              Object {
+                "default": "",
+              }
+            }
+            storyTitle="UK exit from the European Union"
+            trending={true}
+            updatedTime="2m"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 83.78571428571429,
+            }
+          }
+        />
+      </View>
+    </ScrollViewMock>
+  </View>
+</View>
+`;

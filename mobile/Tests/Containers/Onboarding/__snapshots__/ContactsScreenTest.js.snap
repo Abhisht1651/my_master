@@ -1,0 +1,448 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactScreen rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <ReactNativeModal
+    animationIn="slideInUp"
+    animationInTiming={300}
+    animationOut="slideOutDown"
+    animationOutTiming={300}
+    avoidKeyboard={false}
+    backdropColor="#222223"
+    backdropOpacity={0.7}
+    backdropTransitionInTiming={300}
+    backdropTransitionOutTiming={300}
+    coverScreen={true}
+    customBackdrop={null}
+    deviceHeight={null}
+    deviceWidth={null}
+    hasBackdrop={true}
+    hideModalContentWhileAnimating={false}
+    isVisible={false}
+    onBackButtonPress={[Function]}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    onModalShow={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    propagateSwipe={false}
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+    useNativeDriver={false}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "white",
+            "borderRadius": 27,
+            "height": 486.3541666666667,
+            "width": 650,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 53.36,
+              "position": "absolute",
+              "right": 47.25,
+              "top": 36.4182,
+              "width": 53.36,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "height": 30.015000000000004,
+                "resizeMode": "contain",
+                "tintColor": "#7B46E4",
+              }
+            }
+          />
+        </ForwardRef>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 37,
+              "marginHorizontal": 128.25,
+              "marginTop": 132.01041666666669,
+              "textAlign": "center",
+            }
+          }
+        >
+          Add All
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 30,
+              "marginHorizontal": 63.97499999999999,
+              "marginTop": 13.34,
+              "textAlign": "center",
+            }
+          }
+        >
+          Are you sure you want to add all friends?
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "marginTop": 86.84895833333334,
+            }
+          }
+        >
+          <MediumButton
+            disabled={false}
+            onPress={[Function]}
+            outline={false}
+            style={Object {}}
+            title="Continue"
+          />
+        </View>
+      </View>
+    </View>
+  </ReactNativeModal>
+  <Header
+    container={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+    count={3}
+    isProgressBarVisible={true}
+    onPressBack={[Function]}
+    onPressRight={[Function]}
+    progressContainer={Object {}}
+    rightText="Skip"
+    rightTextStyle={Object {}}
+  />
+  <ScrollViewMock
+    style={
+      Object {
+        "backgroundColor": "#F7F7F7",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "height": 106.72,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 35,
+            "marginLeft": 50.25,
+            "marginTop": 31.215599999999995,
+          }
+        }
+      >
+        We’ve found 
+        0
+         connections
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginHorizontal": 52.50000000000001,
+          "marginTop": "5%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 32,
+          }
+        }
+      >
+        Friends in Newzera
+      </Text>
+      <ClickableText
+        onPress={[Function]}
+        style={Object {}}
+        text="Add all"
+        textStyle={
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#F7F7F7",
+          "flex": 1,
+          "marginTop": 42.688,
+        }
+      }
+    >
+      <View>
+        <FlatList
+          ItemSeparatorComponent={[Function]}
+          ListFooterComponent={[Function]}
+          ListHeaderComponent={[Function]}
+          data={Array []}
+          disableVirtualization={false}
+          extraData={Array []}
+          horizontal={true}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsHorizontalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "white",
+            "marginTop": 76.038,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginHorizontal": 52.50000000000001,
+                "marginTop": "5%",
+              },
+              Object {
+                "marginTop": "4.3%",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 32,
+              }
+            }
+          >
+            Invite friends via email
+          </Text>
+          <ClickableText
+            onPress={[Function]}
+            style={Object {}}
+            text="Invite all"
+            textStyle={
+              Object {
+                "color": "#7B46E4",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 25,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "marginTop": 49.358000000000004,
+            }
+          }
+        >
+          <FlatList
+            ItemSeparatorComponent={[Function]}
+            ListFooterComponent={[Function]}
+            ListHeaderComponent={[Function]}
+            data={Array []}
+            disableVirtualization={false}
+            extraData={Array []}
+            horizontal={true}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginHorizontal": 52.50000000000001,
+                "marginTop": "5%",
+              },
+              Object {
+                "marginHorizontal": 50.25,
+                "marginTop": "6.3%",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#1F1F60",
+                "fontFamily": "BananaGrotesk-Medium",
+                "fontSize": 32,
+              }
+            }
+          >
+            Invite friends via contact
+          </Text>
+          <ClickableText
+            onPress={[Function]}
+            style={Object {}}
+            text="Invite all"
+            textStyle={
+              Object {
+                "color": "#7B46E4",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 25,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "marginBottom": 240.12,
+              "marginTop": 49.358000000000004,
+            }
+          }
+        >
+          <FlatList
+            ItemSeparatorComponent={[Function]}
+            ListFooterComponent={[Function]}
+            ListHeaderComponent={[Function]}
+            data={Array []}
+            disableVirtualization={false}
+            extraData={Array []}
+            horizontal={true}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+        </View>
+      </View>
+    </View>
+  </ScrollViewMock>
+  <LinearGradient
+    colors={
+      Array [
+        "#FFFFFF00",
+        "#F7F7F7",
+      ]
+    }
+    end={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    start={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Object {
+        "alignItems": "center",
+        "bottom": 0,
+        "height": 237.45200000000003,
+        "justifyContent": "center",
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <LargeButton
+      disabled={false}
+      onPress={[Function]}
+      style={Object {}}
+      title="Continue"
+    />
+  </LinearGradient>
+</View>
+`;

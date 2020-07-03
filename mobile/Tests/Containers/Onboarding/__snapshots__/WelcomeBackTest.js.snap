@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WelcomeBack rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.188802083333336,
+        "width": "100%",
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "default": "",
+      }
+    }
+    style={
+      Object {
+        "height": 217.12239583333334,
+        "marginTop": 236.22916666666669,
+        "resizeMode": "contain",
+        "width": 376.9244791666667,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Medium",
+        "fontSize": 39,
+        "marginTop": 36.4765625,
+      }
+    }
+  >
+    Welcome back, Amanda
+  </Text>
+  <Image
+    source={
+      Object {
+        "default": "",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 83.375,
+        "height": 165.01302083333334,
+        "marginTop": 67.7421875,
+        "resizeMode": "cover",
+        "width": 165.01302083333334,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Regular",
+        "fontSize": 28,
+        "marginTop": 62.53125,
+      }
+    }
+  >
+    or
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 90.32291666666667,
+      }
+    }
+  >
+    <MediumButton
+      disabled={false}
+      onPress={[Function]}
+      outline={true}
+      style={Object {}}
+      title="Sign up with another account"
+    />
+  </View>
+</View>
+`;

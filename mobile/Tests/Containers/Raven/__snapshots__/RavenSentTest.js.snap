@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <StatusBar
+    animated={false}
+    hidden={true}
+    showHideTransition="fade"
+  />
+  <Image
+    source={
+      Object {
+        "default": "",
+      }
+    }
+    style={
+      Object {
+        "height": 1334,
+        "position": "absolute",
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "top": 542.8928385416667,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "height": 172.46,
+          "width": 126.00000000000001,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "width": 459.99999999999994,
+      }
+    }
+  >
+    <Senttext />
+  </View>
+</View>
+`;

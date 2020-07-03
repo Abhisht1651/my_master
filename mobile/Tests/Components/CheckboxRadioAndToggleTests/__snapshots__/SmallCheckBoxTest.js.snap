@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SmallCheckbox should match to snapshot 1`] = `
+<ForwardRef
+  activeOpacity={1}
+  onPress={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#8F8FAF",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "height": 16,
+      "justifyContent": "center",
+      "width": 16,
+    }
+  }
+/>
+`;

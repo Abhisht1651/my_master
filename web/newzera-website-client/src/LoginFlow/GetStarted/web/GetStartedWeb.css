@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'),
+    url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'), url('../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+.box4LoginFlow{
+	width:37.91vw;
+	height: auto;
+	background-color: white;
+}
+
+.headsignLoginflow{
+  color:white;
+  font-family: 'BananaGrotesk-Bold';
+  font-size: 1.85vh;
+  line-height: 2.5vh;
+}
+
+.footsignLoginflow{
+  color:#8F8FAF;
+  font-family: 'BananaGrotesk-Regular';
+  font-size: 1.48vh;
+  line-height: 2.5vh;
+}
+
+.boldLoginFlow{
+  color:white;
+  font-family: 'BananaGrotesk-Bold';
+}
+
+.inputLoginFlow{
+  color: #8F8FAF;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 1.67vh;
+  line-height: 2.03vh;
+  border-style: hidden;
+  border:none;
+  background-color: black;
+  width:100%;
+}
+
+::placeholder {
+  color: #8F8FAF;
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 1.67vh;
+  line-height: 2.03vh;
+}
+
+
+
+input:focus {
+    outline:none !important;
+}
+
+button:focus {
+    outline:none !important;
+}
+
+.underline{
+  color:green;
+}
+
+input[type="checkbox"]
+{
+    vertical-align:middle;
+}
+
+.checkTextLoginFlow{
+  padding-left: 0.58vw;
+  color:#8F8FAF;
+  font-family: 'BananaGrotesk-Regular';
+  font-size: 1.11vh;
+  line-height: 1.29vh;
+}
+
+.button3LoginFlow{
+  height: 5.55vh;
+  width: 100%;
+  border-radius: 3.56vh;
+  /*border-color: white;
+  border-width: 0.09vh;*/
+  font-size: 1.48vh;
+  background: #7B46E4 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-family: 'BananaGrotesk-Bold';
+  color: white;
+  cursor: pointer;
+}

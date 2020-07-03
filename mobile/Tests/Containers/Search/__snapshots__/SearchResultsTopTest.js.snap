@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Results Top Screen should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <ScrollViewMock>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "height": 200,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "width": 650,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 36,
+              "letterSpacing": -0.12,
+              "lineHeight": 54,
+              "marginBottom": 19,
+              "marginTop": 25,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Top Results
+        </Text>
+        <View
+          key="0"
+          style={
+            Object {
+              "marginBottom": 10,
+            }
+          }
+        >
+          <CardType1
+            count={52}
+            image1={
+              Object {
+                "default": "",
+              }
+            }
+            onPressFollow={[Function]}
+            profileIcons={
+              Array [
+                Object {
+                  "default": "",
+                },
+              ]
+            }
+            title="Donald Trump"
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "minHeight": 267,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginTop": 66.5,
+            "width": 649.5,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 36,
+              "letterSpacing": -0.12,
+              "lineHeight": 54,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Top Polls
+        </Text>
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Text
+            style={
+              Object {
+                "color": "#7B46E4",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 32,
+                "letterSpacing": -0.09,
+                "opacity": 1,
+                "textAlign": "right",
+              }
+            }
+          >
+            View all
+          </Text>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "width": 750,
+          }
+        }
+      >
+        <Carousel
+          activeAnimationOptions={null}
+          activeAnimationType="timing"
+          activeSlideAlignment="center"
+          activeSlideOffset={20}
+          apparitionDelay={0}
+          autoplay={false}
+          autoplayDelay={1000}
+          autoplayInterval={3000}
+          callbackOffsetMargin={5}
+          containerCustomStyle={Object {}}
+          contentContainerCustomStyle={Object {}}
+          data={
+            Array [
+              Object {
+                "isPollActive": true,
+                "option": Array [
+                  "India",
+                  "West Indies",
+                  "Australia",
+                  "England",
+                ],
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+              Object {
+                "isPollActive": true,
+                "option": Array [
+                  "India",
+                  "West Indies",
+                  "Australia",
+                  "England",
+                ],
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+              Object {
+                "isPollActive": true,
+                "option": Array [
+                  "India",
+                  "West Indies",
+                  "Australia",
+                  "England",
+                ],
+                "question": "Who are your favorites for the World Cup 2020?",
+                "timeLeft": 2,
+                "voterIcons": Array [
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                  Object {
+                    "default": "",
+                  },
+                ],
+                "votes": 54,
+              },
+            ]
+          }
+          enableMomentum={false}
+          enableSnap={true}
+          firstItem={0}
+          hasParallaxImages={false}
+          inactiveSlideOpacity={1}
+          inactiveSlideScale={1}
+          inactiveSlideShift={0}
+          itemWidth={651.5}
+          layout="default"
+          lockScrollTimeoutDuration={1000}
+          lockScrollWhileSnapping={false}
+          loop={false}
+          loopClonesPerSide={3}
+          renderItem={[Function]}
+          scrollEnabled={true}
+          shouldOptimizeUpdates={true}
+          slideStyle={Object {}}
+          sliderWidth={750}
+          swipeThreshold={20}
+          useScrollView={false}
+          vertical={false}
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "borderBottomColor": "#E6ECED",
+          "borderBottomWidth": 1,
+          "width": 750,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "minHeight": 267,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginTop": 66.5,
+            "width": 649.5,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Medium",
+              "fontSize": 36,
+              "letterSpacing": -0.12,
+              "lineHeight": 54,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Top Storyline
+        </Text>
+        <ForwardRef
+          onPress={[Function]}
+        >
+          <Text
+            style={
+              Object {
+                "color": "#7B46E4",
+                "fontFamily": "BananaGrotesk-Bold",
+                "fontSize": 32,
+                "letterSpacing": -0.09,
+                "opacity": 1,
+                "textAlign": "right",
+              }
+            }
+          >
+            View all
+          </Text>
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "width": 750,
+          }
+        }
+      >
+        <Carousel
+          activeAnimationOptions={null}
+          activeAnimationType="timing"
+          activeSlideAlignment="center"
+          activeSlideOffset={20}
+          apparitionDelay={0}
+          autoplay={false}
+          autoplayDelay={1000}
+          autoplayInterval={3000}
+          callbackOffsetMargin={5}
+          containerCustomStyle={Object {}}
+          contentContainerCustomStyle={Object {}}
+          data={
+            Array [
+              Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+              Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+              Object {
+                "following": true,
+                "friendsFollowing": "45 friends Following",
+                "heading": "World",
+                "reach": 45,
+                "storyImage": Object {
+                  "default": "",
+                },
+                "storyTitle": "UK exit from the European Union",
+                "trending": true,
+                "updatedTime": "2m",
+              },
+            ]
+          }
+          enableMomentum={false}
+          enableSnap={true}
+          firstItem={0}
+          hasParallaxImages={false}
+          inactiveSlideOpacity={1}
+          inactiveSlideScale={1}
+          inactiveSlideShift={0}
+          itemWidth={651.5}
+          layout="default"
+          lockScrollTimeoutDuration={1000}
+          lockScrollWhileSnapping={false}
+          loop={false}
+          loopClonesPerSide={3}
+          renderItem={[Function]}
+          scrollEnabled={true}
+          shouldOptimizeUpdates={true}
+          slideStyle={Object {}}
+          sliderWidth={750}
+          swipeThreshold={20}
+          useScrollView={false}
+          vertical={false}
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

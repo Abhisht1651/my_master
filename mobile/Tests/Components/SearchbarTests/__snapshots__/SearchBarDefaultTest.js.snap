@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBarDefault should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F5F8F8",
+      "borderRadius": 28.75,
+      "flexDirection": "row",
+      "height": 57.5,
+      "width": 650,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 26.285714285714285,
+        "justifyContent": "center",
+        "width": 70,
+      }
+    }
+  >
+    <SvgMock
+      height="100%"
+    />
+  </View>
+  <Component
+    allowFontScaling={true}
+    autoCorrect={false}
+    keyboardType="default"
+    onChangeText={[Function]}
+    onSubmitEditing={[Function]}
+    onTouchStart={[Function]}
+    placeholder="Search"
+    placeholderTextColor="#8F8FAF"
+    rejectResponderTermination={true}
+    selectionColor="#7B46E4"
+    spellCheck={false}
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Light",
+        "fontSize": 27,
+        "letterSpacing": -0.11,
+        "paddingBottom": 11.5,
+        "paddingTop": 11.5,
+        "width": "70%",
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;

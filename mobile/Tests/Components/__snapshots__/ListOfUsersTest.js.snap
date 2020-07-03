@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListOfUsers should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "borderBottomWidth": 2,
+      "borderColor": "#E6ECED",
+      "flexDirection": "row",
+      "height": 120,
+      "justifyContent": "space-between",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <ForwardRef
+      activeOpacity={1}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#DCDCE9",
+          "borderRadius": 44,
+          "height": 88,
+          "justifyContent": "center",
+          "marginRight": 26,
+          "width": 88,
+        }
+      }
+    >
+      <MediumProfilePicture
+        image={
+          Object {
+            "default": "",
+          }
+        }
+        onPress={[Function]}
+        type={1}
+      />
+    </ForwardRef>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "marginRight": 26,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 36,
+            "letterSpacing": -0.12,
+          }
+        }
+      >
+        Name
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8F8FAF",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 24,
+            "letterSpacing": -0.07,
+          }
+        }
+      >
+        Optional Text
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "justifyContent": "center",
+        "width": 150,
+      }
+    }
+  >
+    <ForwardRef
+      activeOpacity={1}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderColor": "#7B46E4",
+            "borderRadius": 32,
+            "borderWidth": 2,
+            "height": 60,
+            "justifyContent": "center",
+            "width": "100%",
+          },
+          Object {
+            "borderColor": "#7B46E4",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#7B46E4",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 28,
+              "letterSpacing": -0.08,
+            },
+            Object {
+              "color": "#7B46E4",
+            },
+          ]
+        }
+      >
+        Add
+      </Text>
+    </ForwardRef>
+  </View>
+</View>
+`;

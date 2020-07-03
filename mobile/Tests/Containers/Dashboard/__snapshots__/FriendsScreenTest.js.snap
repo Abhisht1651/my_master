@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FriendsScreen should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginBottom": 36.142857142857146,
+        "marginLeft": 50,
+        "marginRight": 50,
+        "marginTop": 69,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "justifyContent": "flex-start",
+          "width": 46,
+        }
+      }
+    >
+      <SvgMock />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.28,
+          "marginLeft": 215.99999999999997,
+          "textAlign": "center",
+        }
+      }
+    >
+      Friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 32.85714285714286,
+      }
+    }
+  >
+    <SearchBarDefault
+      onSearchHandler={[Function]}
+      onSubmitEditing={[Function]}
+      onTouchStart={[Function]}
+      placeholder="Search"
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 1,
+        "width": 750,
+      }
+    }
+  />
+  <ScrollViewMock
+    contentContainerStyle={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F7F7F7",
+        "width": "100%",
+      }
+    }
+    showsVerticalScrollIndicator={false}
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "btnText": "Message",
+            "id": "1",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "btnText": "Message",
+            "id": "2",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "btnText": "Message",
+            "id": "3",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "btnText": "Message",
+            "id": "4",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "btnText": "Message",
+            "id": "5",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "btnText": "Message",
+            "id": "6",
+            "name": "Amelia Jones",
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </ScrollViewMock>
+</View>
+`;

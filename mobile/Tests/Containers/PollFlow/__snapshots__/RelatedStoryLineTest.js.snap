@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RelatedStoryLine should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "height": 44,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": 122,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "marginLeft": 37.5,
+            "width": 44,
+          }
+        }
+      />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.08,
+          "marginLeft": 142.5,
+          "opacity": 1,
+        }
+      }
+    >
+      Related StoryLines
+    </Text>
+  </View>
+  <ScrollViewMock
+    showsVerticalScrollIndicator={false}
+  >
+    <View
+      style={
+        Object {
+          "marginTop": 90.5,
+        }
+      }
+    >
+      <View
+        key="0"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <storyLineShortCardDefault
+          border={true}
+          followDisplay={true}
+          followerDisplay={true}
+          following={true}
+          friendsFollowing="45 Followers"
+          heading="World"
+          onPressFollow={[Function]}
+          reach={45}
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          updatedTime="2m"
+        />
+      </View>
+      <View
+        key="1"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <storyLineShortCardDefault
+          border={true}
+          followDisplay={true}
+          followerDisplay={true}
+          following={true}
+          friendsFollowing="45 Followers"
+          heading="World"
+          onPressFollow={[Function]}
+          reach={45}
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          updatedTime="2m"
+        />
+      </View>
+      <View
+        key="2"
+        style={
+          Object {
+            "height": 644,
+            "marginBottom": 94.5,
+            "width": 600,
+          }
+        }
+      >
+        <storyLineShortCardDefault
+          border={true}
+          followDisplay={true}
+          followerDisplay={true}
+          following={true}
+          friendsFollowing="45 Followers"
+          heading="World"
+          onPressFollow={[Function]}
+          reach={45}
+          storyImage={
+            Object {
+              "default": "",
+            }
+          }
+          storyTitle="UK exit from the European Union"
+          trending={true}
+          updatedTime="2m"
+        />
+      </View>
+    </View>
+  </ScrollViewMock>
+</View>
+`;

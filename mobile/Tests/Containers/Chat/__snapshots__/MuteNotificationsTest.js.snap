@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MuteNotifications MuteNotifications component renders correctly 1`] = `
+<Component
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#2222234D",
+        "height": 1334,
+        "justifyContent": "center",
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 15,
+          "height": 760.6428571428571,
+          "width": 650,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "borderColor": "#E6ECED",
+            "flexDirection": "row",
+            "height": 87.07142857142857,
+            "justifyContent": "center",
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          activeOpacity={1}
+          style={
+            Object {
+              "marginLeft": "auto",
+              "marginRight": 41.94,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "default": "",
+              }
+            }
+            style={
+              Object {
+                "aspectRatio": 1,
+                "height": 17.28,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 98.57142857142857,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 30,
+              "letterSpacing": -0.14,
+            }
+          }
+        >
+          Mute Notifications
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "height": 9.857142857142858,
+              "width": "100%",
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#262676",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 24,
+              "letterSpacing": -0.11,
+            }
+          }
+        >
+          Choose the time:
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 328.57142857142856,
+            "marginTop": 57.5,
+            "paddingHorizontal": 50,
+          }
+        }
+      >
+        <FlatList
+          contentContainerStyle={
+            Object {
+              "flex": 1,
+              "justifyContent": "space-around",
+            }
+          }
+          data={
+            Array [
+              Object {
+                "id": "1 day",
+                "stateProp": false,
+              },
+              Object {
+                "id": "1 week",
+                "stateProp": false,
+              },
+              Object {
+                "id": "1 month",
+                "stateProp": false,
+              },
+              Object {
+                "id": "Permanent",
+                "stateProp": false,
+              },
+            ]
+          }
+          disableVirtualization={false}
+          horizontal={false}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": "auto",
+            "marginBottom": 49.285714285714285,
+            "marginTop": "auto",
+            "width": 650,
+          }
+        }
+      >
+        <MediumThinButton
+          disabled={false}
+          onPress={[Function]}
+          style={Object {}}
+          title="Apply"
+        />
+      </View>
+    </View>
+  </View>
+</Component>
+`;

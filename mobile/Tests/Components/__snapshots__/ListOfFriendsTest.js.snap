@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListOfFriends should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12.158854166666668,
+      "height": 279.65364583333337,
+      "width": 182.3828125,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "aspectRatio": 1,
+        "height": 104.21875,
+        "marginBottom": 13.895833333333334,
+        "marginTop": 17.369791666666668,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "default": "",
+        }
+      }
+      style={
+        Object {
+          "aspectRatio": 1,
+          "borderRadius": 60,
+          "height": 104.21875,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 53.84635416666667,
+        "marginBottom": 15.6328125,
+        "width": "62.28%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Light",
+          "fontSize": 25,
+          "textAlign": "center",
+        }
+      }
+    >
+      Name
+    </Text>
+  </View>
+  <ForwardRef
+    activeOpacity={1}
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 16,
+          "borderWidth": 1,
+          "height": 52.109375,
+          "justifyContent": "center",
+          "marginBottom": 22.580729166666668,
+          "maxWidth": "95%",
+          "minWidth": "71%",
+          "paddingLeft": 8.684895833333334,
+          "paddingRight": 8.684895833333334,
+        },
+        Object {
+          "borderColor": "#7B46E4",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 25,
+            "letterSpacing": -0.08,
+          },
+          Object {
+            "color": "#7B46E4",
+          },
+        ]
+      }
+    >
+      Add
+    </Text>
+  </ForwardRef>
+</View>
+`;

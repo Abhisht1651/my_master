@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteFriendsScreen should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 115.00000000000001,
+        "paddingBottom": 13.142857142857142,
+        "paddingLeft": 50,
+        "paddingRight": 50,
+        "paddingTop": 34.5,
+        "width": 750,
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+      style={
+        Object {
+          "justifyContent": "flex-start",
+          "width": 46,
+        }
+      }
+    >
+      <SvgMock />
+    </ForwardRef>
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Bold",
+          "fontSize": 40,
+          "letterSpacing": -0.28,
+          "marginLeft": 162,
+        }
+      }
+    >
+      Invite Friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E6ECED",
+        "height": 1,
+        "marginBottom": 62.42857142857142,
+        "width": 750,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "#1F1F60",
+        "fontFamily": "BananaGrotesk-Bold",
+        "fontSize": 40,
+        "letterSpacing": -0.28,
+        "marginLeft": "10%",
+        "textAlign": "left",
+      }
+    }
+  >
+    Import your contacts to suggest connections
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 837.8571428571428,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 328.57142857142856,
+          "width": 650,
+        }
+      }
+    >
+      <ImportCard
+        onPress={[Function]}
+      />
+    </View>
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#7B46E4",
+            "fontFamily": "BananaGrotesk-Bold",
+            "fontSize": 32,
+            "letterSpacing": -0.18,
+            "marginTop": 44.35714285714286,
+          }
+        }
+      >
+        Invite Firends
+      </Text>
+    </ForwardRef>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+      }
+    }
+  >
+    <LargeButton
+      disabled={false}
+      onPress={[Function]}
+      style={Object {}}
+      title="Maybe Later"
+    />
+  </View>
+</View>
+`;

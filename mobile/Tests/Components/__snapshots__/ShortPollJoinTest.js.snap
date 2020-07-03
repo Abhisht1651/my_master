@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShortPollJoin ShortPollJoin component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECED",
+      "borderRadius": 30,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "minHeight": 206,
+      "minWidth": 250,
+      "opacity": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "paddingVertical": 17,
+        "width": "83.6%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Regular",
+          "fontSize": 32,
+          "letterSpacing": -0.11,
+          "lineHeight": 44,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Join to this poll!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#E6ECED",
+        "borderBottomWidth": 1,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "paddingTop": 35,
+        "width": "83.6%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "width": 34,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingHorizontal": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#002468",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.07,
+            "opacity": 0.5,
+            "textAlign": "left",
+          }
+        }
+      >
+        2 hours left
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": 13.5,
+        "width": "83.6%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1F1F60",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 36,
+          "letterSpacing": -0.12,
+          "lineHeight": 44,
+          "opacity": 1,
+          "textAlign": "left",
+        }
+      }
+    >
+      Who are your favorites for the World Cup 2020?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginBottom": 28,
+        "marginTop": 9,
+        "width": "83.6%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginLeft": 16,
+        }
+      }
+    >
+      <Image
+        key="0"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 56,
+            "marginLeft": -16,
+            "opacity": 1,
+            "width": 56,
+          }
+        }
+      />
+      <Image
+        key="1"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 56,
+            "marginLeft": -16,
+            "opacity": 1,
+            "width": 56,
+          }
+        }
+      />
+      <Image
+        key="2"
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 28,
+            "height": 56,
+            "marginLeft": -16,
+            "opacity": 1,
+            "width": 56,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "marginLeft": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#082366",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.1,
+            "opacity": 0.5,
+            "textAlign": "left",
+          }
+        }
+      >
+        54
+        K have voted
+      </Text>
+    </View>
+  </View>
+</View>
+`;

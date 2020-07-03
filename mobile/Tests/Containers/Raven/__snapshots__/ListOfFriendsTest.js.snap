@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RavenAll RavenAll component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "white",
+        "height": 58.623046875,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1.7369791666666665,
+        "borderColor": "#8F8FAF51",
+        "height": 112.90364583333334,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 40,
+          "left": 53.99999999999999,
+          "position": "absolute",
+          "top": 25.186197916666664,
+          "width": 44,
+        }
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+      >
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 44,
+            }
+          }
+        />
+      </ForwardRef>
+    </View>
+    <View>
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Medium",
+            "fontSize": 36,
+            "left": 130,
+            "letterSpacing": -0.24,
+            "lineHeight": 44,
+            "top": 22.580729166666664,
+            "width": 548,
+          }
+        }
+      >
+        UK exit from European Union Market of Stocks
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <FlatList
+      data={
+        Array [
+          Object {
+            "id": "1",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "2",
+            "name": "Heisenberg",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "3",
+            "name": "Black Widow",
+            "read": false,
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "4",
+            "name": "Jonas Nick",
+            "read": false,
+            "sent": "",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "5",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "6",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "7",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "8",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+          Object {
+            "id": "9",
+            "name": "Amelia Jones",
+            "read": true,
+            "sent": "Read 2 days ago",
+            "source": Object {
+              "default": "",
+            },
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReachedThreshold={2}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      showsVerticalScrollIndicator={false}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+</View>
+`;

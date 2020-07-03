@@ -1,0 +1,428 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryLineShortestCard type 1 should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "width": "90%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 136,
+          "paddingRight": 16,
+          "width": 220,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 20,
+            "height": "100%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "justifyContent": "space-between",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.08,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          World
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#1F1F60",
+              "borderRadius": 2,
+              "height": 4,
+              "marginHorizontal": 10,
+              "width": 4,
+            }
+          }
+        />
+        <Image
+          source={
+            Object {
+              "default": "",
+            }
+          }
+          style={
+            Object {
+              "height": 34,
+              "width": 34,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 28,
+              "letterSpacing": -0.08,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+           Trending
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 4,
+            "width": "70%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 32,
+              "letterSpacing": -0.11,
+              "lineHeight": 44,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Ray Contreras talks about the different accents
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`StoryLineShortestCard type 2 should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "width": "90%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 136,
+          "paddingRight": 16,
+          "width": 220,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 20,
+            "height": "100%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "justifyContent": "space-between",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "paddingTop": 4,
+            "width": "70%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 32,
+              "letterSpacing": -0.11,
+              "lineHeight": 44,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Ray Contreras talks about the different accents
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "textAlign": "left",
+            }
+          }
+        >
+          Source by
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Bold",
+              "fontSize": 24,
+              "letterSpacing": -0.07,
+              "paddingHorizontal": 5,
+              "textAlign": "left",
+            }
+          }
+        >
+          Forbes
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`StoryLineShortestCard type 3 should render the component itself correctly 1`] = `
+<View
+  style={
+    Object {
+      "width": "90%",
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.08,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+        World
+      </Text>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#1F1F60",
+            "borderRadius": 2,
+            "height": 4,
+            "marginHorizontal": 10,
+            "width": 4,
+          }
+        }
+      />
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "height": 34,
+            "width": 34,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#1F1F60",
+            "fontFamily": "BananaGrotesk-Regular",
+            "fontSize": 28,
+            "letterSpacing": -0.08,
+            "opacity": 1,
+            "textAlign": "left",
+          }
+        }
+      >
+         Trending
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#8F8FAF",
+          "fontFamily": "BananaGrotesk-Medium",
+          "fontSize": 32,
+          "letterSpacing": -0.11,
+          "lineHeight": 44,
+          "opacity": 1,
+          "paddingBottom": 10,
+          "paddingTop": 11.5,
+          "textAlign": "left",
+        }
+      }
+    >
+      UK exit from the European Union
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 136,
+          "paddingRight": 16,
+          "width": 220,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "default": "",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 20,
+            "height": "100%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "justifyContent": "space-between",
+          "width": "100%",
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#8F8FAF",
+              "fontFamily": "BananaGrotesk-Light",
+              "fontSize": 28,
+              "letterSpacing": 0,
+              "marginTop": 7.5,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Sept 21, 2019
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "paddingTop": 4,
+            "width": "70%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#1F1F60",
+              "fontFamily": "BananaGrotesk-Regular",
+              "fontSize": 32,
+              "letterSpacing": -0.11,
+              "lineHeight": 44,
+              "opacity": 1,
+              "textAlign": "left",
+            }
+          }
+        >
+          Ray Contreras talks about the different accents
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

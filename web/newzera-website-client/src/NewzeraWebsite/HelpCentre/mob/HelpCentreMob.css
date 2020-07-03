@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'BananaGrotesk-Medium';
+  src: local('BananaGrotesk-Medium'), url('../../Fonts/BananaGrotesk-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Light';
+  src: local('BananaGrotesk-Light'), url('../../Fonts/BananaGrotesk-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Semibold';
+  src: local('BananaGrotesk-Semibold'),
+    url('../../Fonts/BananaGrotesk-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Regular';
+  src: local('BananaGrotesk-Regular'),
+    url('../../Fonts/BananaGrotesk-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BananaGrotesk-Bold';
+  src: local('BananaGrotesk-Bold'), url('../../Fonts/BananaGrotesk-Bold.otf') format('opentype');
+}
+
+.para-3-1-mob {
+  font-family: 'BananaGrotesk-Medium';
+  font-size: 5.17vh;
+  line-height: 6.65vh;
+  padding: 10.25vh 52.72vw 0 7.46vw;
+  color: #ffffff;
+}
+.para-3-2-mob {
+  padding-right: 9.912vw;
+}
+.para-3-2-1-mob {
+  padding: 5.41vh 0 0 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-3-1-mob {
+  font-size: 1.97vh;
+  font-family: 'BananaGrotesk-Regular';
+  line-height: 4.43vh;
+  color: #7b46e4;
+  /*width:40vw;*/
+}
+
+.box-3-mob {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10vh;
+  background: #dcdce9 0% 0% no-repeat padding-box;
+  box-shadow: 0 0.53vw 1.06vw #00000080;
+  border-radius: 0 4vw 4vw 0px;
+  opacity: 1;
+  width: 38.53vw;
+}
+
+.selected-mob {
+  font-family: 'BananaGrotesk-Bold';
+}
+
+.selected-dot-mob {
+  padding-left: 0.2vw;
+}
+.flex-3-2-mob {
+  padding: 39.77vh 0 0 3.55vw;
+}
+.head-3-1-mob {
+  font-size: 4.18vh;
+  line-height: 4.67vh;
+  font-family: 'BananaGrotesk-Medium';
+  color: #ffffff;
+}
+.cont-3-1-mob {
+  padding-top: 4.55vh;
+  font-size: 1.72vh;
+  line-height: 3.32vh;
+  color: #dcdce9;
+  font-family: 'BananaGrotesk-Light';
+  width: 47.64vw;
+}
+.flex-dot-mob {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-3-mob {
+  padding-left: 6.13vw;
+}

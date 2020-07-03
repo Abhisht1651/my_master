@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Progress should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "width": 40,
+      }
+    }
+  >
+    <ProgressBar
+      styleType="unfilled"
+    />
+    <ProgressBar
+      styleType="unfilled"
+    />
+    <ProgressBar
+      styleType="unfilled"
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,107 @@
+.widthBackTUF{
+	width:28.84vw;
+	background-color: rgba(255,255,255,0.15);
+	border-radius: 1.38vh;
+	border-bottom-style: none;
+}
+
+.flex1TUF{
+	display: flex;
+	flex-direction: row;
+	
+}
+
+.flex2TUF{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.trendingtext1TUF{
+	font-size: 2.12vh;
+	line-height: 2.4vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:white;
+}
+
+.trendingimgTUF{
+	height: 2.56vh;
+	width: 2.56vh;
+}
+
+.followbutton1TUF{
+  	height: 5.12vh;
+  	width: 7.21vw;
+  	border-radius: 2.59vh;
+  	border-style: solid;
+  	border-color: #7B46E4;
+  	border-width: 0.09vh;
+  	font-size: 2.12vh;
+  	background-color: inherit;
+  	text-align: center;
+  	font-family: 'BananaGrotesk-Bold';
+  	color: #7B46E4;
+  	cursor: pointer;
+}
+
+.reachimgTUF{
+	height: 1.88vh;
+	width: 1.88vh;
+}
+
+.reachtextTUF{
+	font-size: 1.85vh;
+	line-height: 2.03vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:#8F8FAF;
+}
+
+.trendingheadTUF{
+	font-size: 2.5vh;
+	line-height: 4.16vh;
+	font-family: 'BananaGrotesk-Medium';
+	color:white;	
+}
+
+.trendingimg2TUF{
+	height: 30.25vh;
+	width: 28.84vw;
+	border-bottom-right-radius: 1.2vh;
+	border-bottom-left-radius: 1.2vh;
+}
+
+.textComment1PS{
+	font-size: 2.12vh;
+	line-height: 4.07vh;
+	font-family: 'BananaGrotesk-Light';
+	color:#8F8FAF;		
+}
+
+.textComment2PS{
+	font-size: 2.12vh;
+	line-height: 4.07vh;
+	font-family: 'BananaGrotesk-Regular';
+	color:#8F8FAF;		
+}
+
+.commentImgPS{
+	width: 1.44vw;
+	height: 2.15vh;
+}
+
+.textFooterPS{
+	font-size: 2.68vh;
+	line-height: 2.96vh;
+	font-family: 'BananaGrotesk-Bold';
+	color:white;			
+}
+
+.boostImgPS{
+	width: 1.17vw;
+	height: 1.79vh;
+}
+
+.shareImgPS{
+	width: 1.44vw;
+	height: 2.22vh;
+}

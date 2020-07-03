@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.blackcolor{
+	background-color: black;
+}
+
+
+input:focus {
+    outline:none !important;
+}
+
+button:focus {
+    outline:none !important;
+}
+
+button{
+  border-style: none;
+}
