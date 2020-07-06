@@ -14,6 +14,14 @@ export const getStorylineDetails =gql`
       }
     }
 `;
+export const getuser=gql`
+      query  getuser($user_id:ID!) {
+        GetUserDetails(user_id:$user_id){
+          name
+          profile_picture
+        }
+      }
+`
 
 export const updateStorylineFollowers=gql`
     mutation updateStorylineFollowers ($storyline_id:ID!,$followers:Int!,$reach:Int!){
@@ -116,6 +124,8 @@ export const USER_DETAILS = gql`
     }
   }
 `
+
+
 export const add_comment = gql`
   mutation add_comment($comment_id: ID!, $commented_by: ID!, $comment_text: String!, $resource_id: ID!, $parent_comment_id: ID!){
     AddComment(comment_id: $comment_id, commented_by: $commented_by, comment_text: $comment_text, resource_id: $resource_id, parent_comment_id: $parent_comment_id){
@@ -160,14 +170,7 @@ export const getCommentBoosts=gql`
       }
     }
 `
-export const getuser=gql`
-      query  getuser($user_id:ID!) {
-        GetUserDetails(user_id:$user_id){
-          name
-          profile_picture
-        }
-      }
-`
+
 // export const getUserAll = gql`
 //   query getUserAll($user_id: ID!) {
 //     GetUserStorylines(user: $user_id) {
@@ -219,15 +222,7 @@ export const getStorylineEvents=gql`
     }
 
 `
-// export const getMultimediaDetails=gql`
-//     query getMultimediaDetails($multimedia_id:ID!){
-//       GetMultimedia(multimedia_id:$multimedia_id){
-//         multimedia_id
-//         t_create
-//         url
-//       }
-//     }
-// `
+
 export const getRelatedStorylines=gql`
     query  getRelatedStorylines($storyline_id1:ID!) {
       getStorylineStoryline(storyline_id1:$storyline_id1){
@@ -299,36 +294,36 @@ export const getEntityDetails =gql`
 
 // // `
 
-export const getRelatedPolls =gql`
-    query   getRelatedPolls($storyline_id:ID!)  {
-      GetRelatedPollstoStoryline(storyline_id:$storyline_id){
-            poll_id
-          }
-  }
-`
+// export const getRelatedPolls =gql`
+//     query   getRelatedPolls($storyline_id:ID!)  {
+//       GetRelatedPollstoStoryline(storyline_id:$storyline_id){
+//             poll_id
+//           }
+//   }
+// `
 
-export const getPollDetails =gql`
-    query getPollDetails($poll_id:ID!) {
-      GetPoll(poll_id:$poll_id){
-        heading
-        is_open
-        created_on
-        expiring_time
-        question
+// export const getPollDetails =gql`
+//     query getPollDetails($poll_id:ID!) {
+//       GetPoll(poll_id:$poll_id){
+//         heading
+//         is_open
+//         created_on
+//         expiring_time
+//         question
         
-      }
-    }
+//       }
+//     }
 
- `
-export const getpolloption=gql`
-    query getpolloption($poll_question:ID!){
-      GetPollOptions(poll_question:$poll_question){
-        poll_option_id
-        option
-        number_of_votes
-      }
-    }
-`
+//  `
+// export const getpolloption=gql`
+//     query getpolloption($poll_question:ID!){
+//       GetPollOptions(poll_question:$poll_question){
+//         poll_option_id
+//         option
+//         number_of_votes
+//       }
+//     }
+// `
 
 // export const getStorylineGallery =gql`
 //     query getStorylineGallery($resource_id:ID!){
